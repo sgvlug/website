@@ -11,7 +11,7 @@ General Meeting: Our primary meeting is held on the 2nd Thursday of every month
 Time: 7-9pm 
 Location: Downs building, room 107, on the Caltech Campus in Pasadena (while the campus address is technically 1200 california street, the campus is quite large. The Downs building is across from the tennis courts on California at Arden)
 
-Maps: <a href="http://www.caltech.edu/map/main.html?bn=47">Campus Map</a> -- <a href="http://www.sgvlug.org/map.html">Area Map</a>
+Maps: <a href="http://www.caltech.edu/map/main.html?bn=47">Campus Map</a> -- <a href="{{ BASE_PATH}}/pages/map.html">Area Map</a>
 
 ### Upcoming meetings and other news:
 
@@ -23,10 +23,10 @@ Maps: <a href="http://www.caltech.edu/map/main.html?bn=47">Campus Map</a> -- <a 
 
 ### Useful Information
 
-<ul class="pages">
-  {% for page in site.pages %}
-    <li><a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}{% if page.description %} - {% endif %}{{ page.description }}</a></li>
-  {% endfor %}
+<ul>
+{% assign pages_list = site.pages %}
+{% assign group = "info" %}
+{% include JB/pages_list %}
 </ul>
 
 ### Mailing List

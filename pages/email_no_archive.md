@@ -2,6 +2,7 @@
 layout: page
 title: "I don't want my e-mail messages archived!"
 description: ""
+group: "info"
 ---
 {% include JB/setup %}
 	 	 
@@ -24,12 +25,12 @@ One of our members posted the following method for setting this "special header"
 
 Using Mozilla/mozilla-spinoff email, put this in your user.js:
 
-pref("mail.identity.id1.headers", "header1,header2");
-pref("mail.identity.id1.header.header1", "X-No-Archive: Yes");
-pref("mail.identity.id1.header.header2", "X-Archive: No");
-pref("mail.identity.id2.headers", "header1,header2");
-pref("mail.identity.id2.header.header1", "X-No-Archive: Yes");
-pref("mail.identity.id2.header.header2", "X-Archive: No");
-pref("mail.identity.id3.headers", "header1,header2");
-pref("mail.identity.id3.header.header1", "X-No-Archive: Yes");
-pref("mail.identity.id3.header.header2", "X-Archive: No");
+    pref("mail.identity.id1.headers", "header1,header2");
+    pref("mail.identity.id1.header.header1", "X-No-Archive: Yes");
+    pref("mail.identity.id1.header.header2", "X-Archive: No");
+    pref("mail.identity.id2.headers", "header1,header2");
+    pref("mail.identity.id2.header.header1", "X-No-Archive: Yes");
+    pref("mail.identity.id2.header.header2", "X-Archive: No");
+    pref("mail.identity.id3.headers", "header1,header2");
+    pref("mail.identity.id3.header.header1", "X-No-Archive: Yes");
+    pref("mail.identity.id3.header.header2", "X-Archive: No");
