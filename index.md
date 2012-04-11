@@ -1,46 +1,36 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome
+tagline: 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+SGVLUG attracts members from throughout the Los Angeles basin, Pasadena, Glendale, Burbank, and eastward along the San Gabriel Mountains.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+General Meeting: Our primary meeting is held on the 2nd Thursday of every month
+Time: 7-9pm 
+Location: Downs building, room 107, on the Caltech Campus in Pasadena (while the campus address is technically 1200 california street, the campus is quite large. The Downs building is across from the tennis courts on California at Arden)
 
-## Update Author Attributes
+Maps: <a href="http://www.caltech.edu/map/main.html?bn=47">Campus Map</a> -- <a href="http://www.sgvlug.org/map.html">Area Map</a>
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+### Upcoming meetings and other news:
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{% if post.meetingdate %}{{ post.meetingdate | date_to_string }}{% else %}{{ post.date | date_to_string }}{% endif %}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> {{ post.content }}</li>
   {% endfor %}
 </ul>
 
-## To-Do
+### Useful Information
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+<ul class="pages">
+  {% for page in site.pages %}
+    <li><a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}{% if page.description %} - {% endif %}{{ page.description }}</a></li>
+  {% endfor %}
+</ul>
 
+### Mailing List
 
+You can join by going to the <a href="http://sgvlug.org/mailman/listinfo/sgvlug">SGVLUG e-mail sign-up page</a>
+
+We maintain an archive of all messages posted to the list. If you are concerned about the possibility that your e-mail address might become "harvested" because it is on a web page, see this item in the FAQs about <a href="{{ BASE_PATH }}pages/email_no_archive.html">"how to avoid having your e-mail archived"</a>
