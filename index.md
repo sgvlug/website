@@ -5,6 +5,20 @@ tagline:
 ---
 {% include JB/setup %}
 
+### Upcoming / Most Recent Meeting
+
+<div>
+{% assign found_first_meeting = false %}
+{% for post in site.posts %}
+  {% if post.category == "meetings" and found_first_meeting == false %}
+    {% assign found_first_meeting = true %}
+    <div><span>{% if post.meetingdate %}{{ post.meetingdate | date_to_long_string }}{% else %}{{ post.date | date_to_string }}{% endif %}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> {{ post.content | markdownify  }}</div>
+  {% endif %}
+{% endfor %}
+</div>
+
+### About
+
 SGVLUG attracts members from throughout the Los Angeles basin, Pasadena, Glendale, Burbank, and eastward along the San Gabriel Mountains.
 
 General Meeting: Our primary meeting is held on the 2nd Thursday of every month
@@ -12,14 +26,6 @@ Time: 7-9pm
 Location: Downs building, room 107, on the Caltech Campus in Pasadena (while the campus address is technically 1200 california street, the campus is quite large. The Downs building is across from the tennis courts on California at Arden)
 
 Maps: <a href="http://www.caltech.edu/map/main.html?bn=47">Campus Map</a> -- <a href="{{ BASE_PATH}}/pages/map.html">Area Map</a>
-
-### Upcoming meetings and other news:
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{% if post.meetingdate %}{{ post.meetingdate | date_to_string }}{% else %}{{ post.date | date_to_string }}{% endif %}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> {{ post.content }}</li>
-  {% endfor %}
-</ul>
 
 ### Useful Information
 
