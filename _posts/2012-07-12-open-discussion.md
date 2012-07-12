@@ -11,5 +11,5 @@ meetingdate: 2012-07-12
 No scheduled speaker. Open discussion continued afterwards at Burger Continental.
 
 Speaker: You! <br/>
-Date: Thursday, July 11, 2012 @ 7 pm <br/>
+Date: Thursday, July 12, 2012 @ 7 pm <br/>
 Location: Caltech - Downs 107
