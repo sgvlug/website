@@ -1,0 +1,3 @@
+[submodule ".themes/darkstripes"]
+	path = .themes/darkstripes
+	url = git://github.com/amelandri/darkstripes.git
