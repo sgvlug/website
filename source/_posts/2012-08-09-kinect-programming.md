@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kinect PRogramming"
+title: "Kinect Programming"
 description: "Meeting for August 2012"
 category: meetings
 tags: [meeting]

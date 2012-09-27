@@ -1,14 +1,12 @@
 ---
 layout: page
 title: "I don't want my e-mail messages archived!"
-description: ""
-group: "info"
+date: 2005-09-20 14:15
+comments: true
+sharing: true
+footer: true
+category: "info"
 ---
-{% include JB/setup %}
-	 	 
-Written by Tom Emerson
-
-Tuesday, 20 September 2005
 
 Hey, I see you archive all e-mails and make them available on the web -- I don't want this, what can I do?
 
@@ -34,3 +32,5 @@ Using Mozilla/mozilla-spinoff email, put this in your user.js:
     pref("mail.identity.id3.headers", "header1,header2");
     pref("mail.identity.id3.header.header1", "X-No-Archive: Yes");
     pref("mail.identity.id3.header.header2", "X-Archive: No");
+
+Written by Tom Emerson

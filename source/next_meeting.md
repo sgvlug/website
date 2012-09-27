@@ -1,14 +1,12 @@
 ---
 layout: page
 title: "What is the next meeting about?"
-description: ""
-group: info
+date: 2007-05-14 14:15
+comments: true
+sharing: true
+footer: true
+category: "info"
 ---
-{% include JB/setup %}
-
-Written by Tom Emerson
-
-Monday, 14 May 2007
 
 Our group prides itself in being a "functional anarchy" -- which means the responsibility to find and secure a presenter for any given month falls to "everybody". Note that while technically this would only be "somebody", and in theory could actually be "anybody", often, in practice, it ends up being "nobody"...
 
@@ -24,3 +22,5 @@ This is where *you* come in: if you know of someone (perhaps even yourself) who 
 4. Important: contact information so that "someone" here can call and confirm a few days prior to the meeting that they will be able to make it (and/or that they remember that they were going to do a presentation...) Note: this will be kept confidential and will not be posted to the site (unless the presenter wants it posted -- please have them confirm this directly)
 
 This information will be posted on our website about a month in advance of the meeting. It will also be posted to the Caltech/JPL calendar and possibly other publications (if we can get a listing posted in time) We encourage you to tell your friends, enemies, co-workers, and the like about it as well.
+
+Written by Tom Emerson
