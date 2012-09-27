@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2008-01-10
 ---
-{% include JB/setup %}
 
 Dan Kegel of Google, a longtime Linux user and developer, will present a       
 grab-bag of interesting topics:                                                

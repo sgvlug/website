@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2005-10-13
 ---
-{% include JB/setup %}
 
 SGVLUG General Meeting                                                         
                                                                              

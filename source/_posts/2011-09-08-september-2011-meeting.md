@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2011-09-08
 ---
-{% include JB/setup %}
 
 SGVLUG meeting 9/8 7-9pm                                                       
                                                                              

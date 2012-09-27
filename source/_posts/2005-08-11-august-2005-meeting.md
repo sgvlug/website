@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2005-08-11
 ---
-{% include JB/setup %}
 
 Orv Beach has been messing with computers for over 20 years. His first         
 experience with computer operating systems was with CP/M, in the early '80s.   

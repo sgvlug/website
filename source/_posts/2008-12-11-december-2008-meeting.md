@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2008-12-11
 ---
-{% include JB/setup %}
 
 In a talk called "How to Crack WEP and WPA Using Debian GNU/Linux," Jeff       
 Henbest, the president of Cal Poly SWIFT of California State Polytechnic       

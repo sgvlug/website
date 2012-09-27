@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2010-10-14
 ---
-{% include JB/setup %}
 
 Filling the Digital Divide with Offline Content: Six ways to deliver a library 
 anywhere for under $90                                                         

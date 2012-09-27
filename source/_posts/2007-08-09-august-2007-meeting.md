@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2007-08-09
 ---
-{% include JB/setup %}
 
 X509 and SSL are complicated topics. While they share the basic PKI            
 infrastructure that PGP and others do, X509 (and SSL by extension) are more    

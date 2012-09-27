@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2010-08-12
 ---
-{% include JB/setup %}
 
 Simone Bernacchia will be speaking about AROS which is a free and open source  
 implementation of the AmigaOS.                                                 

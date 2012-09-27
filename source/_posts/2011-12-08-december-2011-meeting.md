@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2011-12-08
 ---
-{% include JB/setup %}
 
 Topic: Virtual Private Servers: On a Budget                                    
                                                                              

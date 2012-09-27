@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2010-12-09
 ---
-{% include JB/setup %}
 
 Steven will be doing a presentation on "Software Complexity."                  
                                                                              

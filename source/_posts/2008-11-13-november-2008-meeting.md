@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2008-11-13
 ---
-{% include JB/setup %}
 
 "Shakin' It up at Caltech" Rae Yip and Shang-Lin will give an overview of the  
 open-source software in use at the Caltech Seismology Lab.                     

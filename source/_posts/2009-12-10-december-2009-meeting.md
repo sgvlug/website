@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2009-12-10
 ---
-{% include JB/setup %}
 
 If the FC12 speaker is not available, the topic will probably be about         
 security in general.                                                           

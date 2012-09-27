@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2012-05-10
 ---
-{% include JB/setup %}
 
 
 The Raspberry Pi is a $35, 256MB educational computer that runs Linux.

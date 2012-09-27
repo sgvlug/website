@@ -22,9 +22,9 @@ deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
 themes_dir      = ".themes"   # directory for blog files
-new_post_ext    = "markdown"  # default new post file extension when using the new_post task
-new_page_ext    = "markdown"  # default new page file extension when using the new_page task
-server_port     = "4000"      # port for preview server eg. localhost:4000
+new_post_ext    = "md"        # default new post file extension when using the new_post task
+new_page_ext    = "md"        # default new page file extension when using the new_page task
+server_port     = "57570"     # port for preview server eg. localhost:4000
 
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"

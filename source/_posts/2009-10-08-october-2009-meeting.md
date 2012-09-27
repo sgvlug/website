@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2009-10-08
 ---
-{% include JB/setup %}
 
 Topic: Open Street Map: What, Why, and How                                     
                                                                              

@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2006-11-09
 ---
-{% include JB/setup %}
 
 Monitoring the Local Weather with Linux                                        
                                                                              

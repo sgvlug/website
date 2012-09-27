@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2009-11-12
 ---
-{% include JB/setup %}
 
 Topic for November: Answering the Northrup Grumman Lunar Lander X PRIZE        
 Challenge                                                                      

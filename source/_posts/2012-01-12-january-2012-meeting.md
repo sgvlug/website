@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2012-01-12
 ---
-{% include JB/setup %}
 
 Topic: Horror Stories and Trouble shooting!                                    
                                                                              

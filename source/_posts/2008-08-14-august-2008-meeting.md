@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2008-08-14
 ---
-{% include JB/setup %}
 
 Ubuntu is the said to be the biggest thing in desktop Linux at the moment, but 
 Neal and Nathan are here to cut through the hype and show you how Ubuntu can   

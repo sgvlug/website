@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2010-11-11
 ---
-{% include JB/setup %}
 
 Dan Kegel will show off a bunch of popular games running on Linux and explain  
 how to install them. This will be a very informal event and will last about 30 

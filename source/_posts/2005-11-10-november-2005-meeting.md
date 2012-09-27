@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2005-11-10
 ---
-{% include JB/setup %}
 
 Monthly meeting.                                                               
                                                                              

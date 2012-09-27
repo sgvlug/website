@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2007-10-11
 ---
-{% include JB/setup %}
 
 Kris Bergstrom will give an introduction to the extremely powerful LaTeX       
 typesetting system and its application to real-world document production. He   

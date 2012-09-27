@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2008-09-11
 ---
-{% include JB/setup %}
 
 Michael Proctor-Smith will give an update on MythTV (the Mythical Convergence  
 Box), the open-source alternative to TiVo or Windows Media Center. More than   

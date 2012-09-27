@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2011-11-10
 ---
-{% include JB/setup %}
 
 Topic: VPN: Keep the Spies away!                                               
                                                                              

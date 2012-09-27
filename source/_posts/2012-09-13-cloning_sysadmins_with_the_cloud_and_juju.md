@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2012-09-13
 ---
-{% include JB/setup %}
 
 Its time to face the music: There's only a couple guys in Ops, and a
 lot of infrastructure to set up and it was all due yesterday. If only

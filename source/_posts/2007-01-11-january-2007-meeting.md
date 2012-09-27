@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2007-01-11
 ---
-{% include JB/setup %}
 
 Kerry Garrison, Senior Product Manager for Trixbox, will be on hand to         
 demostrate installing and setting up a complete PBX system with their new      

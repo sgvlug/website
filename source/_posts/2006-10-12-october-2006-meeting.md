@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2006-10-12
 ---
-{% include JB/setup %}
 
 MySQL replication. MySQL Replication is the means by which one or more MySQL   
 databases can keep data synchronized with a master server. The scope of        

@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2010-01-14
 ---
-{% include JB/setup %}
 
 A Case Study in Open Source Software Development                               
                                                                              

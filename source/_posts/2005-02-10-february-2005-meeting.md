@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2005-02-10
 ---
-{% include JB/setup %}
 
 Mark Echeverri, who has years of experience in traditional software and        
 systems engineering, says: "For the past couple of months, I've been working   

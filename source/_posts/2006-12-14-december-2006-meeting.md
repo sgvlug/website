@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2006-12-14
 ---
-{% include JB/setup %}
 
 Why Linux needs to be more like Windows -or- Impediments to enterprise Linux   
 adoption                                                                       

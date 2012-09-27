@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2006-09-14
 ---
-{% include JB/setup %}
 
 Open Forum.                                                                    
                                                                              

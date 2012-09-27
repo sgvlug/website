@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2003-09-11
 ---
-{% include JB/setup %}
 
 At this month's meeting of the SGVLUG, Tim Frichtel will tell how his company  
 uses Postfix and Spamassassin to manage spam and provide reliable email for    

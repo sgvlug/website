@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2007-09-13
 ---
-{% include JB/setup %}
 
 Kerry Garrison is back to demo the new trixbox Pro product from Fonality. This 
 latest incarnation uses the hybrid-hosted model developed by Fonality for      

@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2009-08-13
 ---
-{% include JB/setup %}
 
 Possible topics include Defcon.                                                
                                                                              

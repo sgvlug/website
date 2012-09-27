@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2005-09-08
 ---
-{% include JB/setup %}
 
 Matt Ingenthron from Sun Microsystems will review Sun's involvement in the     
 various open source communities and talk a bit about the latest, greatest hunk 

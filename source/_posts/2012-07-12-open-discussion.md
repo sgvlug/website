@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2012-07-12
 ---
-{% include JB/setup %}
 
 No scheduled speaker. Open discussion continued afterwards at Burger Continental.
 

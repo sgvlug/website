@@ -6,7 +6,6 @@ category: meetings
 tags: [meeting]
 meetingdate: 2012-02-09
 ---
-{% include JB/setup %}
 
 Matt Cambell and Miguel Hernandez will talk about Drupal and their experiences 
 with using it to revamp the SGVLUG website.                                    
