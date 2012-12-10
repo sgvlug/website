@@ -34,4 +34,4 @@ only limitation in speed of deployment is the hardware.
 
 Speaker:  David Rodriguez <br/> 
 Date: Thursday, December 13th, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 269 
+Location: Caltech - Lauritsen 269 (Connected to Downs)
