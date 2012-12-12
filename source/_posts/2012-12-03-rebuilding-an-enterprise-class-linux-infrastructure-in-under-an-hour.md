@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Rebuilding an Entreprise Class Linux Infrastructure in Under an Hour"
+title: "Rebuilding an Enterprise Class Linux Infrastructure in Under an Hour"
 date: 2012-12-03 10:16
 comments: true
 categories: 
 ---
+
+***Please note that we are in a different room this month. Signs will be posted, but please check out the directions given under Location:***
 
 A modern day Linux Infrastructure should be flexible, scalable and able to deal
 with the constant changes any business will require.  Automation is key to a
@@ -30,8 +32,7 @@ will discuss how Chef can be used to rebuild an Entire infrastructure
 (regardless of size or complexity) in a time previous thought impossible.  The
 only limitation in speed of deployment is the hardware.  
 
-***Please note that we are in a different room this month.***
 
 Speaker:  David Rodriguez <br/> 
 Date: Thursday, December 13th, 2012 @ 7 pm <br/>
-Location: Caltech - Lauritsen 269 (Connected to Downs)
+Location: Caltech - Lauritsen 269.  Lauritsen is connected to Downs; the room is a lecture hall on the 2nd floor towards northeast end. The buildings are located across from the tennis courts on California at Arden. If you enter near our usual room (Downs 107),  go down the hallway, hang a right, go past the elevators, and take the stairs up one level.  As soon as you come out on the 2nd floor, the classroom is on the left hand side.  If you take the elevator, you will want to head left after getting off the elevator.  (There is a map taped next to elevator on the 2nd floor that shows the layout of Lauritsen.) 
