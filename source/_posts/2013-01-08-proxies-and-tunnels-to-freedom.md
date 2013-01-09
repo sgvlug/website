@@ -13,3 +13,5 @@ Bio:  Michael Starch was born in the far-frozen Northlands of the American Midwe
 Speaker: Michael Starch <br/>
 Date: Thursday, January 10th, 2013 @ 7 pm <br/>
 Location: Caltech - Downs 107
+
+Note: There will be a brief presentation before the talk where Lan Dang will share her experiences rooting the Nook Simple Touch.
