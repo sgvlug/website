@@ -7,8 +7,10 @@ This site uses [Octopress](http://octopress.org/). In order to contribute you mu
 The "master" branch is the Jekyll processed version of the site. It is the branch that will show this README when you view the website's Github source. Do not edit on this branch, instead edit on the "source" branch. To set up your clone of the site properly, perform the following steps:
 
      git clone git@github.com:sgvlug/sgvlug.github.com.git
+     cd sgvlug.github.com
      git checkout source # checkout the branch where you make changes
      rake setup_github_pages[git@github.com:sgvlug/sgvlug.github.com.git] # setup Octopress to enable deploy task
+     cd _deploy ; git fetch ; git rebase origin/master ; cd .. # pull existing generated pages
 
 You can [add content](http://octopress.org/docs/blogging/) with one of these two commands:
 
