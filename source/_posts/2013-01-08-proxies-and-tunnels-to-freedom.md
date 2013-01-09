@@ -12,4 +12,4 @@ Bio:  Michael Starch was born in the far-frozen Northlands of the American Midwe
 
 Speaker: Michael Starch <br/>
 Date: Thursday, January 10th, 2013 @ 7 pm <br/>
-Location: TBD 
+Location: Caltech - Downs 107
