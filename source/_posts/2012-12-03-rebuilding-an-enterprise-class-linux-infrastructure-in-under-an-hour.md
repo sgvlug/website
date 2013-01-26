@@ -6,6 +6,8 @@ comments: true
 categories: 
 ---
 
+<iframe width="960" height="720" src="http://www.youtube.com/embed/WwtgfQJ0MzI" frameborder="0" allowfullscreen></iframe>
+
 ***Please note that we are in a different room this month. Signs will be posted, but please check out the directions given under Location:***
 
 A modern day Linux Infrastructure should be flexible, scalable and able to deal
