@@ -11,7 +11,7 @@ Lan Dang will demonstrate some of her favorite tricks for the Vim text editor as
 Whether you use Vim as seldom as possible or you use it every day, you will learn something from this session.
 
 __Speaker:__ Lan Dang + SGVLUG <br/>
-__Date:__ Thursday February 10th, 2013 @ 7 pm <br/>
+__Date:__ Thursday February 14th, 2013 @ 7 pm <br/>
 __Location:__ Caltech - Downs 107. <br/>
 The Downs building is across from the tennis  courts on California at Arden. 
 
