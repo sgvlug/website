@@ -13,5 +13,5 @@ Chris Mattmann is the Compute Lead for the ASO project and he will humbly tell t
 
 __Speaker:__ Chris Mattman <br/>
 __Date:__ Thursday November 14th, 2013 @ 7 pm <br/>
-__Location:__ Caltech - TBD <br/>
+__Location:__ Caltech - Downs 107. <br/>
 The Downs building is across from the tennis  courts on California at Arden. 
