@@ -8,7 +8,8 @@ categories:
 GitHub Enterprise for JPL is a new collaboration center that aims to improve the state of software development by promoting collaboration between software developers. Come hear the story behind how this new service came into being and how state-of-the-art software development tools are being promoted on the grounds of the Jet Propulsion Laboratory.
 
 Bio: 
-David Mittman (forthcoming)
+
+David Mittman is Deputy Manager for Planning and Execution Systems at the Jet Propulsion Laboratory, where he leads the development of the Section’s portfolio of software for planning and monitoring the execution of activities on JPL’s robotic spacecraft. David has developed software and operated space flight missions for over 25 years and has recently started concentrating on modernizing the state of software development at JPL.
 
 Bret George (forthcoming)
 
