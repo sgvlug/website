@@ -11,7 +11,7 @@ Bio:
 
 David Mittman is Deputy Manager for Planning and Execution Systems at the Jet Propulsion Laboratory, where he leads the development of the Section’s portfolio of software for planning and monitoring the execution of activities on JPL’s robotic spacecraft. David has developed software and operated space flight missions for over 25 years and has recently started concentrating on modernizing the state of software development at JPL.
 
-Bret George (forthcoming)
+Brett George is a Software Engineer in the Data Services group at the Jet Propulsion Laboratory.  Brett got his start writing instrument control and data acquisition software for neutron spectrometers at the National Institute of Standards and Technology.  Since coming to JPL, he has been part of a core group of engineers leading the research and development of cloud technology to empower missions across the lab and beyond.
 
 Robert Witoff is the IT Data Scientist at the NASA Jet Propulsion Laboratory and a Y Combinator startup founder.  His background includes development lead for interplanetary data visualization software and space station systems lead for the experimental OPALS laser communication satellite.  Rob is NASA’s first IT Data Scientist and his data science team is incubating solutions to Big Data problems for spacebound explorers, earthborn assets and the people that make them possible.
 
