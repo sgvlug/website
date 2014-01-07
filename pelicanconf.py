@@ -28,7 +28,7 @@ SUMMARY_MAX_LENGTH = None
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-STATIC_PATHS = ['images', 'slides']
+STATIC_PATHS = ['images', 'slides', "favicon.png", "CNAME"]
 
 THEME = 'theme/bootstrap3'
 DISPLAY_PAGES_ON_MENU = False
