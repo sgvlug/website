@@ -16,7 +16,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = None
+LINKS = ( ('Mailing List', 'http://sgvlug.net/mailman/listinfo/sgvlug'),
+          ('SGVHAK', 'http://www.sgvhak.org/'), )
 
 # Social widget
 SOCIAL =  None
