@@ -1,8 +1,5 @@
 layout: post
 Title: "September 2008 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2008-09-11
 
 Michael Proctor-Smith will give an update on MythTV (the Mythical Convergence  

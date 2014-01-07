@@ -1,8 +1,5 @@
 layout: post
 Title: "October 2009 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2009-10-08
 
 Topic: Open Street Map: What, Why, and How                                     

@@ -1,8 +1,6 @@
 layout: post
 Title: "Cloning SysAdmins with the Cloud and Juju"
 description: "Meeting for September 2012"
-Category: meetings
-tags: [meeting]
 meetingdate: 2012-09-13
 
 Its time to face the music: There's only a couple guys in Ops, and a

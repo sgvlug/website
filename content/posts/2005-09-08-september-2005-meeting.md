@@ -1,8 +1,5 @@
 layout: post
 Title: "September 2005 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2005-09-08
 
 Matt Ingenthron from Sun Microsystems will review Sun's involvement in the     

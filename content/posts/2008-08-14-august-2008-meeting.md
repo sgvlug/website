@@ -1,8 +1,5 @@
 layout: post
 Title: "August 2008 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2008-08-14
 
 Ubuntu is the said to be the biggest thing in desktop Linux at the moment, but 

@@ -1,8 +1,5 @@
 layout: post
 Title: "December 2010 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2010-12-09
 
 Steven will be doing a presentation on "Software Complexity."                  

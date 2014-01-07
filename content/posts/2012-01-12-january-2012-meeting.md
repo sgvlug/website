@@ -1,8 +1,5 @@
 layout: post
 Title: "January 2012 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2012-01-12
 
 Topic: Horror Stories and Trouble shooting!                                    

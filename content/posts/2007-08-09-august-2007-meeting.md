@@ -1,8 +1,5 @@
 layout: post
 Title: "August 2007 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2007-08-09
 
 X509 and SSL are complicated topics. While they share the basic PKI            

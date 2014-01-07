@@ -1,8 +1,5 @@
 layout: post
 Title: "February 2007 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2007-02-08
 
 At this month's meeting, the group will discuss what to have on display at the 

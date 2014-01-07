@@ -1,8 +1,5 @@
 layout: post
 Title: "October 2006 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2006-10-12
 
 MySQL replication. MySQL Replication is the means by which one or more MySQL   

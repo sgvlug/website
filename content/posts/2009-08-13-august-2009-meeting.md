@@ -1,8 +1,5 @@
 layout: post
 Title: "August 2009 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2009-08-13
 
 Possible topics include Defcon.                                                

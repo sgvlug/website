@@ -1,8 +1,5 @@
 layout: post
 Title: "February 2012 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2012-02-09
 
 Matt Cambell and Miguel Hernandez will talk about Drupal and their experiences 

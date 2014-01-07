@@ -1,8 +1,5 @@
 layout: post
 Title: "December 2009 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2009-12-10
 
 If the FC12 speaker is not available, the topic will probably be about         

@@ -1,8 +1,5 @@
 layout: post
 Title: "September 2003 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2003-09-11
 
 At this month's meeting of the SGVLUG, Tim Frichtel will tell how his company  

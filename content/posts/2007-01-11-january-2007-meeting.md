@@ -1,8 +1,5 @@
 layout: post
 Title: "January 2007 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2007-01-11
 
 Kerry Garrison, Senior Product Manager for Trixbox, will be on hand to         

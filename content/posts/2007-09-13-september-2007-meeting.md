@@ -1,8 +1,5 @@
 layout: post
 Title: "September 2007 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2007-09-13
 
 Kerry Garrison is back to demo the new trixbox Pro product from Fonality. This 

@@ -1,8 +1,6 @@
 layout: post
 Title: "Rasberry Pi"
 description: "Meeting for May 2012"
-Category: meetings
-tags: [meeting]
 meetingdate: 2012-05-10
 
 

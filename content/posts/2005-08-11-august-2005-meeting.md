@@ -1,8 +1,5 @@
 layout: post
 Title: "August 2005 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2005-08-11
 
 Orv Beach has been messing with computers for over 20 years. His first         

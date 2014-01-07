@@ -1,8 +1,5 @@
 layout: post
 Title: "February 2009 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2009-02-12
 
 In a talk called "Mapping Wireless Access Points," Peter J. Sprenger will talk 

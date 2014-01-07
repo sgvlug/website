@@ -1,8 +1,5 @@
 layout: post
 Title: "August 2010 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2010-08-12
 
 Simone Bernacchia will be speaking about AROS which is a free and open source  

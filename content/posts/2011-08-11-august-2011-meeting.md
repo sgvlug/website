@@ -1,8 +1,5 @@
 layout: post
 Title: "August 2011 Meeting"
-description: ""
-Category: meetings
-tags: [meeting]
 meetingdate: 2011-08-11
 
 Monthly Meeting.                                                               
