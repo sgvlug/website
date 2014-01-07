@@ -23,7 +23,7 @@ LINKS = ( ('Mailing List', 'http://sgvlug.net/mailman/listinfo/sgvlug'),
 # Social widget
 SOCIAL =  None
 
-DEFAULT_PAGINATION = 10 
+DEFAULT_PAGINATION = 6 
 SUMMARY_MAX_LENGTH = None
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
@@ -32,6 +32,10 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 STATIC_PATHS = ['images', 'slides', "favicon.png", "CNAME"]
 
 THEME = 'theme/bootstrap3'
+BOOTSTRAP_THEME = 'cosmo'
+
+PAGES_NAME = 'Info'
+
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
