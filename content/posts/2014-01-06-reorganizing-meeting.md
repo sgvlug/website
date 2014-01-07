@@ -1,10 +1,7 @@
----
 layout: post
-title: "Reorganizing Meeting"
-date: 2014-01-06 10:03
-comments: true
+Title: "Reorganizing Meeting"
+Date: 2014-01-06 10:03
 categories: 
----
 _<font color="red">NOTE: We are no longer meeting at Caltech.  Please check each meeting notice to see where we will be meeting.</font>_
 
 This month we are meeting at Burger Continental, not just for dinner but for the whole meeting.  We will be in the back room that is on your left just as you walk in from the back parking lot. The meeting will be focused on organizing future meetings and group business. The topics for discussion are:

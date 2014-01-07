@@ -1,11 +1,9 @@
----
 layout: post
-title: "Kinect Programming"
+Title: "Kinect Programming"
 description: "Meeting for August 2012"
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2012-08-09
----
 
 Doug Vargas will talk about programming for the Kinect motion sensing input device by Microsoft.
 

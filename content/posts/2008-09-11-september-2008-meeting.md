@@ -1,11 +1,9 @@
----
 layout: post
-title: "September 2008 Meeting"
+Title: "September 2008 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2008-09-11
----
 
 Michael Proctor-Smith will give an update on MythTV (the Mythical Convergence  
 Box), the open-source alternative to TiVo or Windows Media Center. More than   

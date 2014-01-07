@@ -1,11 +1,9 @@
----
 layout: post
-title: "November 2010 Meeting"
+Title: "November 2010 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2010-11-11
----
 
 Dan Kegel will show off a bunch of popular games running on Linux and explain  
 how to install them. This will be a very informal event and will last about 30 

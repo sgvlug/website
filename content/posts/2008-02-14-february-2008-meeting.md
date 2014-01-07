@@ -1,11 +1,9 @@
----
 layout: post
-title: "February 2008 Meeting"
+Title: "February 2008 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2008-02-14
----
 
 Chris got his kid an "OLPC" laptop and thinks he can wrestle it away from him  
 long enough for some "show-n-tell"...                                          

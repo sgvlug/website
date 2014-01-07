@@ -1,11 +1,9 @@
----
 layout: post
-title: "October 2006 Meeting"
+Title: "October 2006 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2006-10-12
----
 
 MySQL replication. MySQL Replication is the means by which one or more MySQL   
 databases can keep data synchronized with a master server. The scope of        

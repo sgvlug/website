@@ -1,10 +1,7 @@
----
 layout: post
-title: "Open Discussion"
-date: 2012-11-05 18:36
-comments: true
+Title: "Open Discussion"
+Date: 2012-11-05 18:36
 categories: 
----
 
 There is no scheduled speaker. We will have open discussion, continued afterwards at Burger Continental.
 

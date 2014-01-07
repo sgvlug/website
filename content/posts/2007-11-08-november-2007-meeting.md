@@ -1,11 +1,9 @@
----
 layout: post
-title: "November 2007 Meeting"
+Title: "November 2007 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2007-11-08
----
 
 Asterisk is an open-source PBX program that provides automatic call            
 distribution, voice mail and interactive voice response menus. X10 is a        

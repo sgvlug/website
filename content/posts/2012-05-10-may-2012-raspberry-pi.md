@@ -1,11 +1,9 @@
----
 layout: post
-title: "Rasberry Pi"
+Title: "Rasberry Pi"
 description: "Meeting for May 2012"
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2012-05-10
----
 
 
 The Raspberry Pi is a $35, 256MB educational computer that runs Linux.

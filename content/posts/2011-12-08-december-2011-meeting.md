@@ -1,11 +1,9 @@
----
 layout: post
-title: "December 2011 Meeting"
+Title: "December 2011 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2011-12-08
----
 
 Topic: Virtual Private Servers: On a Budget                                    
                                                                              

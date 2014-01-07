@@ -1,11 +1,9 @@
----
 layout: post
-title: "August 2008 Meeting"
+Title: "August 2008 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2008-08-14
----
 
 Ubuntu is the said to be the biggest thing in desktop Linux at the moment, but 
 Neal and Nathan are here to cut through the hype and show you how Ubuntu can   

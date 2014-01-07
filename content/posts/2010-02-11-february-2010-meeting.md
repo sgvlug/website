@@ -1,11 +1,9 @@
----
 layout: post
-title: "February 2010 Meeting"
+Title: "February 2010 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2010-02-11
----
 
 Monthly meeting.                                                               
                                                                              

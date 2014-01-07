@@ -1,11 +1,9 @@
----
 layout: post
-title: "February 2012 Meeting"
+Title: "February 2012 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2012-02-09
----
 
 Matt Cambell and Miguel Hernandez will talk about Drupal and their experiences 
 with using it to revamp the SGVLUG website.                                    

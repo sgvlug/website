@@ -1,10 +1,7 @@
----
 layout: post
-title: "Distributed Version Control &amp; Mercurial"
-date: 2013-07-09 12:37
-comments: true
+Title: "Distributed Version Control &amp; Mercurial"
+Date: 2013-07-09 12:37
 categories: 
----
 
 Lan will talk about distributed version control systems (DVCS) with a focus on Mercurial. The talk will be suitable for both beginners and advanced users.
 

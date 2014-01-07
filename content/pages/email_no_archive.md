@@ -1,12 +1,6 @@
----
-layout: page
-title: "I don't want my e-mail messages archived!"
+Title: "I don't want my e-mail messages archived!"
 date: 2005-09-20 14:15
-comments: true
-sharing: true
-footer: true
-category: "info"
----
+Category: "info"
 
 Hey, I see you archive all e-mails and make them available on the web -- I don't want this, what can I do?
 

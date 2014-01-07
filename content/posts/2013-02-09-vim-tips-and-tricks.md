@@ -1,10 +1,7 @@
----
 layout: post
-title: "Vim Tips and Tricks: A Roundtable Discussion"
-date: 2013-02-09 21:12
-comments: true
+Title: "Vim Tips and Tricks: A Roundtable Discussion"
+Date: 2013-02-09 21:12
 categories: 
----
 
 Lan Dang will demonstrate some of her favorite tricks for the Vim text editor as well as useful vi key bindings. She welcomes everyone to contribute their own tips.  At the end, we hope to gather our tips and use cases into a document, which will be linked through the website.
 

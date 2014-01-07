@@ -1,11 +1,9 @@
----
 layout: post
-title: "February 2009 Meeting"
+Title: "February 2009 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2009-02-12
----
 
 In a talk called "Mapping Wireless Access Points," Peter J. Sprenger will talk 
 about making a small toughbook into a Linux car navigation system. He also     

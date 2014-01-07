@@ -1,10 +1,7 @@
----
 layout: post
-title: "Rebuilding an Enterprise Class Linux Infrastructure in Under an Hour"
-date: 2012-12-03 10:16
-comments: true
+Title: "Rebuilding an Enterprise Class Linux Infrastructure in Under an Hour"
+Date: 2012-12-03 10:16
 categories: 
----
 
 <iframe width="960" height="720" src="http://www.youtube.com/embed/WwtgfQJ0MzI" frameborder="0" allowfullscreen></iframe>
 

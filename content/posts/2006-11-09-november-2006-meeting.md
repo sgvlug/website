@@ -1,11 +1,9 @@
----
 layout: post
-title: "November 2006 Meeting"
+Title: "November 2006 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2006-11-09
----
 
 Monitoring the Local Weather with Linux                                        
                                                                              

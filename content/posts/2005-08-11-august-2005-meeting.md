@@ -1,11 +1,9 @@
----
 layout: post
-title: "August 2005 Meeting"
+Title: "August 2005 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2005-08-11
----
 
 Orv Beach has been messing with computers for over 20 years. His first         
 experience with computer operating systems was with CP/M, in the early '80s.   

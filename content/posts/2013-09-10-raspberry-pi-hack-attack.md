@@ -1,10 +1,7 @@
----
 layout: post
-title: "Introduction to Security using Raspberry Pis"
-date: 2013-09-10 15:49
-comments: true
+Title: "Introduction to Security using Raspberry Pis"
+Date: 2013-09-10 15:49
 categories: 
----
 
 
 We will demonstrate 4 basic security topics, all using the Rasberry Pi computer.  

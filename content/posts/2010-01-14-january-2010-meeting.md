@@ -1,11 +1,9 @@
----
 layout: post
-title: "January 2010 Meeting"
+Title: "January 2010 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2010-01-14
----
 
 A Case Study in Open Source Software Development                               
                                                                              

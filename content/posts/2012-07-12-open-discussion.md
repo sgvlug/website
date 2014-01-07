@@ -1,11 +1,9 @@
----
 layout: post
-title: "Open Discussion"
+Title: "Open Discussion"
 description: "Meeting for July 2012"
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2012-07-12
----
 
 No scheduled speaker. Open discussion continued afterwards at Burger Continental.
 

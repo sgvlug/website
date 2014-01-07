@@ -1,11 +1,9 @@
----
 layout: post
-title: "December 2006 Meeting"
+Title: "December 2006 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2006-12-14
----
 
 Why Linux needs to be more like Windows -or- Impediments to enterprise Linux   
 adoption                                                                       

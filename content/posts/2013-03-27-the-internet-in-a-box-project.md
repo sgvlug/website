@@ -1,10 +1,7 @@
----
 layout: post
-title: "The Internet-in-a-Box Project"
-date: 2013-03-27 14:56
-comments: true
+Title: "The Internet-in-a-Box Project"
+Date: 2013-03-27 14:56
 categories: 
----
 
 We are building the Internet-in-a-Box - A small, inexpensive device which
 provides essential Internet resources without any Internet connection.  It

@@ -1,12 +1,6 @@
----
-layout: page
-title: "What is the next meeting about?"
+Title: "What is the next meeting about?"
 date: 2007-05-14 14:15
-comments: true
-sharing: true
-footer: true
-category: "info"
----
+Category: "info"
 
 Our group prides itself in being a "functional anarchy" -- which means the responsibility to find and secure a presenter for any given month falls to "everybody". Note that while technically this would only be "somebody", and in theory could actually be "anybody", often, in practice, it ends up being "nobody"...
 

@@ -1,11 +1,9 @@
----
 layout: post
-title: "February 2005 Meeting"
+Title: "February 2005 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2005-02-10
----
 
 Mark Echeverri, who has years of experience in traditional software and        
 systems engineering, says: "For the past couple of months, I've been working   

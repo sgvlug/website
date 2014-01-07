@@ -1,11 +1,9 @@
----
 layout: post
-title: "January 2007 Meeting"
+Title: "January 2007 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2007-01-11
----
 
 Kerry Garrison, Senior Product Manager for Trixbox, will be on hand to         
 demostrate installing and setting up a complete PBX system with their new      

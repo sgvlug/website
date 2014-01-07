@@ -1,11 +1,9 @@
----
 layout: post
-title: "SGVHAK SIG Kickoff"
+Title: "SGVHAK SIG Kickoff"
 description: "Kickoff meeting to start up new SIG"
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2012-09-20
----
 
 *If you are interested in the group, please sign up for the [SGVHAK mailing list] (http://sgvlug.org/mailman/listinfo/hak "SGVHAK Mailing List Sign Up").  We will continue to crosspost announcements to the SGVLUG mailing list. We are in the process of setting up a website or subpage.*  
 

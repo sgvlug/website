@@ -1,11 +1,9 @@
----
 layout: post
-title: "October 2005 Meeting"
+Title: "October 2005 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2005-10-13
----
 
 SGVLUG General Meeting                                                         
                                                                              

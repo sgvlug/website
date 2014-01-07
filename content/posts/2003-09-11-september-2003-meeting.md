@@ -1,11 +1,9 @@
----
 layout: post
-title: "September 2003 Meeting"
+Title: "September 2003 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2003-09-11
----
 
 At this month's meeting of the SGVLUG, Tim Frichtel will tell how his company  
 uses Postfix and Spamassassin to manage spam and provide reliable email for    

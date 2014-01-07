@@ -1,10 +1,7 @@
----
 layout: post
-title: "Proxies and Tunnels to Freedom"
-date: 2013-01-08 07:38
-comments: true
+Title: "Proxies and Tunnels to Freedom"
+Date: 2013-01-08 07:38
 categories: 
----
 
 Since the dawn of the internet, men have tried to restrict the freedoms of other men. Amongst those bound by the restrictions of the technocracy, enlightened individuals created technologies to sidestep the restrictions placed upon them. These technologies, although effective, remain cryptic to the bound masses of the technologically illiterate.  What follow is a brief introduction to ssh tunnels and proxies...
 

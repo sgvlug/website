@@ -1,11 +1,9 @@
----
 layout: post
-title: "November 2011 Meeting"
+Title: "November 2011 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2011-11-10
----
 
 Topic: VPN: Keep the Spies away!                                               
                                                                              

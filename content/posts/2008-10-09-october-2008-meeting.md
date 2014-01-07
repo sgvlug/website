@@ -1,11 +1,9 @@
----
 layout: post
-title: "October 2008 Meeting"
+Title: "October 2008 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2008-10-09
----
 
 Eric Hammond will be leading an Amazon EC2 Beginners Workshop. EC2 is Amazon's 
 Elastic Compute Cloud that provides virtual Linux computers rented by the      

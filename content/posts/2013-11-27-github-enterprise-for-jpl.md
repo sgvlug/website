@@ -1,10 +1,7 @@
----
 layout: post
-title: "Github Enterprise for JPL"
-date: 2013-11-27 08:48
-comments: true
+Title: "Github Enterprise for JPL"
+Date: 2013-11-27 08:48
 categories: 
----
 GitHub Enterprise for JPL is a new collaboration center that aims to improve the state of software development by promoting collaboration between software developers. Come hear the story behind how this new service came into being and how state-of-the-art software development tools are being promoted on the grounds of the Jet Propulsion Laboratory.
 
 Bio: 

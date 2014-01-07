@@ -1,11 +1,9 @@
----
 layout: post
-title: "September 2011 Meeting"
+Title: "September 2011 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2011-09-08
----
 
 SGVLUG meeting 9/8 7-9pm                                                       
                                                                              

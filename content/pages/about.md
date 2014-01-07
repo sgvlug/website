@@ -1,11 +1,5 @@
----
-layout: page
-title: "About"
-comments: true
-sharing: true
-footer: true
-category: "info"
----
+Title: "About"
+Category: "info"
 
 SGVLUG attracts members from throughout the Los Angeles basin, Pasadena, Glendale, Burbank, and eastward along the San Gabriel Mountains.
 

@@ -1,11 +1,9 @@
----
 layout: post
-title: "October 2007 Meeting"
+Title: "October 2007 Meeting"
 description: ""
-category: meetings
+Category: meetings
 tags: [meeting]
 meetingdate: 2007-10-11
----
 
 Kris Bergstrom will give an introduction to the extremely powerful LaTeX       
 typesetting system and its application to real-world document production. He   

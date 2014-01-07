@@ -1,10 +1,7 @@
----
 layout: post
-title: "Open Mic/Mike Night"
-date: 2013-08-08 02:02
-comments: true
+Title: "Open Mic/Mike Night"
+Date: 2013-08-08 02:02
 categories: 
----
 
 We will have short presentations/discussions
 

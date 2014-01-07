@@ -1,3 +1,6 @@
 [submodule ".themes/darkstripes"]
 	path = .themes/darkstripes
 	url = git://github.com/amelandri/darkstripes.git
+[submodule "theme/bootstrap3"]
+	path = theme/bootstrap3
+	url = git@github.com:sgvlug/pelican-bootstrap3.git
