@@ -1,5 +1,5 @@
 layout: post
-Title: "December 2010 Meeting"
+Title: December 2010 Meeting
 meetingdate: 2010-12-09
 
 Steven will be doing a presentation on "Software Complexity."                  

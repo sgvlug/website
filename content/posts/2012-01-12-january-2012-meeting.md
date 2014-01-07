@@ -1,5 +1,5 @@
 layout: post
-Title: "January 2012 Meeting"
+Title: January 2012 Meeting
 meetingdate: 2012-01-12
 
 Topic: Horror Stories and Trouble shooting!                                    

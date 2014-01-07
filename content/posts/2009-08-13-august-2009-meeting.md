@@ -1,5 +1,5 @@
 layout: post
-Title: "August 2009 Meeting"
+Title: August 2009 Meeting
 meetingdate: 2009-08-13
 
 Possible topics include Defcon.                                                

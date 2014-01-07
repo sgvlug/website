@@ -1,5 +1,5 @@
 layout: post
-Title: "February 2008 Meeting"
+Title: February 2008 Meeting
 meetingdate: 2008-02-14
 
 Chris got his kid an "OLPC" laptop and thinks he can wrestle it away from him  

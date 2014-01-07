@@ -1,5 +1,5 @@
 layout: post
-Title: "November 2007 Meeting"
+Title: November 2007 Meeting
 meetingdate: 2007-11-08
 
 Asterisk is an open-source PBX program that provides automatic call            

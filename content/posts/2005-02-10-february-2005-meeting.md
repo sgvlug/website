@@ -1,5 +1,5 @@
 layout: post
-Title: "February 2005 Meeting"
+Title: February 2005 Meeting
 meetingdate: 2005-02-10
 
 Mark Echeverri, who has years of experience in traditional software and        

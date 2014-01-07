@@ -1,5 +1,5 @@
 layout: post
-Title: "The Internet-in-a-Box Project"
+Title: The Internet-in-a-Box Project
 Date: 2013-03-27 14:56
 categories: 
 

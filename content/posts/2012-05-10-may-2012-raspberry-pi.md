@@ -1,5 +1,5 @@
 layout: post
-Title: "Rasberry Pi"
+Title: Rasberry Pi
 description: "Meeting for May 2012"
 meetingdate: 2012-05-10
 

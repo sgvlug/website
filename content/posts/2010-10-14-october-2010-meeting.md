@@ -1,5 +1,5 @@
 layout: post
-Title: "October 2010 Meeting"
+Title: October 2010 Meeting
 meetingdate: 2010-10-14
 
 Filling the Digital Divide with Offline Content: Six ways to deliver a library 

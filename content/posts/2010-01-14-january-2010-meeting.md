@@ -1,5 +1,5 @@
 layout: post
-Title: "January 2010 Meeting"
+Title: January 2010 Meeting
 meetingdate: 2010-01-14
 
 A Case Study in Open Source Software Development                               

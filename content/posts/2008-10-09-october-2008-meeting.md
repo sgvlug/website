@@ -1,5 +1,5 @@
 layout: post
-Title: "October 2008 Meeting"
+Title: October 2008 Meeting
 meetingdate: 2008-10-09
 
 Eric Hammond will be leading an Amazon EC2 Beginners Workshop. EC2 is Amazon's 

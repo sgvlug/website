@@ -1,5 +1,5 @@
 layout: post
-Title: "December 2006 Meeting"
+Title: December 2006 Meeting
 meetingdate: 2006-12-14
 
 Why Linux needs to be more like Windows -or- Impediments to enterprise Linux   

@@ -1,5 +1,5 @@
 layout: post
-Title: "November 2009 Meeting"
+Title: November 2009 Meeting
 meetingdate: 2009-11-12
 
 Topic for November: Answering the Northrup Grumman Lunar Lander X PRIZE        

@@ -1,5 +1,5 @@
 layout: post
-Title: "SGVHAK SIG Kickoff"
+Title: SGVHAK SIG Kickoff
 description: "Kickoff meeting to start up new SIG"
 meetingdate: 2012-09-20
 

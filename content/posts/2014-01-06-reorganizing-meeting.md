@@ -1,5 +1,5 @@
 layout: post
-Title: "Reorganizing Meeting"
+Title: Reorganizing Meeting
 Date: 2014-01-06 10:03
 categories: 
 _<font color="red">NOTE: We are no longer meeting at Caltech.  Please check each meeting notice to see where we will be meeting.</font>_

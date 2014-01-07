@@ -1,5 +1,5 @@
 layout: post
-Title: "September 2005 Meeting"
+Title: September 2005 Meeting
 meetingdate: 2005-09-08
 
 Matt Ingenthron from Sun Microsystems will review Sun's involvement in the     

@@ -1,5 +1,5 @@
 layout: post
-Title: "August 2005 Meeting"
+Title: August 2005 Meeting
 meetingdate: 2005-08-11
 
 Orv Beach has been messing with computers for over 20 years. His first         

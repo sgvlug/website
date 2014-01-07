@@ -1,5 +1,5 @@
 layout: post
-Title: "October 2007 Meeting"
+Title: October 2007 Meeting
 meetingdate: 2007-10-11
 
 Kris Bergstrom will give an introduction to the extremely powerful LaTeX       

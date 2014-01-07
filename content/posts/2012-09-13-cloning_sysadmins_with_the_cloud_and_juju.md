@@ -1,5 +1,5 @@
 layout: post
-Title: "Cloning SysAdmins with the Cloud and Juju"
+Title: Cloning SysAdmins with the Cloud and Juju
 description: "Meeting for September 2012"
 meetingdate: 2012-09-13
 

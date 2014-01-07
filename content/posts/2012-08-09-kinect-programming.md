@@ -1,5 +1,5 @@
 layout: post
-Title: "Kinect Programming"
+Title: Kinect Programming
 description: "Meeting for August 2012"
 meetingdate: 2012-08-09
 

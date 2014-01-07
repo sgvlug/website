@@ -1,5 +1,5 @@
 layout: post
-Title: "December 2011 Meeting"
+Title: December 2011 Meeting
 meetingdate: 2011-12-08
 
 Topic: Virtual Private Servers: On a Budget                                    

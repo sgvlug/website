@@ -1,5 +1,5 @@
 layout: post
-Title: "December 2009 Meeting"
+Title: December 2009 Meeting
 meetingdate: 2009-12-10
 
 If the FC12 speaker is not available, the topic will probably be about         

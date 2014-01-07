@@ -1,5 +1,5 @@
 layout: post
-Title: "November 2010 Meeting"
+Title: November 2010 Meeting
 meetingdate: 2010-11-11
 
 Dan Kegel will show off a bunch of popular games running on Linux and explain  

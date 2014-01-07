@@ -1,5 +1,5 @@
 layout: post
-Title: "Wireless Security and DD-WRT"
+Title: Wireless Security and DD-WRT
 Date: 2013-03-12 23:02
 categories: 
 

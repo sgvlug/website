@@ -1,5 +1,5 @@
 layout: post
-Title: "November 2011 Meeting"
+Title: November 2011 Meeting
 meetingdate: 2011-11-10
 
 Topic: VPN: Keep the Spies away!                                               

@@ -1,5 +1,5 @@
 layout: post
-Title: "Open Mic/Mike Night"
+Title: Open Mic/Mike Night
 Date: 2013-08-08 02:02
 categories: 
 

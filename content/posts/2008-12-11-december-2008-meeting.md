@@ -1,5 +1,5 @@
 layout: post
-Title: "December 2008 Meeting"
+Title: December 2008 Meeting
 meetingdate: 2008-12-11
 
 In a talk called "How to Crack WEP and WPA Using Debian GNU/Linux," Jeff       

@@ -1,5 +1,5 @@
 layout: post
-Title: "February 2006 Meeting"
+Title: February 2006 Meeting
 meetingdate: 2006-02-09
 
 Monthly meeting.                                                               

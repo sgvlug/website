@@ -1,5 +1,5 @@
 layout: post
-Title: "January 2008 Meeting"
+Title: January 2008 Meeting
 meetingdate: 2008-01-10
 
 Dan Kegel of Google, a longtime Linux user and developer, will present a       

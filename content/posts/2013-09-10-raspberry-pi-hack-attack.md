@@ -1,5 +1,5 @@
 layout: post
-Title: "Introduction to Security using Raspberry Pis"
+Title: Introduction to Security using Raspberry Pis
 Date: 2013-09-10 15:49
 categories: 
 

@@ -1,5 +1,5 @@
 layout: post
-Title: "Vim Tips and Tricks: A Roundtable Discussion"
+Title: Vim Tips and Tricks: A Roundtable Discussion
 Date: 2013-02-09 21:12
 categories: 
 

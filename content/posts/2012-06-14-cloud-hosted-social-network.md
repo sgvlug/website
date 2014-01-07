@@ -1,5 +1,5 @@
 layout: post
-Title: "Build your own cloud hosted social network with Ruby on Rails, Git and Heroku"
+Title: Build your own cloud hosted social network with Ruby on Rails, Git and Heroku
 description: "Meeting for June 2012"
 meetingdate: 2012-06-14
 

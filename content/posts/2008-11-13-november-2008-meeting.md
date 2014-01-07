@@ -1,5 +1,5 @@
 layout: post
-Title: "November 2008 Meeting"
+Title: November 2008 Meeting
 meetingdate: 2008-11-13
 
 "Shakin' It up at Caltech" Rae Yip and Shang-Lin will give an overview of the  

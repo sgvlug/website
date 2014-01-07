@@ -1,5 +1,5 @@
 layout: post
-Title: "BIG DATA! 24 hour near real time processing and computation for the JPL Airborne Snow Observatory"
+Title: BIG DATA! 24 hour near real time processing and computation for the JPL Airborne Snow Observatory
 Date: 2013-10-21 06:24
 categories: 
 JPL's Airborne Snow Observatory is an integrated imaging spectrometer and scanning LIDAR for measuring mountain snow albedo, snow depth/snow water equivalent, and ice height (once exposed), led by PI Dr. Tom Painter.  The team recently wrapped our "Snow On" campaign where over a course of 3 months, we flew the Tuolumne River Basin, Sierra Nevada, California above the O'Shaughnessy Dam of the Hetch Hetchy reservoir; focusing initial on the Tuolumne, and then moving to weekly flights over the Uncompahgre Basin, Colorado.

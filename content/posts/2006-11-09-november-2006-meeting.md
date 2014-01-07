@@ -1,5 +1,5 @@
 layout: post
-Title: "November 2006 Meeting"
+Title: November 2006 Meeting
 meetingdate: 2006-11-09
 
 Monitoring the Local Weather with Linux                                        

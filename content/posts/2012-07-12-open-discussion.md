@@ -1,5 +1,5 @@
 layout: post
-Title: "Open Discussion"
+Title: Open Discussion
 description: "Meeting for July 2012"
 meetingdate: 2012-07-12
 

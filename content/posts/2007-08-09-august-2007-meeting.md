@@ -1,5 +1,5 @@
 layout: post
-Title: "August 2007 Meeting"
+Title: August 2007 Meeting
 meetingdate: 2007-08-09
 
 X509 and SSL are complicated topics. While they share the basic PKI            

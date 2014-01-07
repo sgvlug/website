@@ -1,5 +1,5 @@
 layout: post
-Title: "Rebuilding an Enterprise Class Linux Infrastructure in Under an Hour"
+Title: Rebuilding an Enterprise Class Linux Infrastructure in Under an Hour
 Date: 2012-12-03 10:16
 categories: 
 

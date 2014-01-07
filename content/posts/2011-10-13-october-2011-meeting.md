@@ -1,5 +1,5 @@
 layout: post
-Title: "October 2011 Meeting"
+Title: October 2011 Meeting
 meetingdate: 2011-10-13
 
 SGVLUG meeting 9/8 7-9pm                                                       

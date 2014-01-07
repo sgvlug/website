@@ -1,5 +1,5 @@
 layout: post
-Title: "Distributed Version Control &amp; Mercurial"
+Title: Distributed Version Control &amp; Mercurial
 Date: 2013-07-09 12:37
 categories: 
 

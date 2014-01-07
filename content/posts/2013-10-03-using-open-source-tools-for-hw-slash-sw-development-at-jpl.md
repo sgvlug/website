@@ -1,5 +1,5 @@
 layout: post
-Title: "Using Open-Source Tools for HW/SW Development at JPL"
+Title: Using Open-Source Tools for HW/SW Development at JPL
 Date: 2013-10-03 10:56
 categories: 
 _<font color="red">Please note that the previously advertised presentation "BIG DATA! 24 hour near real time processing and computation for the JPL Airborne Snow Observatory" is being rescheduled for another time.   Big thanks to Dmitriy and Tom for being willing to put together a presentation for us on short notice.   Cookies have been promised.</font>_
