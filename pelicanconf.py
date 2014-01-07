@@ -3,7 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'SGVLUG'
-SITENAME = u"SGVLUG - San Gabriel Valley Linux User's Group"
+SITENAME = u'SGVLUG'
+SITESUBTITLE = u"San Gabriel Valley Linux User's Group"
 SITEURL = ''
 
 TIMEZONE = 'US/Pacific'
