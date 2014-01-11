@@ -44,5 +44,14 @@ DISPLAY_TAGS_ON_SIDEBAR = False
 DISPLAY_PAGES_ON_SIDEBAR = True
 DISPLAY_LINKS_ON_SIDEBAR = True
 
+SHOW_EVENT_INFO = True
+DEFAULT_DATE_FORMAT = '%A %B %d, %Y %I:%M %p'
+
+from pelican.utils import get_date, strftime
+def format_date(value, date_format=DEFAULT_DATE_FORMAT):
+    return strftime(get_date(value), date_format)
+
+JINJA_FILTERS = { 'format_date': format_date, }
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
