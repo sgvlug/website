@@ -19,7 +19,8 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS = ( ('Mailing List', 'http://sgvlug.net/mailman/listinfo/sgvlug'),
           ('Meetup Group', 'http://www.meetup.com/SGVTech/'),
-          ('SGVHAK', 'http://www.sgvhak.org/'), )
+          ('SGVHAK', 'http://www.sgvhak.org/'), 
+          ('IRC: #sgvlug on Freenode', 'http://webchat.freenode.net/?channels=sgvlug') )
 
 # Social widget
 SOCIAL =  None
