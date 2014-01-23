@@ -20,7 +20,9 @@ TRANSLATION_FEED_ATOM = None
 LINKS = ( ('Mailing List', 'http://sgvlug.net/mailman/listinfo/sgvlug'),
           ('Meetup Group', 'http://www.meetup.com/SGVTech/'),
           ('SGVHAK', 'http://www.sgvhak.org/'), 
-          ('IRC: #sgvlug on Freenode', 'http://webchat.freenode.net/?channels=sgvlug') )
+          ('IRC: #sgvlug on Freenode', 'http://webchat.freenode.net/?channels=sgvlug'),
+          ('Google+', 'https://plus.google.com/111221024339538215725'), 
+          )
 
 # Social widget
 SOCIAL =  None
