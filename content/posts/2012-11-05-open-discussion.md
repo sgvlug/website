@@ -1,5 +1,5 @@
 layout: post
-Title: Open Discussion
+Title: Open Discussion November 2012
 Date: 2012-11-05 18:36
 categories: 
 

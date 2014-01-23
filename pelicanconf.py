@@ -21,7 +21,7 @@ LINKS = ( ('Mailing List', 'http://sgvlug.net/mailman/listinfo/sgvlug'),
           ('Meetup Group', 'http://www.meetup.com/SGVTech/'),
           ('SGVHAK', 'http://www.sgvhak.org/'), 
           ('IRC: #sgvlug on Freenode', 'http://webchat.freenode.net/?channels=sgvlug'),
-          ('Google+', 'https://plus.google.com/111221024339538215725'), 
+          ('Google+', 'https://plus.google.com/111221024339538215725'),
           )
 
 # Social widget
@@ -33,7 +33,12 @@ SUMMARY_MAX_LENGTH = None
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-STATIC_PATHS = ['images', 'slides', "favicon.png", "CNAME"]
+STATIC_PATHS = ['images', 'slides', 'favicon.png', 'CNAME', 'google6a5fead5ee534060.html']
+
+# Do not process html files through the reader
+READERS = {'html': None}
+
+GOOGLE_ANALYTICS = 'UA-37621013-1'
 
 THEME = 'theme/bootstrap3'
 BOOTSTRAP_THEME = 'cosmo'
