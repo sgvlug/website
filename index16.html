@@ -1,110 +1,90 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:og="http://ogp.me/ns#"
-      xmlns:fb="https://www.facebook.com/2008/fbml">
+<html lang="en">
 <head>
-    <title>SGVLUG</title>
-    <!-- Using the latest rendering mode for IE -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Open Graph tags -->
-
-            <meta property="og:type" content="website"/>
-            <meta property="og:title" content="SGVLUG"/>
-            <meta property="og:url" content="http://www.sgvlug.org"/>
-            <meta property="og:description" content="SGVLUG"/>
-
-    <!-- Bootstrap -->
-        <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/bootstrap.cosmo.min.css" type="text/css"/>
-    <link href="http://www.sgvlug.org/theme/css/font-awesome.min.css" rel="stylesheet">
-    <link href="http://www.sgvlug.org/theme/css/pygments.css" rel="stylesheet">
-    <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/style.css" type="text/css"/>
-    <!-- JavaScript plugins (requires jQuery) -->
-    <script src="http://code.jquery.com/jquery.js"></script>
-
-        <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-              title="SGVLUG ATOM Feed"/>
-
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-37621013-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
+        <title>SGVLUG</title>
+        <meta charset="utf-8" />
+        <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="SGVLUG Full Atom Feed" />
 </head>
-<body>
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="http://www.sgvlug.org" class="navbar-brand">SGVLUG</a>
-        </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <div class="navbar-brand hidden-xs">San Gabriel Valley Linux User's Group</div>
-            <ul class="nav navbar-nav">
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i>Archives</a></li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-</nav>
-<!-- /.navbar -->
-<div class="container">
-    <div class="row">
-        <div class="col-sm-9">
-            <article>
-                <h2><a href="http://www.sgvlug.org/2006/09/14/september-2006-meeting/">September 2006 Meeting</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><p>Open Forum.                                                                    </p>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://www.sgvlug.org">SGVLUG <strong>San Gabriel Valley Linux User's Group</strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content">
+<h2>All articles</h2>
+
+<ol id="post-list">
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2006/10/12/october-2006-meeting/" rel="bookmark" title="Permalink to October 2006 Meeting">October 2006 Meeting</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2006-10-12T00:00:00"> Thursday October 12, 2006 12:00 AM </abbr>
+<address class="vcard author">By <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a></address>                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>MySQL replication. MySQL Replication is the means by which one or more MySQL <br />
+databases can keep data synchronized with a master server. The scope of      <br />
+replicated data can cover any range, whether a single table, or              <br />
+indiscriminately all the databases on the master server. MySQL Replication is<br />
+beginning to find progressively more exposure in corporate production        <br />
+environments, where it sees use from providing hot backups, to distributing  <br />
+access load amongst large numbers of users. Solomon Chang will cover four main 
+topics:                                                                      <br />
+<em> Requirements of MySQL Replication                                        <br />
+</em> Concepts of MySQL Replication                                            <br />
+<em> Configuring MySQL Replication                                            <br />
+</em> Troubleshooting MySQL Replication                                          </p>
+<p>Soloman will provide a master to replicate from, so attendees are encouraged <br />
+to bring their own computers running MySQL (4.1 or later, please) to configure 
+as a hands-on slave. Attendees will also have full access to Solomon's master. 
+If there is time, more advanced topics will be discussed:                    <br />
+<em> Pyramid Architectures                                                    <br />
+</em> Dual Masters                                                             <br />
+<em> Circular Replication                                                     <br />
+</em> Circular Replication of Masters                                            </p>
+<hr />
+<p>About the Speaker.                                                             </p>
+<p>Solomon Chang, a MySQL-certified DBA, practices his skills at PriceGrabber.com 
+and has been involved with LAMPsig since its inception in 2003. He is also   <br />
+currently co-authoring the MySQL Cluster Certification Guide by MySQL Press.   </p>
+<p>Date: Thursday October 12, 2006 7:00 PM - 9:00 PM                              <br />
+Location: Downs 107                                         </p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2006/09/14/september-2006-meeting/" rel="bookmark" title="Permalink to September 2006 Meeting">September 2006 Meeting</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2006-09-14T00:00:00"> Thursday September 14, 2006 12:00 AM </abbr>
+<address class="vcard author">By <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a></address>                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Open Forum.                                                                    </p>
 <p>Alex Rosten will talk about some of his Linux projects.                        </p>
 <p>Date: Thursday September 14, 2006 7:00 PM - 9:00 PM                            <br />
-Location: Downs 107                                         </p>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://www.sgvlug.org/2006/08/10/august-2006-meeting/">August 2006 Meeting</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><p>Date: Thursday August 10, 2006 7:00 PM - 9:00 PM                               <br />
-Location: Downs 107                                         </p>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://www.sgvlug.org/2006/07/13/july-2006-meeting/">July 2006 Meeting</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><p>Monthly meeting.                                                               </p>
+Location: Downs 107                                         </p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2006/08/10/august-2006-meeting/" rel="bookmark" title="Permalink to August 2006 Meeting">August 2006 Meeting</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2006-08-10T00:00:00"> Thursday August 10, 2006 12:00 AM </abbr>
+<address class="vcard author">By <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a></address>                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Date: Thursday August 10, 2006 7:00 PM - 9:00 PM                               <br />
+Location: Downs 107                                         </p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2006/07/13/july-2006-meeting/" rel="bookmark" title="Permalink to July 2006 Meeting">July 2006 Meeting</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2006-07-13T00:00:00"> Thursday July 13, 2006 12:00 AM </abbr>
+<address class="vcard author">By <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a></address>                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Monthly meeting.                                                               </p>
 <p>Chris Smith will, for the third time, attempt to present a "slice of life at <br />
 Yahoo!" -- an insiders guide to the fun and frivolity that goes on at one of <br />
 the world's largest content providers on the Internet.                         </p>
 <p>Date: Thursday July 13, 2006 7:00 PM - 9:00 PM                                 <br />
-Location: Downs 107                                         </p>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://www.sgvlug.org/2006/06/08/june-2006-meeting/">June 2006 Meeting</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><p>A couple of "Core OS" developers from Linspire will be our guest speakers, and 
+Location: Downs 107                                         </p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2006/06/08/june-2006-meeting/" rel="bookmark" title="Permalink to June 2006 Meeting">June 2006 Meeting</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2006-06-08T00:00:00"> Thursday June 08, 2006 12:00 AM </abbr>
+<address class="vcard author">By <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a></address>                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>A couple of "Core OS" developers from Linspire will be our guest speakers, and 
 they'll talk about the interesting languages and technologies they use in    <br />
 their distribution. When asked what they will present in detail, Clifford    <br />
 responded, "The core OS group at Linspire recently announced that we are     <br />
@@ -122,14 +102,14 @@ particular, static typing has proven invaluable. We will discuss the benefits<br
 of systems programming with functional languages using the management of a   <br />
 Linux distribution as an example."                                             </p>
 <p>Date: Thursday June 8, 2006 7:00 PM - 9:00 PM                                  <br />
-Location: Downs 107                                         </p>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://www.sgvlug.org/2006/05/11/may-2006-meeting/">May 2006 Meeting</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><p>The topic for the evening will be "Getting a job in 2006: Is it the dot-com  <br />
+Location: Downs 107                                         </p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2006/05/11/may-2006-meeting/" rel="bookmark" title="Permalink to May 2006 Meeting">May 2006 Meeting</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2006-05-11T00:00:00"> Thursday May 11, 2006 12:00 AM </abbr>
+<address class="vcard author">By <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a></address>                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>The topic for the evening will be "Getting a job in 2006: Is it the dot-com  <br />
 bubble all over again?" This event will include a presentation on the current<br />
 state of the job market in Los Angeles, with special emphasis on tech roles  <br />
 and open-source fields. There will also be a primer on how to prepare yourself 
@@ -144,170 +124,20 @@ number of large technology conferences, including ApacheCon, OSCON, USENIX,  <br
 and, of course, at SGVLUG meetings. He also is the scheduler and host for this 
 year's monthly perl-centric "Tech Talks" for the LA.pm.                        </p>
 <p>Date: Thursday May 11, 2006 7:00 PM - 9:00 PM                                  <br />
-Location: Downs 107                                         </p>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://www.sgvlug.org/2006/04/13/april-2006-meeting/">April 2006 Meeting</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><p>PGP is an amazing tool for verification and encryption. However, many people <br />
-don't fully understand it-even people who use it. This talk mostly will cover<br />
-uses and effects of PGP. The discussion will focus on PGP and e-mail, and    <br />
-other topics will be covered as well. How cryptography works and the math    <br />
-behind it will not be covered.                                                 </p>
-<p>Keysigning party                                                               </p>
-<p>One of the key features of PGP is the "web of trust" that grows out of       <br />
-individuals signing each other's keys as a way of validating that the        <br />
-keyholder is indeed the "owner" of the key. We encourge you to create a key  <br />
-(if you don't already have one), post it to a public keyserver, and bring your 
-"fingerprint" to the meeting for a keysigning party.                           </p>
-<p>About the presenter                                                            </p>
-<p>Phil Dibowitz is a UNIX systems administrator for the web systems team at    <br />
-Ticketmaster. The web systems team manages the Ticketmaster.com              <br />
-infrastructure: roughly 1500 Linux systems organized in four independent,    <br />
-redundant, and geographically seperate clusters across the United States. Phil 
-has worked as a Linux, Solaris, and Network Administrator, and has a BS in   <br />
-Computer Engineering and Computer Science from USC. He is also the author of <br />
-iptstate(1), co-founder of the MSS Initiative, and works on IP Filter and the<br />
-USB Storage driver in theLlinux kernel. Find out more about Phil Dibowitz at <br />
-http://www.phildev.net/.                                                       </p>
-<p>Date: Thursday April 13, 2006 7:00 PM - 9:00 PM                                <br />
-Location: Downs 107                                         </p>
-                </div>
-            </article>
-            <hr/>
-
-    <ul class="pagination">
-            <li class="prev"><a href="http://www.sgvlug.org/index15.html">&laquo;</a>
-            </li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index.html">1</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index2.html">2</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index3.html">3</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index4.html">4</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index5.html">5</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index6.html">6</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index7.html">7</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index8.html">8</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index9.html">9</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index10.html">10</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index11.html">11</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index12.html">12</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index13.html">13</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index14.html">14</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index15.html">15</a></li>
-                <li class="active"><a
-                        href="http://www.sgvlug.org/index16.html">16</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index17.html">17</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index18.html">18</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index19.html">19</a></li>
-            <li class="next"><a
-                    href="http://www.sgvlug.org/index17.html">&raquo;</a></li>
-    </ul>
-        </div>
-        <div class="col-sm-3 well well-sm" id="sidebar">
-
-<aside>
-    <section>
-        <ul class="list-group list-group-flush">
-
-                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i>Recent Posts</h4></li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2014/02/28/open-source-in-education-and-one-laptop-per-child-20/">
-                                Open Source in Education and One Laptop Per Child "2.0"
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2014/02/28/unleashing-kids-and-teachers-in-haiti/">
-                                Unleashing Kids and Teachers in Haiti
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2014/01/13/lightning-talks/">
-                                Lightning Talks
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2014/01/06/reorganizing-meeting/">
-                                Reorganizing Meeting
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2013/11/27/github-enterprise-for-jpl/">
-                                Github Enterprise for JPL
-                            </a>
-                        </li>
-
-
-
-                 <li class="list-group-item"><a href="http://www.sgvlug.org/"><h4><i class="fa fa-archive fa-lg"></i>Info</h4></a></li>
-                         <li class="list-group-item"><a href="http://www.sgvlug.org/pages/about.html">
-                             "About"
-                          </a></li>
-                         <li class="list-group-item"><a href="http://www.sgvlug.org/pages/i-dont-want-my-e-mail-messages-archived.html">
-                             "I don't want my e-mail messages archived!"
-                          </a></li>
-                         <li class="list-group-item"><a href="http://www.sgvlug.org/pages/what-is-the-next-meeting-about.html">
-                             "What is the next meeting about?"
-                          </a></li>
-
-                <li class="list-group-item"><a href="http://www.sgvlug.org/"><h4><i class="fa fa-external-link fa-lg"></i>Links</h4></a></li>
-                         <li class="list-group-item"><a href="http://sgvlug.net/mailman/listinfo/sgvlug">
-                             Mailing List
-                          </a></li>
-                         <li class="list-group-item"><a href="http://www.meetup.com/SGVTech/">
-                             Meetup Group
-                          </a></li>
-                         <li class="list-group-item"><a href="http://www.sgvhak.org/">
-                             SGVHAK
-                          </a></li>
-                         <li class="list-group-item"><a href="http://webchat.freenode.net/?channels=sgvlug">
-                             IRC: #sgvlug on Freenode
-                          </a></li>
-                         <li class="list-group-item"><a href="https://plus.google.com/111221024339538215725">
-                             Google+
-                          </a></li>
-
-        </ul>
-    </section>
-</aside>        </div>
-    </div>
-</div>
-<footer>
-    <div class="container">
-        <hr>
-        <p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p>
-
-
-        <p>&copy; 2014 SGVLUG &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a></p>
-    </div>
-</footer>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="http://www.sgvlug.org/theme/js/bootstrap.min.js"></script>
-
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="http://www.sgvlug.org/theme/js/respond.min.js"></script>
-
-
+Location: Downs 107                                         </p> </div><!-- /.entry-content -->
+        </article></li>
+</ol><!-- /#posts-list -->
+<p class="paginator">
+        <a href="http://www.sgvlug.org/index15.html">&laquo;</a>
+    Page 16 / 19
+        <a href="http://www.sgvlug.org/index17.html">&raquo;</a>
+</p>
+</section><!-- /#content -->
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
 </body>
 </html>
