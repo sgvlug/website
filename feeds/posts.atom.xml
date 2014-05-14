@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2014-05-05T14:27:00-07:00</updated><entry><title>Show Off Your Projects</title><link href="http://www.sgvlug.org/2014/05/05/show-off-your-projects/" rel="alternate"></link><updated>2014-05-05T14:27:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-05-05:2014/05/05/show-off-your-projects/</id><summary type="html">&lt;p&gt;This month we will have a focused sort of open mic night. We will be featuring
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2014-05-13T20:44:00-07:00</updated><entry><title>SGVLUG/SGVHAK BBQ</title><link href="http://www.sgvlug.org/2014/05/13/sgvlugsgvhak-bbq/" rel="alternate"></link><updated>2014-05-13T20:44:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-05-13:2014/05/13/sgvlugsgvhak-bbq/</id><summary type="html">&lt;p&gt;You and your family are cordially invited to the SGVLUG &amp;amp; SGVHAK potluck BBQ on Saturday, May 17th from 11am to 6pm in the city of San Gabriel.&lt;/p&gt;
+&lt;p&gt;Please RSVP by May 15th by filling out this Google form: &lt;a href="http://bit.ly/QpLJeP"&gt;http://bit.ly/QpLJeP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You will receive directions to the venue after you submit the RSVP.  You can revise your RSVP at any time. Some Google scripting magic automatically updates the RSVP with how many people are expected and what people say they are bringing. Obviously, the earlier you RSVP, the more accurately we can plan.&lt;/p&gt;
+&lt;p&gt;Hope to see you there!&lt;/p&gt;</summary></entry><entry><title>Show Off Your Projects</title><link href="http://www.sgvlug.org/2014/05/05/show-off-your-projects/" rel="alternate"></link><updated>2014-05-05T14:27:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-05-05:2014/05/05/show-off-your-projects/</id><summary type="html">&lt;p&gt;This month we will have a focused sort of open mic night. We will be featuring
 a sort of show and tell for projects. If you have been working on something in
 your spare time then we can find time for you to tell us about it. Bring
 hardware, pictures or slides, whatever you need to let us know the cool things
 you are doing. After getting our dinner orders in we will informally invite
-people to share.&lt;/p&gt;</summary></entry><entry><title>Lightning Talks</title><link href="http://www.sgvlug.org/2014/01/13/lightning-talks/" rel="alternate"></link><updated>2014-01-13T22:33:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-01-13:2014/01/13/lightning-talks/</id><summary type="html">&lt;p&gt;We will cover group business at the beginning then go through a series of
+people to share.&lt;/p&gt;</summary></entry><entry><title>Open Source in Education and One Laptop Per Child "2.0"</title><link href="http://www.sgvlug.org/2014/02/28/open-source-in-education-and-one-laptop-per-child-20/" rel="alternate"></link><updated>2014-02-28T16:56:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-02-28:2014/02/28/open-source-in-education-and-one-laptop-per-child-20/</id><summary type="html">&lt;p&gt;Caryl Bigenho presents: Adventures in OSSIE-land with olpc 2.0&lt;/p&gt;
+&lt;p&gt;Now that MIT has closed the OLPC Foundation office and the OLPC Association in
+Miami has slowed production of the XO laptops, what lies in store for folks
+interested in Open Source Software In Education?&lt;/p&gt;
+&lt;p&gt;Adventure! Come find out how you can get involved, traveling to exotic places,
+meeting interesting people, and/or developing and testing hardware and
+software to continue to grow the OSSIE movement. Deployments large and small
+around the globe would love to have your help. Come find out what is happening
+and how you can get involved in your own OSSIE-land adventure!&lt;/p&gt;</summary></entry><entry><title>Unleashing Kids and Teachers in Haiti</title><link href="http://www.sgvlug.org/2014/02/28/unleashing-kids-and-teachers-in-haiti/" rel="alternate"></link><updated>2014-02-28T16:56:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-02-28:2014/02/28/unleashing-kids-and-teachers-in-haiti/</id><summary type="html">&lt;p&gt;Curt Thompson and James Murdza, both recently back from trips to Haiti, will
+talk about the evolution of the One Laptop per Child Project into Unleash
+Kids, their successes and failures working with schools, establishing a
+lasting infrastructure, and the technology behind it all.&lt;/p&gt;
+&lt;p&gt;Some of the projects they will talk about are a mission school using OLPC
+laptops and a school server providing internet caching/filtering servers, a
+remote off-the-grid school using only solar power to charge ten laptops, an
+orphanage with twenty computers and miniature solar panels, and several
+schools using Internet-in-a-Box, an offline source of Wikipedia, Khan Academy,
+and Open Street Map.&lt;/p&gt;</summary></entry><entry><title>Lightning Talks</title><link href="http://www.sgvlug.org/2014/01/13/lightning-talks/" rel="alternate"></link><updated>2014-01-13T22:33:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-01-13:2014/01/13/lightning-talks/</id><summary type="html">&lt;p&gt;We will cover group business at the beginning then go through a series of
 quick talks. These talks will be 2-5 minute long.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
