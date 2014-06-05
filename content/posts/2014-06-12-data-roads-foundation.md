@@ -1,4 +1,4 @@
-Title: Data Roads Foundation
+Title: Data Roads, Data Flow Centric Networks, and DaFODeL
 Date: 2014-06-04 22:00
 event_date: 2014-06-12 19:00
 event_location: Burger Continental, 535 S Lake Ave, Pasadena, CA, 91101
@@ -16,10 +16,11 @@ investment problem -- among other issues inherent to all cooperatively owned
 networks. More about that and his other yak shaving projects are available in
 the links below:
 
-* [http://DataRoads.org/](http://DataRoads.org/)
-* [http://NELA-ISC.Net/](http://NELA-ISC.Net/)
-* [http://Unwatch.Me/](http://Unwatch.Me/)
-* [http://igg.me/at/Unicorns-and-Gigabits-LA/](http://igg.me/at/Unicorns-and-Gigabits-LA/)
+* [Data Roads Foundation](http://DataRoads.org/)
+* [North East Los Angeles Infrastructure Service Cooperative](http://NELA-ISC.Net/)
+* [Unwatch.Me! Your personal privacy cloud.](http://Unwatch.Me/)
+* [Unicorns, Gigabits, and free WiFi for the City of Angels!](http://igg.me/at/Unicorns-and-Gigabits-LA/)
+* [Presentation from SCALE](https://docs.google.com/presentation/d/10SpOWcKH0IbjZkwJbMB2l4hcZm-lH2tlOi7qimz__-w/edit?usp=sharing)
 
 If the content in these links create more questions than answers, that will
 provide good conversation fodder for Thursday night 6/12!
