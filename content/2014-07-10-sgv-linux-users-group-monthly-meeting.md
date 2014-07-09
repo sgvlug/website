@@ -5,5 +5,5 @@ event_location: Burger Continental, 535 S Lake Ave, Pasadena, CA, 91101
 event_updated: 1404935279000
 
 Join us for dinner and presentations. Dinner begins and 7 pm and any
-presentations will start after most people have recieved their food or 8 pm,
+presentations will start after most people have received their food or 8 pm,
 whichever comes first.
