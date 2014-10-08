@@ -8,9 +8,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
 
     <!-- Open Graph tags -->
-
+        <meta property="og:site_name" content="SGVLUG" />
             <meta property="og:type" content="website"/>
             <meta property="og:title" content="SGVLUG"/>
             <meta property="og:url" content="http://www.sgvlug.org"/>
@@ -19,33 +20,17 @@
     <!-- Bootstrap -->
         <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/bootstrap.cosmo.min.css" type="text/css"/>
     <link href="http://www.sgvlug.org/theme/css/font-awesome.min.css" rel="stylesheet">
-    <link href="http://www.sgvlug.org/theme/css/pygments.css" rel="stylesheet">
+
+    <link href="http://www.sgvlug.org/theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/style.css" type="text/css"/>
-    <!-- JavaScript plugins (requires jQuery) -->
-    <script src="http://code.jquery.com/jquery.js"></script>
 
         <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="SGVLUG ATOM Feed"/>
 
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-37621013-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
 </head>
 <body>
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -54,23 +39,40 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="http://www.sgvlug.org" class="navbar-brand">SGVLUG</a>
+            <a href="http://www.sgvlug.org/" class="navbar-brand">
+SGVLUG            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <div class="navbar-brand hidden-xs">San Gabriel Valley Linux User's Group</div>
             <ul class="nav navbar-nav">
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i>Archives</a></li>
+                <li><a href="http://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
-</nav>
-<!-- /.navbar -->
+</div> <!-- /.navbar -->
+
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+
+            <article>
+                <h2><a href="http://www.sgvlug.org/2013/06/12/mini-discussions-python-for-scientific-computing/">Mini Discussions, Python for Scientific Computing</a></h2>
+<footer class="event-info">
+</footer><!-- /.event-info -->                <div class="summary"><p>We will have a few mini presentations:</p>
+<ul>
+<li>Redirecting stdout and stderr</li>
+<li>Using vim registers and visual selection for copy and pasting</li>
+</ul>
+<p>Also if time permits there will be a presentation on Python for Scientfic Computing.</p>
+<p><strong>Date</strong>: Thursday, June 13th, 2013 @ 7 pm <br/>
+<strong>Location</strong>: Caltech - Downs 107 <br/>
+The Downs building is across from the tennis courts on California at Arden. </p>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="http://www.sgvlug.org/2013/04/29/redmine/">Redmine</a></h2>
 <footer class="event-info">
@@ -169,87 +171,53 @@ Location: Caltech - Downs 107</p>
                 </div>
             </article>
             <hr/>
-            <article>
-                <h2><a href="http://www.sgvlug.org/2012/12/03/rebuilding-an-enterprise-class-linux-infrastructure-in-under-an-hour/">Rebuilding an Enterprise Class Linux Infrastructure in Under an Hour</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><iframe width="960" height="720" src="http://www.youtube.com/embed/WwtgfQJ0MzI" frameborder="0" allowfullscreen></iframe>
 
-<p><a href="/slides/201212_David_Rodriguez_on_Chef.pdf">Slides in PDF</a></p>
-<p><strong><em>Please note that we are in a different room this month. Signs will be posted, but please check out the directions given under Location:</em></strong></p>
-<p>A modern day Linux Infrastructure should be flexible, scalable and able to deal
-with the constant changes any business will require.  Automation is key to a
-reliable and consistence server infrastructure, Automation also allows for easy
-integration of new changes.</p>
-<p>The DevOps movement melds two traditionally siloed teams; Application
-Developers and Operations Engineers.  Writing infrastructure as code presents a
-number of challenges and potential pitfalls, Operations Engineers need to write
-code (something they may not be familar with) and Developers need to have a
-strong understanding of the system (many Developers don't want to be considered
-with anything other than web applications).  There are several major projects
-related purely to the management of infrastructure as code.</p>
-<p>We will examine Opscode Chef and make a strong use case for the implementation
-of Opscode Chef in a Linux Environment.  David will demonstrate many techniques
-to utilize Chef quickly and efficiently to minimize the time of implementation.
-Although Opscode Chef can be run on Solaris, FreeBSD and even Windows, the
-presentation will discuss Linux and only Linux.  David will also discuss the
-techniques to operate Chef on various Linux Distros which can provide a layer
-of abstraction from the package management systems (apt &amp; yum).  Finally David
-will discuss how Chef can be used to rebuild an Entire infrastructure
-(regardless of size or complexity) in a time previous thought impossible.  The
-only limitation in speed of deployment is the hardware.  </p>
-<p>Speaker:  David Rodriguez <br/> 
-Date: Thursday, December 13th, 2012 @ 7 pm <br/>
-Location: Caltech - Lauritsen 269.  Lauritsen is connected to Downs; the room is a lecture hall on the 2nd floor towards northeast end. The buildings are located across from the tennis courts on California at Arden. If you enter near our usual room (Downs 107),  go down the hallway, hang a right, go past the elevators, and take the stairs up one level.  As soon as you come out on the 2nd floor, the classroom is on the left hand side.  If you take the elevator, you will want to head left after getting off the elevator.  (There is a map taped next to elevator on the 2nd floor that shows the layout of Lauritsen.) </p>
-                </div>
-            </article>
-            <hr/>
-
-    <ul class="pagination">
-            <li class="prev"><a href="http://www.sgvlug.org/index3.html">&laquo;</a>
-            </li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index.html">1</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index2.html">2</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index3.html">3</a></li>
-                <li class="active"><a
-                        href="http://www.sgvlug.org/index4.html">4</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index5.html">5</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index6.html">6</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index7.html">7</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index8.html">8</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index9.html">9</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index10.html">10</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index11.html">11</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index12.html">12</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index13.html">13</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index14.html">14</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index15.html">15</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index16.html">16</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index17.html">17</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index18.html">18</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index19.html">19</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index20.html">20</a></li>
-            <li class="next"><a
-                    href="http://www.sgvlug.org/index5.html">&raquo;</a></li>
-    </ul>
+        <ul class="pagination">
+                <li class="prev"><a href="http://www.sgvlug.org/index3.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index.html">1</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index2.html">2</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index3.html">3</a></li>
+                    <li class="active"><a
+                            href="http://www.sgvlug.org/index4.html">4</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index5.html">5</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index6.html">6</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index7.html">7</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index8.html">8</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index9.html">9</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index10.html">10</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index11.html">11</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index12.html">12</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index13.html">13</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index14.html">14</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index15.html">15</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index16.html">16</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index17.html">17</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index18.html">18</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index19.html">19</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index20.html">20</a></li>
+                <li class="next"><a
+                        href="http://www.sgvlug.org/index5.html">&raquo;</a></li>
+        </ul>
         </div>
         <div class="col-sm-3 well well-sm" id="sidebar">
 
@@ -257,7 +225,13 @@ Location: Caltech - Lauritsen 269.  Lauritsen is connected to Downs; the room is
     <section>
         <ul class="list-group list-group-flush">
 
-                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i>Recent Posts</h4></li>
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
+                    <ul class="list-group" id="recentposts">
+                        <li class="list-group-item">
+                            <a href="http://www.sgvlug.org/2014/10/08/git-and-github-tips-and-tricks/">
+                                Git and GitHub Tips and Tricks
+                            </a>
+                        </li>
                         <li class="list-group-item">
                             <a href="http://www.sgvlug.org/2014/09/05/postgresql-authentication-mechanisms/">
                                 PostgreSQL Authentication Mechanisms.
@@ -278,11 +252,8 @@ Location: Caltech - Lauritsen 269.  Lauritsen is connected to Downs; the room is
                                 Data Roads, Data Flow Centric Networks, and DaFODeL
                             </a>
                         </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2014/05/13/sgvlugsgvhak-bbq/">
-                                SGVLUG/SGVHAK BBQ
-                            </a>
-                        </li>
+                    </ul>
+                </li>
 
 
 
@@ -314,28 +285,84 @@ Location: Caltech - Lauritsen 269.  Lauritsen is connected to Downs; the room is
                              Google+
                           </a></li>
 
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://sgvlug.net/mailman/listinfo/sgvlug" target="_blank">
+                Mailing List
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://www.meetup.com/SGVTech/" target="_blank">
+                Meetup Group
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://www.sgvhak.org/" target="_blank">
+                SGVHAK
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://webchat.freenode.net/?channels=sgvlug" target="_blank">
+                IRC: #sgvlug on Freenode
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://plus.google.com/111221024339538215725" target="_blank">
+                Google+
+            </a>
+        </li>
+      </ul>
+    </li>
+
         </ul>
     </section>
+
 </aside>        </div>
     </div>
 </div>
 <footer>
-    <div class="container">
-        <hr>
-        <p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p>
-
-
-        <p>&copy; 2014 SGVLUG &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 SGVLUG
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a></p>
-    </div>
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
 </footer>
+<script src="http://www.sgvlug.org/theme/js/jquery.min.js"></script>
+
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="http://www.sgvlug.org/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="http://www.sgvlug.org/theme/js/respond.min.js"></script>
 
+<!-- ColorBox to make image display nicer -->
+<script src="http://www.sgvlug.org/theme/js/jquery.colorbox-min.js"></script>
+<script>
+    $(".image-reference").colorbox({maxWidth: "80%", maxHeight: "80%"});
+</script>
 
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37621013-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 </body>
 </html>

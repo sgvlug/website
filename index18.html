@@ -8,9 +8,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
 
     <!-- Open Graph tags -->
-
+        <meta property="og:site_name" content="SGVLUG" />
             <meta property="og:type" content="website"/>
             <meta property="og:title" content="SGVLUG"/>
             <meta property="og:url" content="http://www.sgvlug.org"/>
@@ -19,33 +20,17 @@
     <!-- Bootstrap -->
         <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/bootstrap.cosmo.min.css" type="text/css"/>
     <link href="http://www.sgvlug.org/theme/css/font-awesome.min.css" rel="stylesheet">
-    <link href="http://www.sgvlug.org/theme/css/pygments.css" rel="stylesheet">
+
+    <link href="http://www.sgvlug.org/theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/style.css" type="text/css"/>
-    <!-- JavaScript plugins (requires jQuery) -->
-    <script src="http://code.jquery.com/jquery.js"></script>
 
         <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="SGVLUG ATOM Feed"/>
 
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-37621013-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
 </head>
 <body>
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -54,23 +39,54 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="http://www.sgvlug.org" class="navbar-brand">SGVLUG</a>
+            <a href="http://www.sgvlug.org/" class="navbar-brand">
+SGVLUG            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <div class="navbar-brand hidden-xs">San Gabriel Valley Linux User's Group</div>
             <ul class="nav navbar-nav">
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i>Archives</a></li>
+                <li><a href="http://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
-</nav>
-<!-- /.navbar -->
+</div> <!-- /.navbar -->
+
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+
+            <article>
+                <h2><a href="http://www.sgvlug.org/2006/04/13/april-2006-meeting/">April 2006 Meeting</a></h2>
+<footer class="event-info">
+</footer><!-- /.event-info -->                <div class="summary"><p>PGP is an amazing tool for verification and encryption. However, many people <br />
+don't fully understand it-even people who use it. This talk mostly will cover<br />
+uses and effects of PGP. The discussion will focus on PGP and e-mail, and    <br />
+other topics will be covered as well. How cryptography works and the math    <br />
+behind it will not be covered.                                                 </p>
+<p>Keysigning party                                                               </p>
+<p>One of the key features of PGP is the "web of trust" that grows out of       <br />
+individuals signing each other's keys as a way of validating that the        <br />
+keyholder is indeed the "owner" of the key. We encourge you to create a key  <br />
+(if you don't already have one), post it to a public keyserver, and bring your 
+"fingerprint" to the meeting for a keysigning party.                           </p>
+<p>About the presenter                                                            </p>
+<p>Phil Dibowitz is a UNIX systems administrator for the web systems team at    <br />
+Ticketmaster. The web systems team manages the Ticketmaster.com              <br />
+infrastructure: roughly 1500 Linux systems organized in four independent,    <br />
+redundant, and geographically seperate clusters across the United States. Phil 
+has worked as a Linux, Solaris, and Network Administrator, and has a BS in   <br />
+Computer Engineering and Computer Science from USC. He is also the author of <br />
+iptstate(1), co-founder of the MSS Initiative, and works on IP Filter and the<br />
+USB Storage driver in theLlinux kernel. Find out more about Phil Dibowitz at <br />
+http://www.phildev.net/.                                                       </p>
+<p>Date: Thursday April 13, 2006 7:00 PM - 9:00 PM                                <br />
+Location: Downs 107                                         </p>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="http://www.sgvlug.org/2006/03/09/march-2006-meeting/">March 2006 Meeting</a></h2>
 <footer class="event-info">
@@ -180,72 +196,53 @@ Location: Downs 107                                         </p>
                 </div>
             </article>
             <hr/>
-            <article>
-                <h2><a href="http://www.sgvlug.org/2005/10/13/october-2005-meeting/">October 2005 Meeting</a></h2>
-<footer class="event-info">
-</footer><!-- /.event-info -->                <div class="summary"><p>SGVLUG General Meeting                                                         </p>
-<p>Topic: Elizabeth Fong from Three Rings will talk about Puzzle Pirates -- a   <br />
-cross-platform multiplayer RPG                                                 </p>
-<p>Yohoho! Puzzle Pirates (Y!PP) is a java-based persistant world RPG that has  <br />
-been quietly gaining accolades for the past three years. Come join us for our<br />
-October meeting where intern/developer Elizabeth Fong will tell tall (and not<br />
-so tall) tales about life in the game industry and how it relates to Linux.    </p>
-<p>About the presenter: Elizabeth has been programming for nearly 10 years and  <br />
-started with linux four years ago when she began hosting sites from her home <br />
-server. Starting this semester, she will be a freshman here at Caltech.        </p>
-<p>http://sgvlug.org/index.php?option=com_content&amp;task=view&amp;id=16&amp;Itemid=27.  <br />
-Date: Thursday October 13, 2005 7:00 PM - 9:00 PM                              <br />
-Location: Downs 107                                         </p>
-                </div>
-            </article>
-            <hr/>
 
-    <ul class="pagination">
-            <li class="prev"><a href="http://www.sgvlug.org/index17.html">&laquo;</a>
-            </li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index.html">1</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index2.html">2</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index3.html">3</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index4.html">4</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index5.html">5</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index6.html">6</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index7.html">7</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index8.html">8</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index9.html">9</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index10.html">10</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index11.html">11</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index12.html">12</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index13.html">13</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index14.html">14</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index15.html">15</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index16.html">16</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index17.html">17</a></li>
-                <li class="active"><a
-                        href="http://www.sgvlug.org/index18.html">18</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index19.html">19</a></li>
-                <li class=""><a
-                        href="http://www.sgvlug.org/index20.html">20</a></li>
-            <li class="next"><a
-                    href="http://www.sgvlug.org/index19.html">&raquo;</a></li>
-    </ul>
+        <ul class="pagination">
+                <li class="prev"><a href="http://www.sgvlug.org/index17.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index.html">1</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index2.html">2</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index3.html">3</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index4.html">4</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index5.html">5</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index6.html">6</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index7.html">7</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index8.html">8</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index9.html">9</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index10.html">10</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index11.html">11</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index12.html">12</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index13.html">13</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index14.html">14</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index15.html">15</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index16.html">16</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index17.html">17</a></li>
+                    <li class="active"><a
+                            href="http://www.sgvlug.org/index18.html">18</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index19.html">19</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index20.html">20</a></li>
+                <li class="next"><a
+                        href="http://www.sgvlug.org/index19.html">&raquo;</a></li>
+        </ul>
         </div>
         <div class="col-sm-3 well well-sm" id="sidebar">
 
@@ -253,7 +250,13 @@ Location: Downs 107                                         </p>
     <section>
         <ul class="list-group list-group-flush">
 
-                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i>Recent Posts</h4></li>
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
+                    <ul class="list-group" id="recentposts">
+                        <li class="list-group-item">
+                            <a href="http://www.sgvlug.org/2014/10/08/git-and-github-tips-and-tricks/">
+                                Git and GitHub Tips and Tricks
+                            </a>
+                        </li>
                         <li class="list-group-item">
                             <a href="http://www.sgvlug.org/2014/09/05/postgresql-authentication-mechanisms/">
                                 PostgreSQL Authentication Mechanisms.
@@ -274,11 +277,8 @@ Location: Downs 107                                         </p>
                                 Data Roads, Data Flow Centric Networks, and DaFODeL
                             </a>
                         </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2014/05/13/sgvlugsgvhak-bbq/">
-                                SGVLUG/SGVHAK BBQ
-                            </a>
-                        </li>
+                    </ul>
+                </li>
 
 
 
@@ -310,28 +310,84 @@ Location: Downs 107                                         </p>
                              Google+
                           </a></li>
 
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://sgvlug.net/mailman/listinfo/sgvlug" target="_blank">
+                Mailing List
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://www.meetup.com/SGVTech/" target="_blank">
+                Meetup Group
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://www.sgvhak.org/" target="_blank">
+                SGVHAK
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://webchat.freenode.net/?channels=sgvlug" target="_blank">
+                IRC: #sgvlug on Freenode
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://plus.google.com/111221024339538215725" target="_blank">
+                Google+
+            </a>
+        </li>
+      </ul>
+    </li>
+
         </ul>
     </section>
+
 </aside>        </div>
     </div>
 </div>
 <footer>
-    <div class="container">
-        <hr>
-        <p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p>
-
-
-        <p>&copy; 2014 SGVLUG &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 SGVLUG
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a></p>
-    </div>
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
 </footer>
+<script src="http://www.sgvlug.org/theme/js/jquery.min.js"></script>
+
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="http://www.sgvlug.org/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="http://www.sgvlug.org/theme/js/respond.min.js"></script>
 
+<!-- ColorBox to make image display nicer -->
+<script src="http://www.sgvlug.org/theme/js/jquery.colorbox-min.js"></script>
+<script>
+    $(".image-reference").colorbox({maxWidth: "80%", maxHeight: "80%"});
+</script>
 
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37621013-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 </body>
 </html>
