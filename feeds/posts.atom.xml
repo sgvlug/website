@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2014-10-08T11:30:00-07:00</updated><entry><title>Git and GitHub Tips and Tricks</title><link href="http://www.sgvlug.org/2014/10/08/git-and-github-tips-and-tricks/" rel="alternate"></link><updated>2014-10-08T11:30:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-10-08:2014/10/08/git-and-github-tips-and-tricks/</id><summary type="html">&lt;p&gt;Git is a popular distributed version control system, and GitHub is a platform
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2014-10-29T21:31:00-07:00</updated><entry><title>Amateur High Altitude Ballooning</title><link href="http://www.sgvlug.org/2014/10/29/amateur-high-altitude-ballooning/" rel="alternate"></link><updated>2014-10-29T21:31:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-10-29:2014/10/29/amateur-high-altitude-ballooning/</id><summary type="html">&lt;p&gt;This talk will cover the stories and engineering challenges faced by the Null
+Space Labs High Altitude Ballooning team and how they designed, analyzed, and
+flew hardware and software to survive the harsh conditions of near space.
+Recent flights include CUBEX, a payload capable of live image transmission,
+solar changing, power management, and position reporting, as well as the
+HABEXpico flight which flew half way across the United States.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Arko&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/215497372/"&gt;Meetup Event Page&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Git and GitHub Tips and Tricks</title><link href="http://www.sgvlug.org/2014/10/08/git-and-github-tips-and-tricks/" rel="alternate"></link><updated>2014-10-08T11:30:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-10-08:2014/10/08/git-and-github-tips-and-tricks/</id><summary type="html">&lt;p&gt;Git is a popular distributed version control system, and GitHub is a platform
 for Git users to share their code and projects with others, among other
 things.  Lan will share tips and tricks for Git and GitHub that will be useful
 to users of all levels.  Feel free to come and share your own tips.&lt;/p&gt;
