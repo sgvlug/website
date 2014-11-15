@@ -5,8 +5,25 @@ flew hardware and software to survive the harsh conditions of near space.
 Recent flights include CUBEX, a payload capable of live image transmission,
 solar changing, power management, and position reporting, as well as the
 HABEXpico flight which flew half way across the United States.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Arko&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/215497372/"&gt;Meetup Event Page&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Git and GitHub Tips and Tricks</title><link href="http://www.sgvlug.org/2014/10/08/git-and-github-tips-and-tricks/" rel="alternate"></link><updated>2014-10-08T11:30:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-10-08:2014/10/08/git-and-github-tips-and-tricks/</id><summary type="html">&lt;p&gt;Git is a popular distributed version control system, and GitHub is a platform
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: &lt;a href="http://arkorobotics.com/"&gt;Arko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/215497372/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Links mentioned in the talk:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://habexproject.org/"&gt;HABEX1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.032.la/habex2"&gt;HABEX2&lt;/a&gt; (includes links to calculators, instructions, math, details, etc)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.flickr.com/photos/arkorobotics/sets/72157637213955175/"&gt;HABEXpico2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hackaday.io/project/270-cubex"&gt;CUBEX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.flickr.com/photos/arkorobotics/sets/72157633237341531/"&gt;HABEX2 Flight Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/arkorobotics/"&gt;Arko's Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arkorobotics.com/"&gt;Arko's Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pi-in-the-sky.com/"&gt;Excellent RPI shield for HABs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.habduino.org/"&gt;Excellent Arduino shield for HABs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?feature=player_embedded&amp;amp;v=4-v-B03a1Jk"&gt;Detailed talk on building your own HAB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arkorobotics.com/blog/?p=113"&gt;Talk about building your own environmental chamber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arkorobotics.com/blog/?p=113"&gt;Blog about the environmental chamber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ukhas.org.uk/"&gt;Best wiki for high altitude ballooning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Git and GitHub Tips and Tricks</title><link href="http://www.sgvlug.org/2014/10/08/git-and-github-tips-and-tricks/" rel="alternate"></link><updated>2014-10-08T11:30:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2014-10-08:2014/10/08/git-and-github-tips-and-tricks/</id><summary type="html">&lt;p&gt;Git is a popular distributed version control system, and GitHub is a platform
 for Git users to share their code and projects with others, among other
 things.  Lan will share tips and tricks for Git and GitHub that will be useful
 to users of all levels.  Feel free to come and share your own tips.&lt;/p&gt;
