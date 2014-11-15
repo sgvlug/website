@@ -1,5 +1,6 @@
 Title: Red Hat and Open Shift
-Date: 2014-11-14 22:00
+Date: 2015-01-08 19:00
+published: 2014-11-14 22:00
 event_date: 2015-01-08 19:00
 event_location: Burger Continental, 535 S Lake Ave, Pasadena, CA, 91101
 event_updated: 1416030361000
