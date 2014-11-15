@@ -89,6 +89,7 @@ a, a:hover {
 .entry-content img {
     max-width: 100%;
     height: auto;
+    margin-bottom: 11px;
 }
 
 .entry-content figcaption, .caption {
@@ -161,4 +162,21 @@ figure.floatcenter, .align-center {
 
 .tagcloud li {
     padding: 0px;
+}
+
+/* Modifications to panel containing event and article informations */
+.panel {
+    margin-bottom: 0px;
+}
+
+.post-info-block {
+    padding: 15px 15px 15px 0;
+}
+
+.post-info {
+    margin: 10.5px 0 10.5px 0;
+}
+
+.page-header {
+    margin-bottom: 0px;
 }
