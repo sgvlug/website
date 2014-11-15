@@ -28,3 +28,5 @@ Meetings
 --------
 
 We typically meet at [Burger Continental](http://www.burgercontinentalpasadena.com/) in Pasadena on the 2nd Thursday of the month. But just to be sure, please see the latest announcement on our website or meetup.com for each month's meeting location.
+
+Join us for dinner and presentations. Dinner begins and 7 pm and any presentations will start after most people have recieved their food or 8 pm, whichever comes first. Parking for Burger Continental is off of California Blvd just west of Lake Ave in the Pavillions parking lot.
