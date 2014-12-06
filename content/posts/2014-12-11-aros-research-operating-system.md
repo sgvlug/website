@@ -3,13 +3,11 @@ Date: 2014-12-11 19:00
 published: 2014-11-14 21:00
 event_date: 2014-12-11 19:00
 event_location: Burger Continental, 535 S Lake Ave, Pasadena, CA, 91101
-event_updated: 1416031942000
+event_updated: 2014-12-05 13:34
 
-The talk will be an introduction on
-[AROS](http://en.wikipedia.org/wiki/AROS_Research_Operating_System), a desktop
-open-source operating system inspired on Amiga OS and with API level
-compatibility with the Amiga OS 3.1; it will describe the project, its actual
-status and goals and on how to contribute on it.
+AROS is an open source re-implementation of Amiga OS 3.1. This year with the Directory Opus 5 bounty, the ABI V1 on-trunk merge and the release of Icaros v2, that will be covered, it has been a very significant year for the project.
+
+Simone Bernacchia is a web developer with a background as graphic artist and musician on a couple of Amiga games. He also has a blog where he writes about retro Amiga games, protracker music composing and AROS.
 
 **Speaker:** Simone Bernacchia
 
