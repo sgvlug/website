@@ -24,5 +24,5 @@ As you can imagine, [Red Hat](http://redhat.com/) has grown from a single Linux 
 
 ** Presentation Material: **
 
-* [About Red Hat]({filename}/slides/About_Red_Hat-Presentation.pdf)
+* [About Red Hat]({filename}/slides/About_Red_Hat-Presentation.pdf) ([pdf]({filename}/slides/Introduction_to_OpenShift.pdf))
 * [Introduction to OpenShift](https://prezi.com/iowwgk9w_srj/introduction-to-openshift/)
