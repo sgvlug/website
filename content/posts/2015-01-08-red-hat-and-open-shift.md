@@ -21,3 +21,8 @@ As you can imagine, [Red Hat](http://redhat.com/) has grown from a single Linux 
 [Albert T. Wong](http://linkedin.com/in/atwong) is a solution architect at Red Hat.  Jack of all trades in JavaEE, Red Hat and IBM Software and open source. Has a deep background in eCommerce and building, deploying and scaling very large websites. Albert is a UC Irvine Information and Computer Science alum.
 
 [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/218696335/)
+
+** Presentation Material: **
+
+* [About Red Hat]({filename}/slides/About_Red_Hat-Presentation.pdf)
+* [Introduction to OpenShift](https://prezi.com/iowwgk9w_srj/introduction-to-openshift/)
