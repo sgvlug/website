@@ -12,3 +12,6 @@ Simone Bernacchia is a web developer with a background as graphic artist and mus
 **Speaker:** Simone Bernacchia
 
 [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/218696476/)
+
+** Presentation Material: ** [PDF]({filename}/slides/icaros_presentation_20141211.pdf)
+
