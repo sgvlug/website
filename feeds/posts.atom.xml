@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-01-08T19:00:00-08:00</updated><entry><title>Red Hat and Open Shift</title><link href="http://www.sgvlug.org/2015/01/08/red-hat-and-open-shift/" rel="alternate"></link><updated>2015-01-08T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-01-08:2015/01/08/red-hat-and-open-shift/</id><summary type="html">&lt;p&gt;Come to this meetup to understand more about Red Hat and OpenShift, Red Hat's
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-02-12T19:00:00-08:00</updated><entry><title>Streaming-OODT: An Open-Source Platform for Big-Data Processing</title><link href="http://www.sgvlug.org/2015/02/12/streaming-oodt-an-open-source-platform-for-big-data-processing/" rel="alternate"></link><updated>2015-02-12T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-02-12:2015/02/12/streaming-oodt-an-open-source-platform-for-big-data-processing/</id><summary type="html">&lt;p&gt;Streaming-OODT was originally conceived to overcome the limitations of
+traditional big-data processing and management systems. It is based on an open
+source data processing framework called OODT (Object Oriented Data Technology)
+and was funded by NASA Jet Propulsion Laboratory's Big Data Research &amp;amp;
+Technology Development initiative "Archiving, Processing and Dissemination for
+the Big Data Era". The vision behind the project is to combine state-of-the-
+art technologies into an easy-to-use big-data processing system prepackaged to
+allow users to quickly process big-data without the need to patch together
+individual technologies.&lt;/p&gt;
+&lt;p&gt;Streaming-OODT provides both traditional batch processing as well as in-memory
+MapReduce processing for use on general computing clusters. Cluster management
+and multi-tenancy is provided via Apache Mesos, which manages batch processing
+as well as the Streaming-OODT's underlying technologies. This ensures that
+multi-tenancy is applied to both the system and the user's processing.&lt;/p&gt;
+&lt;p&gt;Apache Spark provides in-memory MapReduce processing enabling processing at
+speeds hundreds of times faster than Hadoop MapReduce. This system is
+augmented by Apache Kafka used to manage streaming data. This enables the user
+to process streaming data alongside traditional data in Apache Spark and thus
+tackle data-sets too large to persist en-masse to disk, while not losing the
+ability to process data sets that already exist on disk.&lt;/p&gt;
+&lt;p&gt;Tachyon, an in-memory distributed file system, provides lightning-fast
+distributed access to data files and streams on all nodes of the cluster.
+Persistence is provided by Hadoop Distributed File System (HDFS) thus allowing
+the user both fast data access and persistence to disk.&lt;/p&gt;
+&lt;p&gt;The purpose of this talk is to demonstrate Streaming-OODT, which will enable
+the audience to use Streaming-OODT and supporting technologies to quickly
+tackle their own big-data problems. The talk will introduce Streaming-OODT,
+show how to quickly install and configure the system, explain the value added
+by the underlying technologies, and walk through a working example of big-data
+processing. Finally, benchmarks will be presented so that the audience can see
+the benefit of these technologies and their combination.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Michael Starch&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/219406181/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Red Hat and Open Shift</title><link href="http://www.sgvlug.org/2015/01/08/red-hat-and-open-shift/" rel="alternate"></link><updated>2015-01-08T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-01-08:2015/01/08/red-hat-and-open-shift/</id><summary type="html">&lt;p&gt;Come to this meetup to understand more about Red Hat and OpenShift, Red Hat's
 multi-language platform-of-a-service solution.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;About Red Hat:&lt;/strong&gt;  &lt;/p&gt;
 &lt;p&gt;As you can imagine, &lt;a href="http://redhat.com/"&gt;Red Hat&lt;/a&gt; has grown from a single Linux distribution to a 20 year old, 1.5+ billion USD company with a portfolio of products in Operating System, Virtualization, Storage, Middleware and Cloud. We'll do a general overview of the company and talk about where the company is going to in the future.&lt;/p&gt;
