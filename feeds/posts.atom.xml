@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-02-12T19:00:00-08:00</updated><entry><title>Streaming-OODT: An Open-Source Platform for Big-Data Processing</title><link href="http://www.sgvlug.org/2015/02/12/streaming-oodt-an-open-source-platform-for-big-data-processing/" rel="alternate"></link><updated>2015-02-12T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-02-12:2015/02/12/streaming-oodt-an-open-source-platform-for-big-data-processing/</id><summary type="html">&lt;p&gt;Streaming-OODT was originally conceived to overcome the limitations of
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-03-12T19:00:00-07:00</updated><entry><title>OpenSCAD</title><link href="http://www.sgvlug.org/2015/03/12/openscad/" rel="alternate"></link><updated>2015-03-12T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-03-12:2015/03/12/openscad/</id><summary type="html">&lt;p&gt;OpenSCAD is a free software program for 3D CAD modelling. Instead of an
+interactive environment it uses a descriptive description language to build
+objects. Dave Flynn will explain this and more:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;What is Open SCAD?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What type of project is Open SCAD and 3D printing good for?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Organizing the part so it will be printable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is manifold anyway?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Building a complex part from simple objects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In a demo of the process I will recreate a wheel from my Tank project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dave Flynn&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/220661892/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Streaming-OODT: An Open-Source Platform for Big-Data Processing</title><link href="http://www.sgvlug.org/2015/02/12/streaming-oodt-an-open-source-platform-for-big-data-processing/" rel="alternate"></link><updated>2015-02-12T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-02-12:2015/02/12/streaming-oodt-an-open-source-platform-for-big-data-processing/</id><summary type="html">&lt;p&gt;Streaming-OODT was originally conceived to overcome the limitations of
 traditional big-data processing and management systems. It is based on an open
 source data processing framework called OODT (Object Oriented Data Technology)
 and was funded by NASA Jet Propulsion Laboratory's Big Data Research &amp;amp;
