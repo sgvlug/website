@@ -1,4 +1,4 @@
-Title: Getting Stared With Linux: A Non-Nerd's Guide to
+Title: Getting Stared With Linux: A Non-Nerd's Guide
 Date: 2015-04-09 19:00
 published: 2015-04-04 16:36
 event_date: 2015-04-09 19:00
