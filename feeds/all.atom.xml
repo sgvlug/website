@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-03-12T19:00:00-07:00</updated><entry><title>OpenSCAD</title><link href="http://www.sgvlug.org/2015/03/12/openscad/" rel="alternate"></link><updated>2015-03-12T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-03-12:2015/03/12/openscad/</id><summary type="html">&lt;p&gt;OpenSCAD is a free software program for 3D CAD modelling. Instead of an
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-04-09T19:00:00-07:00</updated><entry><title>Getting Stared With Linux: A Non-Nerd's Guide to</title><link href="http://www.sgvlug.org/2015/04/09/getting-stared-with-linux-a-non-nerds-guide-to/" rel="alternate"></link><updated>2015-04-09T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-04-09:2015/04/09/getting-stared-with-linux-a-non-nerds-guide-to/</id><summary type="html">&lt;p&gt;Dan Buthusiem will help you get an idea of what Linux is, and how to get
+started with it in a totally non-committal way. Learn how to use Linux the
+same way you would use your computer of choice to do non-nerd things, like
+email, along with a few potentially nerdy things along the way.&lt;/p&gt;
+&lt;p&gt;Recommended Materials:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 laptop&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 empty USB drive of at least 4 GB (8 or more preferred)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dan Buthusiem &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/221073539/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>OpenSCAD</title><link href="http://www.sgvlug.org/2015/03/12/openscad/" rel="alternate"></link><updated>2015-03-12T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-03-12:2015/03/12/openscad/</id><summary type="html">&lt;p&gt;OpenSCAD is a free software program for 3D CAD modelling. Instead of an
 interactive environment it uses a descriptive description language to build
 objects. Dave Flynn will explain this and more:&lt;/p&gt;
 &lt;ol&gt;
