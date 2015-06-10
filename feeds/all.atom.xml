@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-05-14T18:00:00-07:00</updated><entry><title>Ansible</title><link href="http://www.sgvlug.org/2015/05/14/ansible/" rel="alternate"></link><updated>2015-05-14T18:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-05-14:2015/05/14/ansible/</id><summary type="html">&lt;p&gt;The wonderful folks at OpenX are hosting this meeting and providing pizza and
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-06-11T19:00:00-07:00</updated><entry><title>Docker</title><link href="http://www.sgvlug.org/2015/06/11/docker/" rel="alternate"></link><updated>2015-06-11T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-06-11:2015/06/11/docker/</id><summary type="html">&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Docker is a hot trend in today's tech community, making it easier than ever to
+containerize and deploy modern, and legacy software applications.  While often
+mistaken for virtualization, containers take a new, lightweight approach to
+abstracting and isolating the runtime environment, dependencies and networking
+required by modern software.&lt;/p&gt;
+&lt;p&gt;This talk will cover how to get started with Docker, best practices for
+containers and example workflows for developing and deploying containers
+locally and in cloud environments. After this talk you should have the
+essential building blocks for building a containerized environment and
+application stack.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BIO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dan is an IT Data Scientist in the Office of Chief Technology and Innovation
+at NASA's Jet Propulsion Laboratory where he is using the latest software and
+open hardware technology to bring new ways of working with big data and
+computing infrastructure to space missions. In the past, Dan has worked for a
+handful of startups and has been an avid Linux user for many years.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/221830022/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Ansible</title><link href="http://www.sgvlug.org/2015/05/14/ansible/" rel="alternate"></link><updated>2015-05-14T18:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-05-14:2015/05/14/ansible/</id><summary type="html">&lt;p&gt;The wonderful folks at OpenX are hosting this meeting and providing pizza and
 drinks.  &lt;strong&gt;Consequently, we require RSVPs 48 hours in advance.  RSVPs are
 currently capped at 35.  We may open it up if there is demand.  Please keep
 RSVPs up-to-date.&lt;/strong&gt;&lt;/p&gt;
