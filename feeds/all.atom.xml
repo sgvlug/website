@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-06-11T19:00:00-07:00</updated><entry><title>Docker</title><link href="http://www.sgvlug.org/2015/06/11/docker/" rel="alternate"></link><updated>2015-06-11T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-06-11:2015/06/11/docker/</id><summary type="html">&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-07-09T18:30:00-07:00</updated><entry><title>Writing and Publishing Books with Free Software</title><link href="http://www.sgvlug.org/2015/07/09/writing-and-publishing-books-with-free-software/" rel="alternate"></link><updated>2015-07-09T18:30:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-07-09:2015/07/09/writing-and-publishing-books-with-free-software/</id><summary type="html">&lt;p&gt;The old saying goes that "everyone has a book inside of them", and advances in
+technology have made publishing more accessible than ever. The opportunities
+in traditional and independent publishing are wide open.  But writing a book
+remains a daunting task, and new authors will encounter many steps along the
+way.&lt;/p&gt;
+&lt;p&gt;What does it take to publish information in the digital age?  Hybrid author
+Nathan Haines discusses working with traditional publishers that use
+proprietary software and formats, and describes the self-publishing process
+from start to finish.  From ebooks to print, is Free and Open Source Software
+up to the task?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Biography:&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Nathan Haines is an author, instructor, and computer consultant who fell in
+love with Ubuntu in 2005, and helped found the Ubuntu California Local
+Community Team to share that excitement with others. As a current leader of
+the California team and a member of the Ubuntu Local Community Council, he
+works to help others support and share Ubuntu worldwide.&lt;/p&gt;
+&lt;p&gt;His mission to educate and excite people about Free Software and Ubuntu
+continues with his upcoming book, Beginning Ubuntu Linux for Windows and Mac
+Users.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/223371319/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Docker</title><link href="http://www.sgvlug.org/2015/06/11/docker/" rel="alternate"></link><updated>2015-06-11T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-06-11:2015/06/11/docker/</id><summary type="html">&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Docker is a hot trend in today's tech community, making it easier than ever to
 containerize and deploy modern, and legacy software applications.  While often
 mistaken for virtualization, containers take a new, lightweight approach to
