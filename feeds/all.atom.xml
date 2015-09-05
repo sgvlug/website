@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-08-13T18:30:00-07:00</updated><entry><title>Desknet: Computer Aided Math Drills for Children</title><link href="http://www.sgvlug.org/2015/08/13/desknet-computer-aided-math-drills-for-children/" rel="alternate"></link><updated>2015-08-13T18:30:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-08-13:2015/08/13/desknet-computer-aided-math-drills-for-children/</id><summary type="html">&lt;p&gt;Retired schoolteacher John "Juan" Slayton will share his cool hardware/software project, Desknet, which is aimed at allowing children to do computer-aided drills using one laptop and multiple wireless keyboards.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-09-10T19:00:00-07:00</updated><entry><title>Action-Movie Crypto</title><link href="http://www.sgvlug.org/2015/09/10/action-movie-crypto/" rel="alternate"></link><updated>2015-09-10T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-09-10:2015/09/10/action-movie-crypto/</id><summary type="html">&lt;p&gt;This month, long-time SGVLUG member Dustin Laurence reprises his &lt;a href="https://www.socallinuxexpo.org/scale/13x/presentations/action-movie-
+crypto"&gt;SCALE 13x
+talk&lt;/a&gt;.   We'll also be talking about the SGVLUG BBQ for September, the 20th
+anniversary party plans for November, and SCALE 14x.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The details of how cryptographic algorithms are designed, implemented,
+verified, and assembled into cryptosystems requires expert knowledge.
+Fortunately, the big picture of how the resulting cryptosystems are used does
+not. For most users and even most programmers, the underlying algorithms are
+black boxes that they do not and need not understand, while the language and
+conceptual framework of modern cryptography are very useful in putting those
+algorithms to practical use.&lt;/p&gt;
+&lt;p&gt;We will sketch out that conceptual framework at action-movie speed using the
+simplest of classical cryptographic algorithms to represent the modern black
+boxes for concreteness while studing everything but the algorithms themselves.
+After the presentation you should understand: elementary cryptographic
+language, security as a probabalistic rather than absolute guarantee, why the
+size of the keyspace matters, why practical security depends on choosing keys
+randomly, what side-channel attacks are, what public-key cryptography is, and
+what a digital signature is. You should also have the basic conceptual
+framework and vocabulary for further study or self-study. The presentation
+should be accessible to beginners of all ages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Biography:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intending to become a programmer ("developer" hadn't been invented by the
+marketing department yet), Dustin got sidetracked and spent more time than he
+cares to admit doing theoretical physics, a background filled with continuous
+mathematics almost entirely irrelevant to computer science and cryptography.
+He eventually returned to his original love, and these days writes
+cryptographic and embedded software for Gem, Inc. He believes that every
+programmer and indeed every citizen must be cryptographically literate in the
+world he and many, many others are busy creating. He avoids social media for
+the same reason he doesn't do crack cocaine.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/224577917/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Desknet: Computer Aided Math Drills for Children</title><link href="http://www.sgvlug.org/2015/08/13/desknet-computer-aided-math-drills-for-children/" rel="alternate"></link><updated>2015-08-13T18:30:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-08-13:2015/08/13/desknet-computer-aided-math-drills-for-children/</id><summary type="html">&lt;p&gt;Retired schoolteacher John "Juan" Slayton will share his cool hardware/software project, Desknet, which is aimed at allowing children to do computer-aided drills using one laptop and multiple wireless keyboards.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Behavioral Objectives:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The learner will use the Logitech wireless keyboards, observing the eccentricities resulting from the Desknet decoding strategies.  &lt;/li&gt;
