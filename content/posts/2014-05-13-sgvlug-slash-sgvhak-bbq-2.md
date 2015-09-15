@@ -1,5 +1,5 @@
 layout: post
-Title: SGVLUG/SGVHAK BBQ #1
+Title: SGVLUG/SGVHAK BBQ #2
 Date: 2014-05-13 20:44
 categories: 
 

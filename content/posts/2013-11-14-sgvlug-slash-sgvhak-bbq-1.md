@@ -1,5 +1,5 @@
 layout: post
-Title: SGVLUG/SGVHAK BBQ #2
+Title: SGVLUG/SGVHAK BBQ #1
 Date: 2013-11-16 19:32
 categories: 
 You and your family are cordially invited to the SGVLUG & SGVHAK potluck BBQ this Saturday, November 16th, from 1-6pm.  It will be in San Gabriel.
