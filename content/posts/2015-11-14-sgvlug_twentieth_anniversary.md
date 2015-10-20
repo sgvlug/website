@@ -13,3 +13,6 @@ We have some great things planned for a night of fun:
 * Community project demos
 * LAN gaming
 * Linux Jeopardy!
+
+[ ![20th Anniversary Poster]({filename}/images/20th_Poster_Small.jpg) ]({filename}/images/20th_Poster.jpg)
+
