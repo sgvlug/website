@@ -17,4 +17,6 @@ Matt's first company was founded on principles similar to modern dev-ops practic
 
 Currently a corporate technology strategist, he is defining services for a post cloud world with a 200,000-employee organization facing billion dollar technology budgets and rapid growth.
 
+**[Presentation Slides]({filename}/slides/151008_SGVLUG_Automation.pdf)**
+
 [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/225330603/)
