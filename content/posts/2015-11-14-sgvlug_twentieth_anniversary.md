@@ -14,5 +14,7 @@ We have some great things planned for a night of fun:
 * LAN gaming
 * Linux Jeopardy!
 
+RSVP @ [Eventbrite](https://www.eventbrite.com/e/sgvlug-20th-anniversary-party-tickets-18956875525)
+
 [ ![20th Anniversary Poster]({filename}/images/20th_Poster_Small.jpg) ]({filename}/images/20th_Poster.jpg)
 
