@@ -7,6 +7,7 @@
 &lt;li&gt;LAN gaming&lt;/li&gt;
 &lt;li&gt;Linux Jeopardy!&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;RSVP @ &lt;a href="https://www.eventbrite.com/e/sgvlug-20th-anniversary-party-tickets-18956875525"&gt;Eventbrite&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.sgvlug.org/images/20th_Poster.jpg"&gt; &lt;img alt="20th Anniversary Poster" src="http://www.sgvlug.org/images/20th_Poster_Small.jpg" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Automating Basic IT Functions with Puppet</title><link href="http://www.sgvlug.org/2015/10/08/automating-basic-it-functions-with-puppet/" rel="alternate"></link><updated>2015-10-08T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-10-08:2015/10/08/automating-basic-it-functions-with-puppet/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We will cover how to set up and define your home IT services from code.  Topics covered will range from installing the puppet master service, through setting up the agent service, to defining common service modules in a RedHat based environment.  Cross platform topics, including writing modules to support Windows and Ubuntu, will be covered in as much detail as interest permits.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Biography:&lt;/strong&gt;&lt;/p&gt;
