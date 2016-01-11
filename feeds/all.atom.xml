@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2015-12-10T19:00:00-08:00</updated><entry><title>Year in review, SCALE, and Open Mic Night</title><link href="http://www.sgvlug.org/2015/12/10/year-in-review-scale-and-open-mic-night/" rel="alternate"></link><updated>2015-12-10T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-12-10:2015/12/10/year-in-review-scale-and-open-mic-night/</id><summary type="html">&lt;p&gt;There is no formal presentation this month.  We will go for adhoc talks and
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-01-14T19:00:00-08:00</updated><entry><title>DNSSEC</title><link href="http://www.sgvlug.org/2016/01/14/dnssec/" rel="alternate"></link><updated>2016-01-14T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-01-14:2016/01/14/dnssec/</id><summary type="html">&lt;p&gt;This month, SGVLUG member Carlos Meza will preview his &lt;a href="http://www.socallinuxexpo.org/scale/14x/presentations/dnssec"&gt;SCALE 14x
+talk&lt;/a&gt; on DNSSEC.
+Why should you care?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"DNSSec is an absolute requirement if we want to ... use the Internet for anything non-trivial." - Cricket Liu, Leading expert on the Domain Name System (DNS)&lt;/p&gt;
+&lt;p&gt;"The Internet needs this technology and it needs it now" - Vint Cerf, Father of the Internet&lt;/p&gt;
+&lt;p&gt;"It is arguably one of the most important security improvements to the Internet ever." -Steve Crocker, Internet Pioneer and Chair of the Board of ICANN&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DNS (Domain Name System) is used by everyone who is a consumer of the Internet. It is a core component of the Internet, yet it is completely insecure. This puts us all at risk. DNSSEC offers a solution to address the vulnerabilities of DNS . For this reason I hope stir up demand and motivation to deploy DNSSEC.&lt;/p&gt;
+&lt;p&gt;We will go over the basic of DNS and its vulnerabilities. Then we will go over how DNSSEC works and the solution it provides. As users, we will look at why it is important for our safety to require that our service providers (ISPs, Registrars, Hosted Services (banking, commerce, etc)) provide DNSSEC. And we will also look at some user-end tools available to advantage of DNSSEC today.  We will go over reasons why companies would want to make the effort and investment. For sysadmins, we will go over tools to aid with deployment and some considerations  to be aware of.&lt;/p&gt;
+&lt;p&gt;At its essence, DNS translates names, that humans understand, to IP addresses, that computers understand. This is how we are able to find other computers on the Internet (webpages, email servers, etc). But DNS does not provide a way to validate the answer we receive. This exposes all of us to a large vulnerability. Exploits such as DNS hijacking and DNS cache poisoning miss direct us and can lead us to potentially malicious computers. DNSSEC provides a solution to this by allowing authentication of DNS data through a chain-of- trust. Being able to trust DNS goes a long way to creating a safer Internet.&lt;/p&gt;
+&lt;p&gt;When we can trust DNS other things become possible. We can now leverage DNS to store other information such as cryptographic keys. This means we can store and trust self signed SSL certificates in DNS because it is now a trusted source. This eliminates the need for certificate authorities and the issues with them.&lt;/p&gt;
+&lt;p&gt;DNSSEC is a great improvement on a fundamental component of the Internet we
+all us.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Biography:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Carlos has worked many years as a system administrator. His interest include InfoSec, site reliability and automation, and open source development.  While volunteering as an Interop Team Member, he was introduced to the significance of DNSSEC.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.infoworld.com/article/2608759/security/security-why-you-need-to-deploy-dnssec-now.html"&gt;Why you need to deploy DNSSec now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pir.org/dnssec-industry-coalition-meets-with-googles-chief-internet-evangelist-vint-cerf-and-internet-
+researcher-dan-kaminsky/"&gt;DNSSEC Industry Coalition Meets with Google's Chief Internet Evangelist Vint Cerf and Internet Researcher Dan Kaminsky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=YHVB4MjZdZ0"&gt;2011 Steve Crocker speaks about DNSSEC Deployment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/225815816/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Year in review, SCALE, and Open Mic Night</title><link href="http://www.sgvlug.org/2015/12/10/year-in-review-scale-and-open-mic-night/" rel="alternate"></link><updated>2015-12-10T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2015-12-10:2015/12/10/year-in-review-scale-and-open-mic-night/</id><summary type="html">&lt;p&gt;There is no formal presentation this month.  We will go for adhoc talks and
 discussions including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;SGVLUG/SGVHAK year in review  + how you can contribute to keep the group going&lt;/li&gt;
