@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-01-14T19:00:00-08:00</updated><entry><title>DNSSEC</title><link href="http://www.sgvlug.org/2016/01/14/dnssec/" rel="alternate"></link><updated>2016-01-14T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-01-14:2016/01/14/dnssec/</id><summary type="html">&lt;p&gt;This month, SGVLUG member Carlos Meza will preview his &lt;a href="http://www.socallinuxexpo.org/scale/14x/presentations/dnssec"&gt;SCALE 14x
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-02-11T19:00:00-08:00</updated><entry><title>Building a Community</title><link href="http://www.sgvlug.org/2016/02/11/building-a-community/" rel="alternate"></link><updated>2016-02-11T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-02-11:2016/02/11/building-a-community/</id><summary type="html">&lt;p&gt;&lt;strong&gt;The wonderful folks at OpenX are hosting this meeting and providing pizza and
+drinks. We need to provide a list of names to building security.  We
+require RSVPs by 5pm on Tuesday, Feb 9th.  Please keep RSVPs up-to-date,
+particularly if we have a waitlist.  RSVPs will be capped at 70.&lt;br /&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Big thanks to Bobby at OpenX for making the arrangements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Liz Krane started the Learn to Code LA meetup group in 2015, and with
+perseverance and some luck, the community grew to over 2200 members in less
+than a year. In this talk, she will share what she learned by building a
+community from scratch in a field she knew nothing about.&lt;/p&gt;
+&lt;p&gt;How do you build a community? From small open-source projects to international
+movements, communities amplify our individual motivations and enable us to
+create meaningful changes in the world. And on a personal level, communities
+are essential for our well-being as social animals. What makes for a
+successful community, and how do you persuade other people to get involved?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Liz Krane is the founder of Learn to Code LA, a community that introduces new
+people to computer science and programming with classes and fun events.Liz is
+a professional dabbler who dreams of learning something about everything.
+Previously a research assistant at USC Annenberg, she currently works as a
+freelance web developer, writer, photographer and designer, exploring the
+intersections between technology, education and journalism.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Plan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At about 7:30pm, we'll start the meeting with LUG business and Linux in the
+News.  The talk will start shortly afterwards.&lt;/p&gt;
+&lt;p&gt;Since we didn't get to raffle off much stuff at our booth at SCALE, we'll be
+doing some raffles during the next few meetings.  We will draw for the raffle
+before and after the talk.  You will get a raffle ticket just for showing up.
+You may earn extra raffle tickets for audience participation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenX is located in the One West Bank building @ 888 E Walnut St.  Pasadena CA, 91101. Entrances to the building are eastbound on Walnut, right hand side before the Lake St. intersection or southbound on Lake St. right hand side after the Walnut St. intersection. Once through the driveway, please park in the 888 Lot that has the OpenX logo displayed out front. Pull a ticket and bring it with you to the Meet-Up, we will validate your parking.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://photos3.meetupstatic.com/photos/event/9/6/4/8/600_413018472.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/227991894/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>DNSSEC</title><link href="http://www.sgvlug.org/2016/01/14/dnssec/" rel="alternate"></link><updated>2016-01-14T19:00:00-08:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-01-14:2016/01/14/dnssec/</id><summary type="html">&lt;p&gt;This month, SGVLUG member Carlos Meza will preview his &lt;a href="http://www.socallinuxexpo.org/scale/14x/presentations/dnssec"&gt;SCALE 14x
 talk&lt;/a&gt; on DNSSEC.
 Why should you care?&lt;/p&gt;
 &lt;blockquote&gt;
