@@ -25,6 +25,13 @@ LINKS = ( ('Mailing List', 'http://sgvlug.net/mailman/listinfo/sgvlug'),
           ('SGVHAK', 'http://www.sgvhak.org/'), 
           )
 
+SPONSORS = ( ('OpenX', 'http://openx.com/', 'images/sponsors/ox_logo.png'),
+             ('Red Hat', 'http://www.redhat.com', 'images/sponsors/redhat_logo.png'),
+             ('No Starch Press', 'http://www.nostarch.com/', 'images/sponsors/nsp_logo.png'),
+             ("O'Reilly", 'http://www.oreilly.com/', 'images/sponsors/oreilly_logo.png'),
+             ('Hackaday', 'http://hackaday.com/', 'images/sponsors/hackaday_logo.png'), 
+        )
+
 # Social widget
 SOCIAL =  None
 
