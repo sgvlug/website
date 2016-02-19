@@ -52,6 +52,6 @@ You may earn extra raffle tickets for audience participation.
 
 OpenX is located in the One West Bank building @ 888 E Walnut St.  Pasadena CA, 91101. Entrances to the building are eastbound on Walnut, right hand side before the Lake St. intersection or southbound on Lake St. right hand side after the Walnut St. intersection. Once through the driveway, please park in the 888 Lot that has the OpenX logo displayed out front. Pull a ticket and bring it with you to the Meet-Up, we will validate your parking.
 
-![](http://photos3.meetupstatic.com/photos/event/9/6/4/8/600_413018472.jpeg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/augYP-USbXc" frameborder="0" allowfullscreen></iframe>
 
 [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/227991894/)
