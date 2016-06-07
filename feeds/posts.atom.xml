@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-04-14T19:00:00-07:00</updated><entry><title>Webification (w10n) and NASA data collections</title><link href="http://www.sgvlug.org/2016/04/14/webification-w10n-and-nasa-data-collections/" rel="alternate"></link><updated>2016-04-14T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-04-14:2016/04/14/webification-w10n-and-nasa-data-collections/</id><summary type="html">&lt;p&gt;&lt;strong&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing pizza. We need to provide a list of names to building security. RSVPs will be capped at 50.&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-06-09T19:00:00-07:00</updated><entry><title>Survival at C: swallowing the Red Pill</title><link href="http://www.sgvlug.org/2016/06/09/survival-at-c-swallowing-the-red-pill/" rel="alternate"></link><updated>2016-06-09T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-06-09:2016/06/09/survival-at-c-swallowing-the-red-pill/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many good, experienced high-level language programmers do not learn C or C++
+well until they suddenly need to write an FFI extension, make an emergency
+patch to an existing C or C++ codebase, re-implement the bottleneck component
+in the application stack in a fast language, take an attractive job with a
+low-level programming component, or otherwise move from their comfortable
+language of choice and swallow the Red Pill of coding closer to the machine.
+If you are already a programmer, you don't need to be taught how to program,
+and your google-fu is strong for looking up detailed syntax.  Instead, this
+will be a crash course in leveraging skills you learned in a high-level
+environment and transferring them to these low-level tools, acquiring some new
+skills you simply never needed before, and a building a mental picture of
+where the road to expert, idiomatic mastery lies.  We will focus on plain C
+because C++ is too complex to cover well in a single talk, but much of the
+material will apply directly to C++.  Perhaps surprisingly, some of  it will
+even make you a better programmer in your favorite comfortable,  higher-level
+language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some little-known facts about Dustin Laurence:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;His first exposure to computers was playing Colossal Cave&lt;br /&gt;
+Adventure and the bootleg Fortran IV version of Zork on his cousin's work
+mainframe using a glass teletype and a modem with a cradle for the handset.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;His first good programming language was C.  He lies and pretends that C is where he learned to program because 8-bit BASIC is embarrassing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He once gave up trying to learn the libc low-level I/O functions from the Ultrix man pages because he thought a buffer must be some kind of abstract data type provided by the C library and he couldn't find any documentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He once confidently predicted that Linux was a temporary fad that would be replaced by BSD for serious work once the Berkeley codebase was completely free.  It's probably a good thing he doesn't gamble.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He avoids social media for the same reason he doesn't do crack cocaine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenX is located in the One West Bank building @ 888 E Walnut St.  Pasadena CA, 91101. Entrances to the building are eastbound on Walnut, right hand side before the Lake St. intersection or southbound on Lake St. right hand side after the Walnut St. intersection. Once through the driveway, please park in the 888 Lot that has the OpenX logo displayed out front. Pull a ticket and bring it with you to the Meetup, we will validate your parking.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/229463158/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Git/GitHub, CLI Text Processing Tools, OpenSuse</title><link href="http://www.sgvlug.org/2016/05/12/gitgithub-cli-text-processing-tools-opensuse/" rel="alternate"></link><updated>2016-05-12T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-05-12:2016/05/12/gitgithub-cli-text-processing-tools-opensuse/</id><summary type="html">&lt;p&gt;We are doing informal, short presentations this month.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lan will provide a basic introduction to Git and GitHub&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Joel S. will do a survey of commandline text processing tools.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Drew, our resident openSUSE guy, will also get the floor.  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/229463153/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Webification (w10n) and NASA data collections</title><link href="http://www.sgvlug.org/2016/04/14/webification-w10n-and-nasa-data-collections/" rel="alternate"></link><updated>2016-04-14T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-04-14:2016/04/14/webification-w10n-and-nasa-data-collections/</id><summary type="html">&lt;p&gt;&lt;strong&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing pizza. We need to provide a list of names to building security. RSVPs will be capped at 50.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In this talk, Zhangfan Xing will present webification (w10n), a data
 virtualization technology that simplifies use of resources on the web
