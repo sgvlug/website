@@ -88,9 +88,7 @@ James made a script to easily convert the contents of the SGVTech meetup events 
 
 Download meetup2md from Github and initialize it's submodules:
 ```
-$ git clone https://github.com/omwah/meetup2md.git
-$ git submodule init
-$ git submodule update
+$ git submodule init && git submodule update 
 ```
 
 ### Authorize meetup2md
