@@ -108,7 +108,7 @@ $ meetup2md.py --verifier 183742
 
 ### Configure meetup2md for LUG
 
-Edit the [events] section of app.cfg to allow us to easily to filter out SGVLUG events:
+Edit the [events] section of ~/.meetup2md.cfg to allow us to easily to filter out SGVLUG events:
 ```
 [events]
 group_name = SGVTech
