@@ -14,9 +14,8 @@ Getting Started
     
 Install Pelican and ghp-import
 
-```
-$ pip install pelican
-$ pip install ghp-import
+```bash
+$ pip install --requirement requirements.txt
 ```
 
 Checkout source (read only)
