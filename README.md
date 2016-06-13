@@ -80,7 +80,7 @@ $ make github
 
 # Generate Posts from Meetup Events
 
-James made a script to easily convert the contents of the SGVTech meetup events into Markdown for Pelican. It also adds some meta data about the event data and location.
+James made a script to easily convert the contents of the SGVTech meetup events into Markdown, [meetup2md](http://github.com/omwah/meetup2md/). It also adds some meta data about the event data and location.
 
 ## Setup meetup2md Script
 
