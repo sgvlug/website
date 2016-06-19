@@ -84,16 +84,11 @@ James made a script to easily convert the contents of the SGVTech meetup events 
 
 ## Setup meetup2md Script
 
-### Obtain meetup2md
+### Install dependencies
 
-meetup2md is a git submodule, so all we need to do is:
+The meetup2md script has the meetup api-python-client as a submodule, and also requires additional python modules.
 ```bash
-$ git submodule init && git submodule update 
-```
-
-The meetup2md script has the meetup api-python-client as a submodule, so we need to obtain that as well.
-```bash
-$ cd meetup2md/ && git submodule init && git submodule update
+$ cd meetup2md/ && git submodule init && git submodule update && pip install -r requirements.txt
 ```
 
 ### Authorize meetup2md
