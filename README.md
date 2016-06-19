@@ -13,13 +13,9 @@ http://sgvlug.github.io/website_presentation
 
 # Getting Started
 
-## Install Dependencies   
+## Setup Local Copy
 
-Install Pelican and ghp-import
-```bash
-$ pip install --requirement requirements.txt
-```
-## Clone Site
+### Clone Site
 
 Checkout source (read only)
 ```
@@ -29,6 +25,18 @@ $ git clone https://github.com/sgvlug/website.git sgvlug_website
 If you are added to access list you can clone this way:
 ```
 $ git clone git@github.com:sgvlug/website.git sgvlug_website
+```
+
+### Install Dependencies
+
+Install Pelican and ghp-import
+```bash
+$ pip install --requirement requirements.txt
+```
+
+Enable submodules (This adds sub repositories for themes)
+```bash
+git submodule init && git submodule update
 ```
 
 ## Creating a New Post
