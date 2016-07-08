@@ -62,6 +62,8 @@ Pelican includes a small development server so you can see what the site will lo
 $ make devserver
 ```
 
+NOTE: You may need to switch the the gh-pages branch in order to view the website.  Remember to switch back to master for the rest of this.
+
 Then navigate to http://localhost:8000/
 
 ## Deploying Website
@@ -94,6 +96,11 @@ $ git submodule init && git submodule update
 The meetup2md script has the meetup api-python-client as a submodule, so we need to obtain that as well.
 ```bash
 $ cd meetup2md/ && git submodule init && git submodule update
+```
+
+The submodule has its own requirements.
+```bash
+$ pip install --requirement requirements.txt
 ```
 
 ### Authorize meetup2md
