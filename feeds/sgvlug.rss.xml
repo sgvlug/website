@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 14 Jul 2016 19:00:00 -0700</lastBuildDate><item><title>P2P and the World of Tomorrow</title><link>http://www.sgvlug.org/2016/07/14/p2p-and-the-world-of-tomorrow/</link><description>&lt;p&gt;This month, SGVLUG and InfoSec Syndicate member Ray S will give a brief
+<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Sat, 20 Aug 2016 00:00:00 -0700</lastBuildDate><item><title>SGVLUG/SGVHAK BBQ #4</title><link>http://www.sgvlug.org/2016/08/20/sgvlugsgvhak-bbq-4/</link><description>&lt;p&gt;You and your friends and family are invited to the SGVLUG &amp;amp; SGVHAK potluck BBQ on Saturday, August 20th from 4pm to 10pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
+&lt;p&gt;More details about the BBQ can be found here: &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://goo.gl/forms/sDJZPbZUTPcyQ7bA3"&gt;https://goo.gl/forms/sDJZPbZUTPcyQ7bA3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please RSVP no later than August 18th.  Some Google scripting magic automatically updates the form with how many people are expected and what people say they are bringing. &lt;/p&gt;
+&lt;p&gt;Upon submission of RSVP, you will be directed to a confirmation page with directions to Lan's house, as well as contact info.
+You can submit an updated RSVP at any time.  Lan regularly updates the spreadsheet back-end to keep things accurate and will contact you if you have questions.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Sat, 20 Aug 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2016-08-20:2016/08/20/sgvlugsgvhak-bbq-4/</guid></item><item><title>How to make the world ring for you...</title><link>http://www.sgvlug.org/2016/08/11/how-to-make-the-world-ring-for-you/</link><description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;What do amateur radio operators, small businesses, giant corporations, E911 
+systems, and Linux hobbyists all have in common?&lt;/p&gt;
+&lt;p&gt;Well, besides using Linux, they all are using an application called Asterisk, 
+in one of its many forms, to handle telecommunications.&lt;/p&gt;
+&lt;p&gt;Amateur radio operators can interlink plain old telephone systems with repeaters, 
+small businesses can appear to the world to be a large corporation with custom 
+interactive voice response menus, and hobbyists can lower their home phone bill 
+to as little as a $1.00 per month with $0.0015/minute call charges.&lt;/p&gt;
+&lt;p&gt;Not to mention to have a phone number virtually anywhere in the world termin
+ate at your home,&lt;/p&gt;
+&lt;p&gt;The presentation will introduce Asterisk, its applications, basic Python scripting, 
+and many other things.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Dr. Paul Wilkinson holds a PhD in Computer Science from Durham University, one of 
+England’s foremost, and third oldest, universities. His also holds undergraduate 
+degrees in Computer Science, Mathematics, and Engineering Physics as well as a 
+Master of Science in Applied Mathematics. During the course of his career, he has 
+worked for a “think tank” doing mathematical modeling, then the U.S. Navy, thins 
+the senior civilian, and reserve, for one of the largest police departments in 
+California. &lt;/p&gt;
+&lt;p&gt;Now he is a Professor of Computer Science at Pasadena City College. He holds and 
+Extra Class amateur radio license and is very active within the hobby as well as 
+integrating Linux and amateur radio into one cohesive unit. &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/232555917/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 11 Aug 2016 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2016-08-11:2016/08/11/how-to-make-the-world-ring-for-you/</guid></item><item><title>P2P and the World of Tomorrow</title><link>http://www.sgvlug.org/2016/07/14/p2p-and-the-world-of-tomorrow/</link><description>&lt;p&gt;This month, SGVLUG and InfoSec Syndicate member Ray S will give a brief
 history on P2P software technology, applications and implementations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;The P2P and the World of Tomorrow presentation will address a brief history on
