@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/sgvlug.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-08-20T00:00:00-07:00</updated><entry><title>SGVLUG/SGVHAK BBQ #4</title><link href="http://www.sgvlug.org/2016/08/20/sgvlugsgvhak-bbq-4/" rel="alternate"></link><published>2016-08-20T00:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-08-20:2016/08/20/sgvlugsgvhak-bbq-4/</id><summary type="html">&lt;p&gt;You and your friends and family are invited to the SGVLUG &amp;amp; SGVHAK potluck BBQ on Saturday, August 20th from 4pm to 10pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/sgvlug.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-09-08T19:00:00-07:00</updated><entry><title>Text Processing at the Linux Command Line</title><link href="http://www.sgvlug.org/2016/09/08/text-processing-at-the-linux-command-line/" rel="alternate"></link><published>2016-09-08T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-09-08:2016/09/08/text-processing-at-the-linux-command-line/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Text is everywhere but not always in a useful form.  On any given day we
+encounter dozens or hundreds of data formats.  Some formats are focused on
+presentation while others focus on structure at the expense of presentation.
+Many times the information we need has to be found, disentangled and
+manipulated before it is useful.  The easier we can navigate across these
+boundaries, the more freedom we have to find new uses and insights.&lt;/p&gt;
+&lt;p&gt;Linux offers a rich array of commands and tools for text processing at the
+command line.  This talk proposes a classification for different types of
+command line processing tasks and then explores some of the common tools
+available within each category.  Many of these tools have a host of options.
+Some useful but lesser known options will be highlighted.  The tools will then
+be applied to a number of examples covering data extraction, processing and
+presentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Joel Steres spends most of his time at the command prompt.  He is still amazed
+at how small specialized building blocks can be combined to achieve big
+results.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.meetup.com/SGVTech/events/233145950/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>SGVLUG/SGVHAK BBQ #4</title><link href="http://www.sgvlug.org/2016/08/20/sgvlugsgvhak-bbq-4/" rel="alternate"></link><published>2016-08-20T00:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-08-20:2016/08/20/sgvlugsgvhak-bbq-4/</id><summary type="html">&lt;p&gt;You and your friends and family are invited to the SGVLUG &amp;amp; SGVHAK potluck BBQ on Saturday, August 20th from 4pm to 10pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
 &lt;p&gt;More details about the BBQ can be found here: &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://goo.gl/forms/sDJZPbZUTPcyQ7bA3"&gt;https://goo.gl/forms/sDJZPbZUTPcyQ7bA3&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Please RSVP no later than August 18th.  Some Google scripting magic automatically updates the form with how many people are expected and what people say they are bringing. &lt;/p&gt;
