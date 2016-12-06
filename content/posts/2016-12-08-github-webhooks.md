@@ -5,8 +5,9 @@ event_date: 2016-12-08 19:00
 event_location:  OpenX  , 888 E Walnut Street, Pasadena, CA, 91101
 event_updated: 1481011987000
 
-**The wonderful folks at OpenX are hosting this meeting, and they are also providing food.  We need to provide a list of names to building security. RSVPs will be capped at 40.  Contact Lan if you have questions.  See end of description for OpenX map  
-**
+**The wonderful folks at OpenX are hosting this meeting, and they are also providing food.  We need to provide a list 
+of names to building security. RSVPs will be capped at 40.  Contact Lan if you have questions.  See end of description for OpenX map  
+Thanks to Derek for handling the OpenX logistics and updating the map**
 
 **Note: This talk was originally scheduled for the November LUG, but had to be postponed due to speaker illness.  
 **
@@ -43,15 +44,11 @@ the Enterprise!
   
 **Directions**
 
-_OpenX is located in the One West Bank building @ 888 E Walnut St.  Pasadena
-CA, 91101. Please note that due to construction, there is only one entrance
-for parking and the Meetup entrance has changed.   Entrance to the building
-are eastbound on Walnut, right hand side before the Lake St. intersection.
-Once through the driveway, please park in the 888 Lot that has the OpenX logo
-displayed out front.   (If you park in the wrong structure, we will not be
-able to validate.)  Pull a ticket and bring it with you to the Meetup, we will
-validate your parking.   See map below for details._
+_OpenX is located in the One West Bank building @ 888 E Walnut St.  Pasadena CA, 91101. Please note that due to construction, there 
+is only one entrance for parking and the Meetup entrance has changed to be  off Walnut St.   Entrance to the parking structure 
+is currently available only on Lake Ave.   Once through the driveway, please park in the 888 Lot that has the OpenX logo displayed 
+out front.   (If you park in the wrong structure, we will not be able to validate.)  Pull a ticket and bring it with you to the 
+Meetup, we will validate your parking.   See map below for details._
 
-![](http://photos3.meetupstatic.com/photos/event/a/7/0/0/600_456642752.jpeg)
-
+![](http://photos3.meetupstatic.com/photos/event/c/4/8/4/600_456650308.jpeg) 
 [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/233578486/)
