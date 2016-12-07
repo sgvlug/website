@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-12-08T19:00:00-08:00</updated><entry><title>GitHub Webhooks</title><link href="http://www.sgvlug.org/2016/12/08/github-webhooks/" rel="alternate"></link><published>2016-12-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-12-08:2016/12/08/github-webhooks/</id><summary type="html">&lt;p&gt;&lt;strong&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing food.  We need to provide a list 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-12-08T19:00:00-08:00</updated><entry><title>GitHub New Features and Webhooks and API</title><link href="http://www.sgvlug.org/2016/12/08/github-new-features-and-webhooks-and-api/" rel="alternate"></link><published>2016-12-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-12-08:2016/12/08/github-new-features-and-webhooks-and-api/</id><summary type="html">&lt;p&gt;&lt;strong&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing food.  We need to provide a list 
 of names to building security. RSVPs will be capped at 40.  Contact Lan if you have questions.  See end of description for OpenX map&lt;br /&gt;
 Thanks to Derek for handling the OpenX logistics and updating the map&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note: This talk was originally scheduled for the November LUG, but had to be postponed due to speaker illness.&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Note: Our original speaker, Christian Weber, had to cancel, but he sent us another speaker, Jennie Ohyoung, who is also a Solutions Engineer at GitHub.  The topic has changed slightly.
 &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GitHub's webhooks are both powerful and flexible. Today we'll discuss using
-webhooks in some common, and not so common ways, from Pull Request driven
-infrastructure, to ChatOps driven CI, GitHub's webhooks provides you a myriad
-of ways to monitor and guide your Development Environments. We'll also discuss
-our robust API, and some data visualization techniques yielding from that
-data.&lt;/p&gt;
+&lt;p&gt;We will be covering the new features that were announced at GitHub Universe as well as how GitHub and other organizations use the GitHub's webhooks and API to enhance their existing workflows within GitHub. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Christian Weber is a Solutions Engineer at GitHub. Having spent the previous
-several years in finance doing various Dev and Ops related-things, Christian
-now spends his time focused on bringing GitHub and modern software tools into
-the Enterprise!&lt;/p&gt;
+&lt;p&gt;Jennie Ohyoung is a Solutions Engineer at GitHub as well with a background  in gaming and mobile. She has worked both as a support engineer as well as a sales engineer in her previous position. Her goal is to help developers to get the most out of GitHub and enable them with whatever is needed to reach their goal&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Timetable:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7:00pm - People start to arrive and socialize&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7:15pm - SGVLUG meeting begins with announcements, Linux in the News&lt;/strong&gt;&lt;/p&gt;
