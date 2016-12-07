@@ -1,4 +1,4 @@
-Title: GitHub Webhooks
+Title: GitHub New Features and Webhooks and API
 Date: 2016-12-08 19:00
 published: 2016-12-06 00:13
 event_date: 2016-12-08 19:00
@@ -9,27 +9,17 @@ event_updated: 1481011987000
 of names to building security. RSVPs will be capped at 40.  Contact Lan if you have questions.  See end of description for OpenX map  
 Thanks to Derek for handling the OpenX logistics and updating the map**
 
-**Note: This talk was originally scheduled for the November LUG, but had to be postponed due to speaker illness.  
+**Note: Our original speaker, Christian Weber, had to cancel, but he sent us another speaker, Jennie Ohyoung, who is also a Solutions Engineer at GitHub.  The topic has changed slightly.
 **
 
 **Topic**
 
-GitHub's webhooks are both powerful and flexible. Today we'll discuss using
-webhooks in some common, and not so common ways, from Pull Request driven
-infrastructure, to ChatOps driven CI, GitHub's webhooks provides you a myriad
-of ways to monitor and guide your Development Environments. We'll also discuss
-our robust API, and some data visualization techniques yielding from that
-data.
-
+We will be covering the new features that were announced at GitHub Universe as well as how GitHub and other organizations use the GitHub's webhooks and API to enhance their existing workflows within GitHub. 
   
 **Bio**
 
   
-Christian Weber is a Solutions Engineer at GitHub. Having spent the previous
-several years in finance doing various Dev and Ops related-things, Christian
-now spends his time focused on bringing GitHub and modern software tools into
-the Enterprise!
-
+Jennie Ohyoung is a Solutions Engineer at GitHub as well with a background  in gaming and mobile. She has worked both as a support engineer as well as a sales engineer in her previous position. Her goal is to help developers to get the most out of GitHub and enable them with whatever is needed to reach their goal
   
 **Timetable:**
 
