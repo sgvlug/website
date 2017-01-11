@@ -7,10 +7,12 @@ event_updated: 1481011987000
 
 **The wonderful folks at OpenX are hosting this meeting, and they are also providing food.  We need to provide a list 
 of names to building security. RSVPs will be capped at 40.  Contact Lan if you have questions.  See end of description for OpenX map  
-Thanks to Derek for handling the OpenX logistics and updating the map**
+**
 
 **Note: Our original speaker, Christian Weber, had to cancel, but he sent us another speaker, Jennie Ohyoung, who is also a Solutions Engineer at GitHub.  The topic has changed slightly.
 **
+
+**Final Note: Our actual speaker was Michelle Unger who was gracious enough to fill in at the last minute.  Jennie Ohyoung was unable to make it due to flight cancellation.  Much thanks to Jamie Wetzel for coordinating on GitHub side.**
 
 **Topic**
 
@@ -19,7 +21,6 @@ We will be covering the new features that were announced at GitHub Universe as w
 **Bio**
 
   
-Jennie Ohyoung is a Solutions Engineer at GitHub as well with a background  in gaming and mobile. She has worked both as a support engineer as well as a sales engineer in her previous position. Her goal is to help developers to get the most out of GitHub and enable them with whatever is needed to reach their goal
   
 **Timetable:**
 
