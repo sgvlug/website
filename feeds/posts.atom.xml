@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2016-12-08T19:00:00-08:00</updated><entry><title>GitHub New Features and Webhooks and API</title><link href="http://www.sgvlug.org/2016/12/08/github-new-features-and-webhooks-and-api/" rel="alternate"></link><published>2016-12-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-12-08:2016/12/08/github-new-features-and-webhooks-and-api/</id><summary type="html">&lt;p&gt;&lt;strong&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing food.  We need to provide a list 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-01-12T19:00:00-08:00</updated><entry><title>SCALE, Open Mic Night</title><link href="http://www.sgvlug.org/2017/01/12/scale-open-mic-night/" rel="alternate"></link><published>2017-01-12T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-01-12:2017/01/12/scale-open-mic-night/</id><summary type="html">&lt;p&gt;There is no formal presentation this month.  We will have adhoc talks and
+discussions including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SCALE 15x - registration, discount code, booth, SCALE A/V volunteers needed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Continuous Integration/Continuous Deployment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experiments with BeagleBone Black and ESP8266 wifi chip&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(tentative) Raspberry Pi project&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Survey of desired SGVLUG talks for 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/235769808/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>GitHub New Features and Webhooks and API</title><link href="http://www.sgvlug.org/2016/12/08/github-new-features-and-webhooks-and-api/" rel="alternate"></link><published>2016-12-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2016-12-08:2016/12/08/github-new-features-and-webhooks-and-api/</id><summary type="html">&lt;p&gt;&lt;strong&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing food.  We need to provide a list 
 of names to building security. RSVPs will be capped at 40.  Contact Lan if you have questions.  See end of description for OpenX map&lt;br /&gt;
-Thanks to Derek for handling the OpenX logistics and updating the map&lt;/strong&gt;&lt;/p&gt;
+&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note: Our original speaker, Christian Weber, had to cancel, but he sent us another speaker, Jennie Ohyoung, who is also a Solutions Engineer at GitHub.  The topic has changed slightly.
 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Final Note: Our actual speaker was Michelle Unger who was gracious enough to fill in at the last minute.  Jennie Ohyoung was unable to make it due to flight cancellation.  Much thanks to Jamie Wetzel for coordinating on GitHub side.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We will be covering the new features that were announced at GitHub Universe as well as how GitHub and other organizations use the GitHub's webhooks and API to enhance their existing workflows within GitHub. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Jennie Ohyoung is a Solutions Engineer at GitHub as well with a background  in gaming and mobile. She has worked both as a support engineer as well as a sales engineer in her previous position. Her goal is to help developers to get the most out of GitHub and enable them with whatever is needed to reach their goal&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Timetable:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7:00pm - People start to arrive and socialize&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;7:15pm - SGVLUG meeting begins with announcements, Linux in the News&lt;/strong&gt;&lt;/p&gt;
