@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-03-09T19:00:00-08:00</updated><entry><title>Data Carpentry and Open Science</title><link href="http://www.sgvlug.org/2017/03/09/data-carpentry-and-open-science/" rel="alternate"></link><published>2017-03-09T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-03-09:2017/03/09/data-carpentry-and-open-science/</id><summary type="html">&lt;p&gt;We will be socializing until 7:30am and then we'll do our usual LUG
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-04-13T19:00:00-07:00</updated><entry><title>Intro to Internet Security with Pi-Hole and OpenVPN</title><link href="http://www.sgvlug.org/2017/04/13/intro-to-internet-security-with-pi-hole-and-openvpn/" rel="alternate"></link><published>2017-04-13T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-04-13:2017/04/13/intro-to-internet-security-with-pi-hole-and-openvpn/</id><summary type="html">&lt;p&gt;&lt;strong&gt;This month, we are hosted by &lt;a href="http://www.everbridge.com/"&gt;Everbridge&lt;/a&gt; at
+their training center.  Everbridge is also sponsoring food and drink.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protecting your digital identity, passwords, and browsing activity is
+difficult in the world of open Wifi networks, freeware, and advanced
+advertising techniques based on tracking users across the web. While complete
+privacy is not possible while connected to the internet, there are many things
+you can do to make access to your personal data more difficult. This
+presentation will focus on the basics of internet security, how to begin
+protecting your network and your data, and why it's so important. We will
+focus on the two most prominent (and easiest to fix) security vulnerabilities:
+encrypting your browsing on external networks using OpenVPN, and blocking
+advertising and tracking as early as possible using Pi-Hole.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Andrew Witchger is the Chief Technology Officer at Federal Hearings and
+Appeals, Inc. (FHAS), the largest independent provider of medical appeals
+services nationwide. Andrew has lead new initiatives to incorporate software
+solutions to the aging medical appeal systems. His current projects aim to
+disrupt the way healthcare and insurance firms process claims by leveraging
+machine learning techniques. Prior to FHAS, Andrew was a research scientist
+focusing in cryogenics and particle physics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DIRECTIONS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The building is on Hudson Ave, between Colorado and Green St. The meeting
+room is off Hudson, next to the first floor gym with the classic glass walls
+and gym equipment.  You are responsible for your own parking.  The onsite
+parking is very expensive.   Please check the Parkopedia link for your options
+or take public transit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrgvj/?arriving=201611100630&amp;amp;amp;leaving=201611100930"&gt;http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrgvj/?arriving=201611100630&amp;amp;leaving=201611100930&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TIMETABLE:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:00pm - People start to arrive and socialize &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:30pm - SGVLUG meeting begins with announcements, Linux in the News, and then the presentation &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9:00pm - End meeting, clean up, and then head over to &lt;a href="https://www.yelp.com/biz/du-pars-restaurant-and-bakery-los-angeles"&gt;Du-Par's&lt;/a&gt; (214 S Lake Ave, Pasadena) to socialize further. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/238419778/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Data Carpentry and Open Science</title><link href="http://www.sgvlug.org/2017/03/09/data-carpentry-and-open-science/" rel="alternate"></link><published>2017-03-09T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-03-09:2017/03/09/data-carpentry-and-open-science/</id><summary type="html">&lt;p&gt;We will be socializing until 7:30am and then we'll do our usual LUG
 announcements and Linux in the News and talk about last weekend's Southern
 California Linux Expo.  Presentations usually start at 8pm.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;If we have at least 30 attendees, we will raffle off leftover booth swag.
