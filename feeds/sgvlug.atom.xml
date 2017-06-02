@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/sgvlug.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-06-10T00:00:00-07:00</updated><entry><title>SGVLUG/SGVHAK BBQ #5</title><link href="http://www.sgvlug.org/2017/06/10/sgvlugsgvhak-bbq-5/" rel="alternate"></link><published>2017-06-10T00:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-06-10:2017/06/10/sgvlugsgvhak-bbq-5/</id><summary type="html">&lt;p&gt;You and your friends and family are invited to the SGVLUG &amp;amp; SGVHAK potluck BBQ on Saturday, June 10th from 4pm to 10pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
-&lt;p&gt;RSVP and details to be released here on May 30th.  Announcements will go to SGVLUG and SGVHAK mailing lists.&lt;/p&gt;</summary></entry><entry><title>Lawyers vs Developers, The Fight Over FOSS in Enterprise</title><link href="http://www.sgvlug.org/2017/05/11/lawyers-vs-developers-the-fight-over-foss-in-enterprise/" rel="alternate"></link><published>2017-05-11T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-05-11:2017/05/11/lawyers-vs-developers-the-fight-over-foss-in-enterprise/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RSVP and details to be released here on May 30th.  Announcements will go to SGVLUG and SGVHAK mailing lists.&lt;/p&gt;</summary></entry><entry><title>NASA World Wind</title><link href="http://www.sgvlug.org/2017/06/08/nasa-world-wind/" rel="alternate"></link><published>2017-06-08T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-06-08:2017/06/08/nasa-world-wind/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;This month, we are hosted by &lt;a href="http://www.everbridge.com/"&gt;Everbridge&lt;/a&gt; at their training center. Everbridge is also sponsoring food and drink. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TOPIC:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NASA World Wind is an open source virtual globe that makes it easy to build 3D
+geospatial applications. World Wind provides APIs for Java, Android, and
+JavaScript, and includes a powerful set of capabilities for visualizing and
+interacting with spatial data and imagery. In the first part of this
+presentation I will discuss some the main features of World Wind, as well as
+the World Wind team's development philosophy. The second part of the evening
+will be an interactive workshop, in which we will build a simple geo
+application using the Web World Wind JavaScript API.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BIO:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Parker Abercrombie is a senior software engineer at NASA's Jet Propulsion
+Laboratory, and is the project lead for OnSight, a mixed reality tool that
+allows scientists and engineers to work virtually on Mars. Parker is also the
+lead developer of the science targeting software for the upcoming Mars 2020
+rover mission. Prior to joining JPL, Parker worked on geovisualization
+software for NASA's Ames Research Center and the U.S. Department of Energy,
+including World Wind, winner of the NASA Software of the Year Award in 2009.
+Parker holds an M.A. in Geography from Boston University, and a B.S. in
+Creative Studies from the University of California, Santa Barbara (which he
+swears is more technical than it sounds).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DIRECTIONS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The building is on Hudson Ave, between Colorado and Green St. The meeting
+room is off Hudson, next to the first floor gym with the classic glass walls
+and gym equipment. You are responsible for your own parking. The onsite
+parking is very expensive. Please check the Parkopedia link for your options
+or take public transit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&amp;amp;arriving=201706081830&amp;amp;leaving=201706092130"&gt;http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&amp;amp;arriving=201706081830&amp;amp;leaving=201706092130&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TIMETABLE:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:00pm - People start to arrive and socialize &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:30pm - SGVLUG meeting begins with announcements, Linux in the News, and then the presentation &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9:00pm - End meeting, clean up, and then head over to &lt;a href="https://www.yelp.com/biz/du-pars-restaurant-and-bakery-los-angeles"&gt;Du-Par's&lt;/a&gt; (214 S Lake Ave, Pasadena) to socialize further. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/240104662/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Lawyers vs Developers, The Fight Over FOSS in Enterprise</title><link href="http://www.sgvlug.org/2017/05/11/lawyers-vs-developers-the-fight-over-foss-in-enterprise/" rel="alternate"></link><published>2017-05-11T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-05-11:2017/05/11/lawyers-vs-developers-the-fight-over-foss-in-enterprise/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Enterprises have learned that Open Source is the way to develop great and mature 
 software. Leveraging open source tools and packages allows the enterprise to go to 
 market faster and have stronger applications. Therefore, using Open Source tools 
