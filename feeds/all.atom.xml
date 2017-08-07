@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-07-13T19:00:00-07:00</updated><entry><title>Raspberry Pi, VOIP, and Amateur Radio</title><link href="http://www.sgvlug.org/2017/07/13/raspberry-pi-voip-and-amateur-radio/" rel="alternate"></link><published>2017-07-13T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-07-13:2017/07/13/raspberry-pi-voip-and-amateur-radio/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-08-10T19:00:00-07:00</updated><entry><title>Custom Computer Projects</title><link href="http://www.sgvlug.org/2017/08/10/custom-computer-projects/" rel="alternate"></link><published>2017-08-10T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-08-10:2017/08/10/custom-computer-projects/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the many strengths of Linux is that it runs on commodity hardware from
+an extensive PC ecosystem. We have the freedom to assemble components in a way
+that is customized for our own specific needs. And now we can easily continue
+our customization to the physical form factor, thanks to recent advances
+lowering the cost of fabrication technologies like 3D printing and laser
+cutting. Not just the cosmetic art of the "case mod" audience, either:
+motivated tinkerers can build functionally useful creations and share them
+with the world.&lt;/p&gt;
+&lt;p&gt;We will walk through several custom computer projects, starting with the
+"Luggable PC" seen at recent SGVLUG meetups. Each project has its own
+motivation, design constraints, and undergo several iterations to refine the
+idea. The latest version of each project will be available for hands-on
+examination, some accompanied by their predecessors to show design evolution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Roger Cheng grew up in the San Gabriel Valley and studied Computer Science at
+UCLA. Upon graduation he moved out of town for a 16 year career in (closed-
+source) commercial software development. Seeking a change of pace, he quit and
+moved back. Now he is having a great time exploring the world of open-source
+and meeting local enthusiasts.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/241045152/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Raspberry Pi, VOIP, and Amateur Radio</title><link href="http://www.sgvlug.org/2017/07/13/raspberry-pi-voip-and-amateur-radio/" rel="alternate"></link><published>2017-07-13T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-07-13:2017/07/13/raspberry-pi-voip-and-amateur-radio/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Raspberry Pi has become a favorite of Amateur Radio operators world-wide.
 Although most of the development on projects is occurring outside of the
 United States, there are a significant number of products and hacks available.
