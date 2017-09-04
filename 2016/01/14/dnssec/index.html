@@ -1,92 +1,39 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:og="http://ogp.me/ns#"
-      xmlns:fb="https://www.facebook.com/2008/fbml">
+<html lang="en">
 <head>
-    <title>DNSSEC - SGVLUG</title>
-    <!-- Using the latest rendering mode for IE -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+          <title>SGVLUG</title>
+        <meta charset="utf-8" />
+        <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="SGVLUG Full Atom Feed" />
+        <link href="http://www.sgvlug.org/feeds/posts.atom.xml" type="application/atom+xml" rel="alternate" title="SGVLUG Categories Atom Feed" />
 
-    <!-- Open Graph tags -->
-        <meta property="og:site_name" content="SGVLUG" />
-            <meta property="og:type" content="article"/>
-            <meta property="og:title" content="DNSSEC"/>
-            <meta property="og:url" content="http://www.sgvlug.org/2016/01/14/dnssec/"/>
-            <meta property="og:description" content="This month, SGVLUG member Carlos Meza will preview his SCALE 14x talk on DNSSEC. Why should you care? &#34;DNSSec is an absolute requirement if we want to ... use the Internet for anything non-trivial.&#34; - Cricket Liu, Leading expert on the Domain Name System (DNS) &#34;The Internet needs this technology and it needs it now&#34; - Vint Cerf, Father of the Internet &#34;It is arguably one of the most important security improvements to the Internet ever.&#34; -Steve Crocker, Internet Pioneer and Chair of the Board of ICANN Abstract: DNS (Domain Name System) is used by everyone who is a consumer of the Internet. It is a core component of the Internet, yet it is completely insecure. This puts us all at risk. DNSSEC offers a solution to address the vulnerabilities of DNS . For this reason I hope stir up demand and motivation to deploy DNSSEC. We will go over the basic of DNS and its vulnerabilities. Then we will go over how DNSSEC works and the solution it provides. As users, we will look at why it is important for our safety to require that our service providers (ISPs, Registrars, Hosted Services (banking, commerce, etc)) provide DNSSEC. And we will also look at some user-end tools available to advantage of DNSSEC today. We will go over reasons why companies would want to make the effort and investment. For sysadmins, we will go over tools to aid with deployment and some considerations to be aware of. At its essence, DNS translates names, that humans understand, to IP addresses, that computers understand. This is how we are able to find other computers on the Internet (webpages, email servers, etc). But DNS does not provide a way to validate the answer we receive. This exposes all of us to a large vulnerability. Exploits such as DNS hijacking and DNS cache poisoning miss direct us and can lead us to potentially malicious computers. DNSSEC provides a solution to this by allowing authentication of DNS data through a chain-of- trust. Being able to trust DNS goes a long way to creating a safer Internet. When we can trust DNS other things become possible. We can now leverage DNS to store other information such as cryptographic keys. This means we can store and trust self signed SSL certificates in DNS because it is now a trusted source. This eliminates the need for certificate authorities and the issues with them. DNSSEC is a great improvement on a fundamental component of the Internet we all us. Biography: Carlos has worked many years as a system administrator. His interest include InfoSec, site reliability and automation, and open source development. While volunteering as an Interop Team Member, he was introduced to the significance of DNSSEC. Links: Why you need to deploy DNSSec now DNSSEC Industry Coalition Meets with Google&#39;s Chief Internet Evangelist Vint Cerf and Internet Researcher Dan Kaminsky 2011 Steve Crocker speaks about DNSSEC Deployment"/>
-            <meta property="article:published_time" content="2016-01-14" />
-                <meta property="article:section" content="posts" />
-                <meta property="article:author" content="SGVLUG" />
 
-    <!-- Bootstrap -->
-        <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/bootstrap.cosmo.min.css" type="text/css"/>
-    <link href="http://www.sgvlug.org/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="http://www.sgvlug.org/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/style.css" type="text/css"/>
-
-        <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-              title="SGVLUG ATOM Feed"/>
 
 </head>
-<body>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="http://www.sgvlug.org/" class="navbar-brand">
-SGVLUG            </a>
-        </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <div class="navbar-brand hidden-xs">San Gabriel Valley Linux User's Group</div>
-            <ul class="nav navbar-nav">
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-</div> <!-- /.navbar -->
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm-9">
-
-    <section id="content">
-        <article>
-            <header class="page-header">
-                <h1>
-                    <a href="http://www.sgvlug.org/2016/01/14/dnssec/"
-                       rel="bookmark"
-                       title="Permalink to DNSSEC">
-                        DNSSEC
-                    </a>
-                </h1>
-            </header>
-            <div class="post-info-block">
-    <div class="post-info">
-        <span class="label label-default">Event Date:</span>
-        <i class="fa fa-calendar"></i> <time datetime="2016-01-14 19:00">Thursday January 14, 2016 07:00 PM</time>
-    </div>
-    <div class="post-info">
-        <span class="label label-default">Event Location:</span>
-         <i class="fa fa-location-arrow"></i> Du-Par's Restaurant and Bakery, 214 S Lake Ave, Pasadena
-    </div>
-
-
-
-            </div>
-            <div class="entry-content">
-               <p>This month, SGVLUG member Carlos Meza will preview his <a href="http://www.socallinuxexpo.org/scale/14x/presentations/dnssec">SCALE 14x
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://www.sgvlug.org/">SGVLUG <strong>San Gabriel Valley Linux User's Group</strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="http://www.sgvlug.org/2016/01/14/dnssec/" rel="bookmark"
+         title="Permalink to DNSSEC">DNSSEC</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2016-01-14T19:00:00-08:00">
+      Thursday January 14, 2016 07:00 PM
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>This month, SGVLUG member Carlos Meza will preview his <a href="http://www.socallinuxexpo.org/scale/14x/presentations/dnssec">SCALE 14x
 talk</a> on DNSSEC.
 Why should you care?</p>
 <blockquote>
@@ -111,186 +58,13 @@ researcher-dan-kaminsky/">DNSSEC Industry Coalition Meets with Google's Chief In
 <li><a href="https://www.youtube.com/watch?v=YHVB4MjZdZ0">2011 Steve Crocker speaks about DNSSEC Deployment</a></li>
 </ul>
 <p><a href="http://www.meetup.com/SGVTech/events/225815816/"> <img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /> </a></p>
-            </div>
-            <!-- /.entry-content -->
-        </article>
-    </section>
-
-        </div>
-        <div class="col-sm-3 well well-sm" id="sidebar">
-
-<aside>
-    <section>
-        <ul class="list-group list-group-flush">
-
-                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
-                    <ul class="list-group" id="recentposts">
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2017/08/10/custom-computer-projects/">
-                                Custom Computer Projects
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2017/07/13/raspberry-pi-voip-and-amateur-radio/">
-                                Raspberry Pi, VOIP,  and Amateur Radio
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2017/06/10/sgvlugsgvhak-bbq-5/">
-                                SGVLUG/SGVHAK BBQ #5
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2017/06/08/nasa-world-wind/">
-                                NASA World Wind
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="http://www.sgvlug.org/2017/05/11/lawyers-vs-developers-the-fight-over-foss-in-enterprise/">
-                                Lawyers vs Developers, The Fight Over FOSS in Enterprise
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-
-
-
-            <li class="list-group-item"><a href="http://www.sgvlug.org/"><h4><i class="fa fa-archive fa-lg"></i><span class="icon-label">Info</span></h4></a>
-                    <ul class="list-group" id="pages">
-                        <li class="list-group-item"><a href="http://www.sgvlug.org/pages/about.html">
-                            About
-                        </a></li>
-                        <li class="list-group-item"><a href="http://www.sgvlug.org/pages/i-dont-want-my-e-mail-messages-archived.html">
-                            I don't want my e-mail messages archived!
-                        </a></li>
-                        <li class="list-group-item"><a href="http://www.sgvlug.org/pages/what-is-the-next-meeting-about.html">
-                            What is the next meeting about?
-                        </a></li>
-                    </ul>
-                </li>
-
-    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
-      <ul class="list-group" id="links">
-        <li class="list-group-item">
-            <a href="http://sgvlug.net/mailman/listinfo/sgvlug" target="_blank">
-                Mailing List
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://www.meetup.com/SGVTech/" target="_blank">
-                Meetup Group
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="https://twitter.com/sgvlug" target="_blank">
-                Twitter
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://webchat.freenode.net/?channels=sgvlug" target="_blank">
-                IRC: #sgvlug on Freenode
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="https://plus.google.com/111221024339538215725" target="_blank">
-                Google+
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://www.sgvhak.org/" target="_blank">
-                SGVHAK
-            </a>
-        </li>
-      </ul>
-    </li>
-    <li class="list-group-item"><h4><i class="fa fa-star fa-lg"></i><span class="icon-label">Sponsors</span></h4>
-        <div class="row">
-            <div class="col-md-12">
-                <div style="padding-top: 10px;">
-                    <a href="http://openx.com/">
-                        <img src="/images/sponsors/ox_logo.png" alt="OpenX" class="floatcenter">
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div style="padding-top: 10px;">
-                    <a href="http://www.redhat.com">
-                        <img src="/images/sponsors/redhat_logo.png" alt="Red Hat" class="floatcenter">
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div style="padding-top: 10px;">
-                    <a href="http://www.nostarch.com/">
-                        <img src="/images/sponsors/nsp_logo.png" alt="No Starch Press" class="floatcenter">
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div style="padding-top: 10px;">
-                    <a href="http://www.oreilly.com/">
-                        <img src="/images/sponsors/oreilly_logo.png" alt="O'Reilly" class="floatcenter">
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div style="padding-top: 10px;">
-                    <a href="http://hackaday.com/">
-                        <img src="/images/sponsors/hackaday_logo.png" alt="Hackaday" class="floatcenter">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </li>
-
-        </ul>
-    </section>
-
-</aside>        </div>
-    </div>
-</div>
-<footer>
-   <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2017 SGVLUG
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
-      </div>
-   </div>
-</footer>
-<script src="http://www.sgvlug.org/theme/js/jquery.min.js"></script>
-
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="http://www.sgvlug.org/theme/js/bootstrap.min.js"></script>
-
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="http://www.sgvlug.org/theme/js/respond.min.js"></script>
-
-<!-- ColorBox to make image display nicer -->
-<script src="http://www.sgvlug.org/theme/js/jquery.colorbox-min.js"></script>
-<script>
-    $(".image-reference").colorbox({maxWidth: "80%", maxHeight: "80%"});
-</script>
-
-    <!-- Google Analytics -->
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-37621013-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <!-- End Google Analytics Code -->
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
 </body>
 </html>
