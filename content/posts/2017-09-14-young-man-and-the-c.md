@@ -1,4 +1,4 @@
-Title: Custom Computer Projects
+Title: The Young Man and the C Reloaded
 Date: 2017-09-14 19:00
 published: 2017-09-04 00:18
 event_date: 2017-09-14 19:00
