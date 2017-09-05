@@ -1,30 +1,68 @@
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-        <title>SGVLUG</title>
-        <meta charset="utf-8" />
-        <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="SGVLUG Full Atom Feed" />
+    <title>SGVLUG</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="SGVLUG" />
+            <meta property="og:type" content="website"/>
+            <meta property="og:title" content="SGVLUG"/>
+            <meta property="og:url" content="http://www.sgvlug.org"/>
+            <meta property="og:description" content="SGVLUG"/>
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/bootstrap.cosmo.min.css" type="text/css"/>
+    <link href="http://www.sgvlug.org/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://www.sgvlug.org/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://www.sgvlug.org/theme/css/style.css" type="text/css"/>
+
+        <link href="http://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="SGVLUG ATOM Feed"/>
+
 </head>
+<body>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="http://www.sgvlug.org/">SGVLUG <strong>San Gabriel Valley Linux User's Group</strong></a></h1>
-        </header><!-- /#banner -->
-        <nav id="menu"><ul>
-        </ul></nav><!-- /#menu -->
-<section id="content">
-<h2>All articles</h2>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://www.sgvlug.org/" class="navbar-brand">
+SGVLUG            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <div class="navbar-brand hidden-xs">San Gabriel Valley Linux User's Group</div>
+            <ul class="nav navbar-nav">
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="http://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
 
-<ol id="post-list">
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2012/09/13/cloning-sysadmins-with-the-cloud-and-juju/" rel="bookmark" title="Permalink to Cloning SysAdmins with the Cloud and Juju">Cloning SysAdmins with the Cloud and Juju</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2012-09-13T00:00:00-07:00"> Thursday September 13, 2012 12:00 AM </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>Its time to face the music: There's only a couple guys in Ops, and a
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+            <article>
+                <h2><a href="http://www.sgvlug.org/2012/09/13/cloning-sysadmins-with-the-cloud-and-juju/">Cloning SysAdmins with the Cloud and Juju</a></h2>
+                <div class="post-info-block">
+                </div>
+                <div class="summary"><p>Its time to face the music: There's only a couple guys in Ops, and a
 lot of infrastructure to set up and it was all due yesterday. If only
 you could clone all the sysadmins of the world to get all of their
 expertise and know-how in deploying open source applications, you could
@@ -39,90 +77,304 @@ scalable, like OpenStack or Hadoop, Juju is built to handle that task.</p>
 years of Ops and Development experience in web environments to the task
 of making Ubuntu Server shine. <br/>
 Date: Thursday, September 13, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p> </div><!-- /.entry-content -->
-        </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2012/08/09/kinect-programming/" rel="bookmark" title="Permalink to Kinect Programming">Kinect Programming</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2012-08-09T00:00:00-07:00"> Thursday August 09, 2012 12:00 AM </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>Doug Vargas will talk about programming for the Kinect motion sensing input device by Microsoft.</p>
+Location: Caltech - Downs 107</p>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://www.sgvlug.org/2012/08/09/kinect-programming/">Kinect Programming</a></h2>
+                <div class="post-info-block">
+                </div>
+                <div class="summary"><p>Doug Vargas will talk about programming for the Kinect motion sensing input device by Microsoft.</p>
 <p>Speaker: Doug Vargas <br/>
 Date: Thursday, August 9, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p> </div><!-- /.entry-content -->
-        </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2012/07/12/open-discussion-july-2012/" rel="bookmark" title="Permalink to Open Discussion July 2012">Open Discussion July 2012</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2012-07-12T00:00:00-07:00"> Thursday July 12, 2012 12:00 AM </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>No scheduled speaker. Open discussion continued afterwards at Burger Continental.</p>
+Location: Caltech - Downs 107</p>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://www.sgvlug.org/2012/07/12/open-discussion-july-2012/">Open Discussion July 2012</a></h2>
+                <div class="post-info-block">
+                </div>
+                <div class="summary"><p>No scheduled speaker. Open discussion continued afterwards at Burger Continental.</p>
 <p>We will have a brief overview of <a href="http://git-scm.com">Git</a>.</p>
 <p>Speaker: You! <br/>
 Date: Thursday, July 12, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p> </div><!-- /.entry-content -->
-        </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2012/06/14/build-your-own-cloud-hosted-social-network-with-ruby-on-rails-git-and-heroku/" rel="bookmark" title="Permalink to Build your own cloud hosted social network with Ruby on Rails, Git and Heroku">Build your own cloud hosted social network with Ruby on Rails, Git and Heroku</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2012-06-14T00:00:00-07:00"> Thursday June 14, 2012 12:00 AM </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>Ruby on Rails is an open source framework for developing database driven websites.  Git is a source control management tool.  Heroku is web hosting in the cloud.  In this talk Homan Chou and David Ferril will give a brief overview of each of these tools and give a case study of a real
+Location: Caltech - Downs 107</p>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://www.sgvlug.org/2012/06/14/build-your-own-cloud-hosted-social-network-with-ruby-on-rails-git-and-heroku/">Build your own cloud hosted social network with Ruby on Rails, Git and Heroku</a></h2>
+                <div class="post-info-block">
+                </div>
+                <div class="summary"><p>Ruby on Rails is an open source framework for developing database driven websites.  Git is a source control management tool.  Heroku is web hosting in the cloud.  In this talk Homan Chou and David Ferril will give a brief overview of each of these tools and give a case study of a real
 working social network.</p>
 <p>Speaker: Homan Chou and David Ferril <br/>
 Date: Thursday, June 14, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p> </div><!-- /.entry-content -->
-        </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2012/05/10/rasberry-pi/" rel="bookmark" title="Permalink to Rasberry Pi">Rasberry Pi</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2012-05-10T00:00:00-07:00"> Thursday May 10, 2012 12:00 AM </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>The Raspberry Pi is a $35, 256MB educational computer that runs Linux.
+Location: Caltech - Downs 107</p>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://www.sgvlug.org/2012/05/10/rasberry-pi/">Rasberry Pi</a></h2>
+                <div class="post-info-block">
+                </div>
+                <div class="summary"><p>The Raspberry Pi is a $35, 256MB educational computer that runs Linux.
 Dan Kegel will demonstrate how the Pi can be used as a
 simple sensor network node, reporting observed Bluetooth
 addresses to a central server, running on 4 AA batteries.</p>
 <p>Speaker: Dan Kegel <br/>
 Date: Thursday, May 10, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p> </div><!-- /.entry-content -->
-        </article></li>
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="http://www.sgvlug.org/2012/04/12/python-web-frameworks-django-and-pylons/" rel="bookmark" title="Permalink to Python Web Frameworks - Django and Pylons">Python Web Frameworks - Django and Pylons</a></h2> </header>
-                <footer class="post-info">
-                    <abbr class="published" title="2012-04-12T00:00:00-07:00"> Thursday April 12, 2012 12:00 AM </abbr>
-                    <address class="vcard author">By
-                        <a class="url fn" href="http://www.sgvlug.org/author/sgvlug.html">SGVLUG</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <p>The two dominant python-based web frameworks are Django and Pylons. They can be used to deploy web applications such as news sites, online ticket tracking systems, or wikis. An overview and comparison of Django and the recently reinvented Pylons Project will be presented. Individual dependencies of the Pylons Project will be described including the Pyramid WSGI engine, the SQLAlchemy database Object Relational Mapper (ORM), and the Mako HTML template generator. A very simple blog engine will be implemented as an instructive example.</p>
+Location: Caltech - Downs 107</p>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://www.sgvlug.org/2012/04/12/python-web-frameworks-django-and-pylons/">Python Web Frameworks - Django and Pylons</a></h2>
+                <div class="post-info-block">
+                </div>
+                <div class="summary"><p>The two dominant python-based web frameworks are Django and Pylons. They can be used to deploy web applications such as news sites, online ticket tracking systems, or wikis. An overview and comparison of Django and the recently reinvented Pylons Project will be presented. Individual dependencies of the Pylons Project will be described including the Pyramid WSGI engine, the SQLAlchemy database Object Relational Mapper (ORM), and the Mako HTML template generator. A very simple blog engine will be implemented as an instructive example.</p>
 <p>Speaker: Braddock Gaskill (braddock .at. braddock.com) <br/>
 Date: Thursday, April 12, 2012 @ 7 pm <br/>
-Location: Caltech - Downs 107</p> </div><!-- /.entry-content -->
-        </article></li>
-</ol><!-- /#posts-list -->
-<p class="paginator">
-        <a href="http://www.sgvlug.org/index11.html">&laquo;</a>
-    Page 12 / 26
-        <a href="http://www.sgvlug.org/index13.html">&raquo;</a>
-</p>
-</section><!-- /#content -->
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-        </footer><!-- /#contentinfo -->
+Location: Caltech - Downs 107</p>
+                </div>
+            </article>
+            <hr/>
+
+        <ul class="pagination">
+                <li class="prev"><a href="http://www.sgvlug.org/index11.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index.html">1</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index2.html">2</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index3.html">3</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index4.html">4</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index5.html">5</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index6.html">6</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index7.html">7</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index8.html">8</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index9.html">9</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index10.html">10</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index11.html">11</a></li>
+                    <li class="active"><a
+                            href="http://www.sgvlug.org/index12.html">12</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index13.html">13</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index14.html">14</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index15.html">15</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index16.html">16</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index17.html">17</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index18.html">18</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index19.html">19</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index20.html">20</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index21.html">21</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index22.html">22</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index23.html">23</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index24.html">24</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index25.html">25</a></li>
+                    <li class=""><a
+                            href="http://www.sgvlug.org/index26.html">26</a></li>
+                <li class="next"><a
+                        href="http://www.sgvlug.org/index13.html">&raquo;</a></li>
+        </ul>
+        </div>
+        <div class="col-sm-3 well well-sm" id="sidebar">
+
+<aside>
+    <section>
+        <ul class="list-group list-group-flush">
+
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
+                    <ul class="list-group" id="recentposts">
+                        <li class="list-group-item">
+                            <a href="http://www.sgvlug.org/2017/09/14/the-young-man-and-the-c-reloaded/">
+                                The Young Man and the C Reloaded
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="http://www.sgvlug.org/2017/08/10/custom-computer-projects/">
+                                Custom Computer Projects
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="http://www.sgvlug.org/2017/07/13/raspberry-pi-voip-and-amateur-radio/">
+                                Raspberry Pi, VOIP,  and Amateur Radio
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="http://www.sgvlug.org/2017/06/10/sgvlugsgvhak-bbq-5/">
+                                SGVLUG/SGVHAK BBQ #5
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="http://www.sgvlug.org/2017/06/08/nasa-world-wind/">
+                                NASA World Wind
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+
+
+            <li class="list-group-item"><a href="http://www.sgvlug.org/"><h4><i class="fa fa-archive fa-lg"></i><span class="icon-label">Info</span></h4></a>
+                    <ul class="list-group" id="pages">
+                        <li class="list-group-item"><a href="http://www.sgvlug.org/pages/about.html">
+                            About
+                        </a></li>
+                        <li class="list-group-item"><a href="http://www.sgvlug.org/pages/i-dont-want-my-e-mail-messages-archived.html">
+                            I don't want my e-mail messages archived!
+                        </a></li>
+                        <li class="list-group-item"><a href="http://www.sgvlug.org/pages/what-is-the-next-meeting-about.html">
+                            What is the next meeting about?
+                        </a></li>
+                    </ul>
+                </li>
+
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://sgvlug.net/mailman/listinfo/sgvlug" target="_blank">
+                Mailing List
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://www.meetup.com/SGVTech/" target="_blank">
+                Meetup Group
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://twitter.com/sgvlug" target="_blank">
+                Twitter
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://webchat.freenode.net/?channels=sgvlug" target="_blank">
+                IRC: #sgvlug on Freenode
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://plus.google.com/111221024339538215725" target="_blank">
+                Google+
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://www.sgvhak.org/" target="_blank">
+                SGVHAK
+            </a>
+        </li>
+      </ul>
+    </li>
+    <li class="list-group-item"><h4><i class="fa fa-star fa-lg"></i><span class="icon-label">Sponsors</span></h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="http://openx.com/">
+                        <img src="/images/sponsors/ox_logo.png" alt="OpenX" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="http://www.redhat.com">
+                        <img src="/images/sponsors/redhat_logo.png" alt="Red Hat" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="http://www.nostarch.com/">
+                        <img src="/images/sponsors/nsp_logo.png" alt="No Starch Press" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="http://www.oreilly.com/">
+                        <img src="/images/sponsors/oreilly_logo.png" alt="O'Reilly" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="http://hackaday.com/">
+                        <img src="/images/sponsors/hackaday_logo.png" alt="Hackaday" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </li>
+
+        </ul>
+    </section>
+
+</aside>        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2017 SGVLUG
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://www.sgvlug.org/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://www.sgvlug.org/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://www.sgvlug.org/theme/js/respond.min.js"></script>
+
+<!-- ColorBox to make image display nicer -->
+<script src="http://www.sgvlug.org/theme/js/jquery.colorbox-min.js"></script>
+<script>
+    $(".image-reference").colorbox({maxWidth: "80%", maxHeight: "80%"});
+</script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37621013-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 </body>
 </html>
