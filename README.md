@@ -31,6 +31,11 @@ If you are added to access list you can clone this way:
 $ git clone git@github.com:sgvlug/website.git sgvlug_website
 ```
 
+You must then init and update the submodules, which include the site's theme.
+```bash
+$ git submodule init && git submodule update 
+```
+
 ## Creating a New Post
 
 Open an editor to create a new post:
