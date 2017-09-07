@@ -20,14 +20,13 @@ other tools to detect and/or eliminate bugs.
 
 **Dustin Laurence Bio**
 
-Intending to become a programmer ("developer" hadn't been invented by
-the marketing department yet), Dustin got sidetracked and spent more
-time than he cares to admit doing theoretical physics, a background
-filled with continuous mathematics almost entirely irrelevant to
-computer science. He eventually returned to his original love of, and
-though they probably won't admit it currently hacks code for Whitemoon
-Dreams, Inc.  He avoids social media for the same reason he doesn't do
-crack cocaine.
+Intending to become a programmer ("developer" hadn't been invented by the
+marketing department yet), Dustin got sidetracked and spent more time than he
+cares to admit doing theoretical physics, a background filled with continuous
+mathematics almost entirely irrelevant to computer science. He eventually
+returned to his original love of programming, and though they probably won't
+admit it currently hacks code for Whitemoon Dreams, Inc.  He avoids social
+media for the same reason he doesn't do crack cocaine.
 
 ---
 
