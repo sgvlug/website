@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 14 Sep 2017 19:00:00 -0700</lastBuildDate><item><title>The Young Man and the C Reloaded</title><link>http://www.sgvlug.org/2017/09/14/the-young-man-and-the-c-reloaded/</link><description>&lt;p&gt;&lt;strong&gt;The Young Man and the C Reloaded&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 12 Oct 2017 19:00:00 -0700</lastBuildDate><item><title>Rustlang for your brain. Rustlang for your team. Rust, for Justice.</title><link>http://www.sgvlug.org/2017/10/12/rustlang-for-your-brain-rustlang-for-your-team-rust-for-justice/</link><description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;This month, we are hosted by &lt;a href="http://www.everbridge.com/"&gt;Everbridge&lt;/a&gt; at their training center. Everbridge is also sponsoring food and drink. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ABSTRACT:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.rust-lang.org/en-US/"&gt;Rust&lt;/a&gt; is a new and exciting systems programming language promising strong
+typing, cost free abstractions, and fearless concurrency. Some of these hard
+problems have plagued all programming languages for years. We'll talk about
+why Rust helps you think about other programming languages more accurately,
+why Rust helps you communicate with your team, and how you can help test some
+actual Rust code every day to help the Mozilla foundation improve Firefox.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SPEAKER:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clint Byrum - Senior Cloud Engineer, GoDaddy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Clint has spent decades in the tech industry, using, developing, and
+maintaining Free and Open Source software. He is an active member of the
+Ubuntu, MySQL, Gearman, Debian and OpenStack communities. If it's not in
+version control, Clint does not know it exists. When not evangelizing
+continuous delivery, writing tests, automating deployments, and developing
+code in Python, C, Rust, Ansible, and/or Bash, he spends time raising his 4
+children, playing Roller Hockey and doing CrossFit in Los Angeles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DIRECTIONS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The building is on Hudson Ave, between Colorado and Green St. The meeting
+room is off Hudson, next to the first floor gym with the classic glass walls
+and gym equipment. You are responsible for your own parking. The onsite
+parking is very expensive. Please check the Parkopedia link for your options
+or take public transit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&amp;amp;arriving=201710121830&amp;amp;leaving=201710122130"&gt;https://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&amp;amp;arriving=201710121830&amp;amp;leaving=201710122130&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TIMETABLE:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:00pm - People start to arrive and socialize &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7:30pm - SGVLUG meeting begins with announcements, Linux in the News, and then the presentation &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9:00pm - End meeting, clean up, and then head over to &lt;a href="https://www.yelp.com/biz/du-pars-restaurant-and-bakery-los-angeles"&gt;Du-Par's&lt;/a&gt; (214 S Lake Ave, Pasadena) to socialize further. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/241068385/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 12 Oct 2017 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2017-10-12:2017/10/12/rustlang-for-your-brain-rustlang-for-your-team-rust-for-justice/</guid></item><item><title>The Young Man and the C Reloaded</title><link>http://www.sgvlug.org/2017/09/14/the-young-man-and-the-c-reloaded/</link><description>&lt;p&gt;&lt;strong&gt;The Young Man and the C Reloaded&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;What if I told you that most or all nontrivial C and C++ programs you have ever
 written were just illusions? Most such programs contain undefined behavior, and
 undefined behavior is at the heart of most C and C++ security problems, yet few
