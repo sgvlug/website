@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-10-12T19:00:00-07:00</updated><entry><title>Rustlang for your brain. Rustlang for your team. Rust, for Justice.</title><link href="http://www.sgvlug.org/2017/10/12/rustlang-for-your-brain-rustlang-for-your-team-rust-for-justice/" rel="alternate"></link><published>2017-10-12T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-10-12:2017/10/12/rustlang-for-your-brain-rustlang-for-your-team-rust-for-justice/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;This month, we are hosted by &lt;a href="http://www.everbridge.com/"&gt;Everbridge&lt;/a&gt; at their training center. Everbridge is also sponsoring food and drink. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-11-09T19:00:00-08:00</updated><entry><title>Summer App Space</title><link href="http://www.sgvlug.org/2017/11/09/summer-app-space/" rel="alternate"></link><published>2017-11-09T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-11-09:2017/11/09/summer-app-space/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing pizza. 
+&lt;/em&gt; We need to provide a list of names to building security. &lt;/strong&gt;&lt;em&gt;&lt;strong&gt; RSVPs will be capped at 80. 
+Contact Lan if you have questions. &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this talk &lt;a href="http://christinecorbettmoran.com/"&gt;Dr. Corbett Moran&lt;/a&gt; will discuss the challenges 
+and rewards of instructing a mixed skill class in an apprenticeship style learning environment.&lt;/p&gt;
+&lt;p&gt;On June 26-August 4, 2017 she led a summer program, &lt;a href="http://summerappspace.com/"&gt;Summer App Space&lt;/a&gt;, 
+for LA students and teachers to learn programming while getting paid to do fun space-related projects. Her work on
+this was supported by NSF Astronomy and Astrophysics Postdoctoral Fellowship
+award AST-1501208. Summer App Space is a paid apprenticeship where high school
+students are paid to attend a six week school learning to program in Python
+and the fundamentals of Linux, 20 hours per week. Four weeks are lecture and
+lab based, and the last two weeks are project based incorporating a deliverable product and entrepreneurial style teams. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Corbett Moran is the lead curriculum designer, recruiter and instructor
+for the Summer App Space (SAS) 2017 program. She brings to the table extensive
+experience in running such programs from a teaching, technology,
+organizational, scientific and industry connection perspective.&lt;/p&gt;
+&lt;p&gt;She taught introductory and advanced courses in MIT MEET: Middle East
+Education Through Technology for two summers. MEET is a gifted high school
+program in which she taught Java programming and mobile app development in a
+project, lecture, and guest speaker format. MEET's mission is creating a
+common professional language between Israeli and Palestinian young leaders.
+Dr. Corbett Moran served as the lead technical instructor in MIT's Global
+Startup labs in the Philippines for a summer to students from a variety of
+backgrounds and socio-economic status in the Manila area in a highly similar
+format to that planned for SAS. She has organized speakers and technology for
+TEDxZurich as well as hackathons for Open WhisperSystems and a site of the
+NASA Space Apps Challenge, on which she is basing SAS projects.&lt;/p&gt;
+&lt;p&gt;Dr. Corbett Moran dually majored in Physics and Computer Science at MIT,
+obtained a Master's and Ph.D. focusing on Computational Astrophysics at UZH,
+and her NSF Astronomy and Astrophysics Postdoctoral Fellowship research is at
+the intersection of the two. She has worked for SpaceX as an intern in
+Propulsion Analysis and has over 10 years of industry programming experience
+in cutting-edge web and mobile technologies. Dr. Corbett Moran has served as a
+teaching assistant and lab assistant for 8 courses, spoken around the globe as
+a highly praised public speaker, and mentored several students. Dr. Corbett
+Moran's participation has been enabled by NSF Astronomy and Astrophysics
+Postdoctoral Fellowship award AST-1501208.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DIRECTIONS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenX is located in the One West Bank building @ 888 E Walnut St. Pasadena CA, 91101. 
+Entrances to the building are eastbound on Walnut, right hand side before the Lake St. 
+intersection or southbound on Lake St. right hand side after the Walnut St. intersection. 
+Once through the driveway, please park in the 888 Lot that has the OpenX logo displayed 
+out front. Pull a ticket and bring it with you to the Meetup, we will validate your parking.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/244163293/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Rustlang for your brain. Rustlang for your team. Rust, for Justice.</title><link href="http://www.sgvlug.org/2017/10/12/rustlang-for-your-brain-rustlang-for-your-team-rust-for-justice/" rel="alternate"></link><published>2017-10-12T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-10-12:2017/10/12/rustlang-for-your-brain-rustlang-for-your-team-rust-for-justice/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;This month, we are hosted by &lt;a href="http://www.everbridge.com/"&gt;Everbridge&lt;/a&gt; at their training center. Everbridge is also sponsoring food and drink. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ABSTRACT:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.rust-lang.org/en-US/"&gt;Rust&lt;/a&gt; is a new and exciting systems programming language promising strong
 typing, cost free abstractions, and fearless concurrency. Some of these hard
