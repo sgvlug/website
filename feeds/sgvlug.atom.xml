@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/sgvlug.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-11-09T19:00:00-08:00</updated><entry><title>Summer App Space</title><link href="http://www.sgvlug.org/2017/11/09/summer-app-space/" rel="alternate"></link><published>2017-11-09T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-11-09:2017/11/09/summer-app-space/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing pizza. 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/sgvlug.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2017-12-14T19:00:00-08:00</updated><entry><title>26 years of teaching Unix/Linux</title><link href="http://www.sgvlug.org/2017/12/14/26-years-of-teaching-unixlinux/" rel="alternate"></link><published>2017-12-14T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-12-14:2017/12/14/26-years-of-teaching-unixlinux/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Unix Operating System has been around since the 1960s and has provided the
+backbone for the modern "Internet."&lt;/p&gt;
+&lt;p&gt;The core of the Unix and Linux experience is the command line shell. This
+powerful text based interface can be leveraged to automate tasks and solve
+problems that would be too tedious to tackle.  The Born Again Shell is
+available on all Unix and Linux platforms.  A clear understanding of the
+features of the shell along with a basic set of commands can improve your
+productivity and change the way you implement solutions to text based
+problems.&lt;/p&gt;
+&lt;p&gt;Eric will provide an overview of how his Unix/Linux classroom has evolved over
+26 years.  From the blackboard handwritten lecture in a room without computers
+to modern classroom with a computer on every desk.  Through it all, the common
+set of command line capabilities has remained a staple in the Unix/Linux
+mindset.  sed, grep, cut, tr, and awk are tools that can be combined to
+transform the simplest of users into a "Power User".&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eric Danielson was first exposed to FORTRAN as part of a Saturday high school
+program at JPL.  Before that, he hadn't been exposed to computers except for
+watching his father open up a briefcase sized modem to transfer files using
+the house phone handset.  The Saturday class would walk onto the JPL campus
+and sit at someone's desk to log into a VAX terminal to edit, compile and run
+FORTRAN77 code.&lt;/p&gt;
+&lt;p&gt;Eric has since earned a B.S. in General Engineering from Harvey Mudd College
+and a M.S. in Computer Science from USC.  Eric started working at JPL as a
+summer student.  At that time, he was running radiative transfer code
+(FORTRAN) and supporting a science team.  After the brand new Sun Microsystem
+workstations were installed in the Science Division computer lab, Eric took
+some evening classes at Glendale College that included C Programing and Unix
+Shell Programming.  Soon after, a co-worker and mentor at JPL encouraged Eric
+to take over his teaching workload at Glendale College.  An increase in his
+JPL travel schedule was making it difficult to continue teaching. Eric started
+teaching BASIC Programming and FORTRAN in 1989.  He eventually took over the
+Unix class and has since added the Unix/Linux System Administration class to
+the Glendale College curriculum.&lt;/p&gt;
+&lt;p&gt;Eric is currently the Science Data System (SDS) System Engineer for the Multi-
+angle Imaging SpectroRadiometer (MISR) instrument on the Terra Earth Observing
+System satellite and the Multi-Angle Imager for Aerosols (MAIA) instrument
+currently in development.&lt;/p&gt;
+&lt;p&gt;Eric enjoys tinkering with Raspberry Pis and Arduinos in the creative realm of
+"Makers".  His recent projects include a portable air quality monitor and a
+time-lapse camera with a Raspberry Pi.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/245163211/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Summer App Space</title><link href="http://www.sgvlug.org/2017/11/09/summer-app-space/" rel="alternate"></link><published>2017-11-09T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2017-11-09:2017/11/09/summer-app-space/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;The wonderful folks at OpenX are hosting this meeting, and they are also providing pizza. 
 &lt;/em&gt; We need to provide a list of names to building security. &lt;/strong&gt;&lt;em&gt;&lt;strong&gt; RSVPs will be capped at 80. 
 Contact Lan if you have questions. &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
