@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 14 Dec 2017 19:00:00 -0800</lastBuildDate><item><title>26 years of teaching Unix/Linux</title><link>http://www.sgvlug.org/2017/12/14/26-years-of-teaching-unixlinux/</link><description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 11 Jan 2018 19:00:00 -0800</lastBuildDate><item><title>Practical AWK - AWKwardly Dealing with Data</title><link>http://www.sgvlug.org/2018/01/11/practical-awk-awkwardly-dealing-with-data/</link><description>&lt;p&gt;Lan will be giving a preview of her SCaLE 16x talk on AWK. Any feedback will
+be extremely helpful. We'll also be talking about SCaLE, volunteering for
+SCaLE, and plans for our booth at SCaLE.&lt;/p&gt;
+&lt;p&gt;Dinner begins around 7pm and the presentation will start after most people
+have received their food or 8pm, whichever comes first. Buying dinner is
+optional.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Practical AWK - AWKwardly Dealing with Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AWK is a text processing programming language developed at Bell Labs in the
+1970s. It was originally used for data extraction and reporting. It inspired
+the creation of Perl and can, for the most part, be replaced by Python. It is
+still incredibly useful on the Linux command-line, both for one-liners or for
+short, powerful scripts.&lt;/p&gt;
+&lt;p&gt;Most people have used AWK in one way or another, but they use it without
+understanding the language. AWK syntax can seem strange. But once you
+understand that it is a data-driven pattern action language where the data is
+automatically parsed into predefined variables, it becomes a powerful and
+intuitive tool.&lt;/p&gt;
+&lt;p&gt;This talk seeks to take the mystery out of AWK by giving a quick introduction
+to the language and its features. There will be examples where it provides
+functionality that a dedicated utility like grep or cut or head might not.
+There will also be more complex examples where a few lines of AWK result in
+useful summarization of large amounts of raw data.&lt;/p&gt;
+&lt;p&gt;AWK is a great Swiss Army knife if you spend a lot of time on the command-
+line.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lan Dang Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lan Dang is an Operations Engineer with the Jet Propulsion Laboratory,
+specializing in science data systems operations and large scale data
+processing. She spends most of her time on the command line of various remote
+Linux systems. Her favorite tools are screen, awk, vim, and git. In her spare
+time, she is active in the San Gabriel Valley tech community as a leader of
+the SGVLUG and its sister group, the SGVHAK hardware hacking group.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/246506476/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 11 Jan 2018 19:00:00 -0800</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2018-01-11:2018/01/11/practical-awk-awkwardly-dealing-with-data/</guid></item><item><title>26 years of teaching Unix/Linux</title><link>http://www.sgvlug.org/2017/12/14/26-years-of-teaching-unixlinux/</link><description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Unix Operating System has been around since the 1960s and has provided the
 backbone for the modern "Internet."&lt;/p&gt;
 &lt;p&gt;The core of the Unix and Linux experience is the command line shell. This
