@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-02-08T19:00:00-08:00</updated><entry><title>The 5W1H of Getting Involved with Open Source</title><link href="http://www.sgvlug.org/2018/02/08/the-5w1h-of-getting-involved-with-open-source/" rel="alternate"></link><published>2018-02-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-02-08:2018/02/08/the-5w1h-of-getting-involved-with-open-source/</id><summary type="html">&lt;p&gt;The wonderful folks at OpenX are hosting this meeting, and they are also
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-04-12T19:00:00-07:00</updated><entry><title>Raspberry Pi</title><link href="http://www.sgvlug.org/2018/04/12/raspberry-pi/" rel="alternate"></link><published>2018-04-12T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-04-12:2018/04/12/raspberry-pi/</id><summary type="html">&lt;p&gt;Dr. Sam Coleman will share his experiences with the Raspberry Pi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The raspberry pi computer has become one of the most versatile computer
+platforms in the world. However few people truly understand what can be done
+with this $35 single board computer. In this presentation I'll share with you
+a few of the projects that I have put together using this inexpensive ARM
+based computer. The presentation will conclude with a brief Q and A session.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/248619476/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>SCALE 16x</title><link href="http://www.sgvlug.org/2018/03/08/scale-16x/" rel="alternate"></link><published>2018-03-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-03-08:2018/03/08/scale-16x/</id><summary type="html">&lt;p&gt;Get your tickets at: https://register.socallinuxexpo.org/reg6/&lt;/p&gt;
+&lt;p&gt;Promo code "SGVLG" will get you 50% off full SCALE pass.&lt;/p&gt;
+&lt;p&gt;SGVLUG/SGVHAK/Repair Cafe will be at booth #701 in the Expo Hall, and you'll see a lot of familiar faces staffing, speaking, or just attending the conference.&lt;/p&gt;
+&lt;p&gt;Join us at the SCALE! SCALE is the largest community run open source tech / FOSS / pro-EFF conference and expo in North America. It is family-friendly and caters to a diverse audience of IT professionals, hobbyists, educators and students.&lt;/p&gt;
+&lt;p&gt;This year there will be over 180 presentations and workshops. Topics covered: Container and Virtualization, Cloud, Developer, DevOps, Embedded, General, interesting Keynotes, LibreGraphics, Mentoring, Monitoring, MySQL, Next Generation ( under 18 presenters ), Open Data, Open Source in Enterprises, PostgreSQL, Security, Sponsored, SysAdmin, Ubucon ( a colocated Ubuntu Conference )&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Special tracks and workshops&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Legal &amp;amp; Licensing ( $150, 5 MCLE credit hours ), LPI certification exams ( $99 ), Embedded Apprentice Linux Engineer workshop, Capture the Flag, Game Night, and more..&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.socallinuxexpo.org/scale/16x/scale-kids"&gt;Scale-kids&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Saturday, there is a youth track known as The Next Generation, that includes a hands-on activity room known as The Next Generation Playground.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Birds of a Feather&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rooms are available Thu-Sat night for user groups and round table discussions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job board and BOF&lt;/strong&gt;
+ScaLE 16x will have a job board and job BOF onsite.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Expo Hall&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fri Mar 9 2-5PM; Sat Mar 10 10AM-5PM; Sun Mar 11 10AM-2PM&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.socallinuxexpo.org/scale/16x/schedule/thursday"&gt;Thursday schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.socallinuxexpo.org/scale/16x/schedule/friday"&gt;Friday schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.socallinuxexpo.org/scale/16x/schedule/saturday"&gt;Saturday schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.socallinuxexpo.org/scale/16x/schedule/sunday"&gt;Sunday schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/247897095/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>The 5W1H of Getting Involved with Open Source</title><link href="http://www.sgvlug.org/2018/02/08/the-5w1h-of-getting-involved-with-open-source/" rel="alternate"></link><published>2018-02-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-02-08:2018/02/08/the-5w1h-of-getting-involved-with-open-source/</id><summary type="html">&lt;p&gt;The wonderful folks at OpenX are hosting this meeting, and they are also
 providing pizza. We need to provide a list of names to building security.
 RSVPs will be capped at 60. Contact Lan if you have questions.&lt;/p&gt;
 &lt;p&gt;Also, the &lt;a href="http://www.socallinuxexpo.org/scale/16x"&gt;Southern California Linux Expo&lt;/a&gt; 
