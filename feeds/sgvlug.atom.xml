@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/sgvlug.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-04-12T19:00:00-07:00</updated><entry><title>Raspberry Pi</title><link href="http://www.sgvlug.org/2018/04/12/raspberry-pi/" rel="alternate"></link><published>2018-04-12T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-04-12:2018/04/12/raspberry-pi/</id><summary type="html">&lt;p&gt;Dr. Sam Coleman will share his experiences with the Raspberry Pi.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/sgvlug.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-05-10T19:00:00-07:00</updated><entry><title>JPL Open Source Rover</title><link href="http://www.sgvlug.org/2018/05/10/jpl-open-source-rover/" rel="alternate"></link><published>2018-05-10T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-05-10:2018/05/10/jpl-open-source-rover/</id><summary type="html">&lt;p&gt;Eric Junkins, a Software Systems Engineer with the Jet Propulsion Laboratory, will talk about the
+JPL Open Source Rover.  SGVHAK is one of the beta build groups for this project, so we have lots
+to discuss and show off.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The JPL Open Source Rover is an open source robotics project aimed at STEM education at the high school level. 
+The robot is designed to have the same mechanical suspension and steering mechanism that the Mars rovers employ. 
+This project teaches many aspects that go into robotics, with aspects in mechanical and electrical 
+design/engineering, and software development. At this point we have had a few beta test groups on our build 
+instructions, and after refienment of those are quickly approaching the release date. Eric will be talking 
+about the project, its' background, and is hoping to get feedback from some members who have had lots of 
+experience in the Open Source realm.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/zvpphlyxhbnb/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Raspberry Pi</title><link href="http://www.sgvlug.org/2018/04/12/raspberry-pi/" rel="alternate"></link><published>2018-04-12T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-04-12:2018/04/12/raspberry-pi/</id><summary type="html">&lt;p&gt;Dr. Sam Coleman will share his experiences with the Raspberry Pi.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The raspberry pi computer has become one of the most versatile computer
 platforms in the world. However few people truly understand what can be done
