@@ -27,4 +27,4 @@ What do we believe in?
 Meetings
 --------
 
-We typically meet at [Dupars](http://www.dupars.net/Store/locations/) in Pasadena on the 2nd Thursday of the month. Occasionally we meet at the [OpenX](http://openx.com/) headquarters. Please see the latest announcement on our website or our [Meetup group](http://www.meetup.com/SGVTech) for each month's meeting location.
+We typically meet at [Dupars](http://www.dupars.net/Store/locations/) in Pasadena on the 2nd Thursday of the month. Occasionally we meet at the [OpenX](http://openx.com/) headquarters. Meeting notices are generally posted to Meetup first and then published on the website.  Please see the latest announcement on our website or our [Meetup group](http://www.meetup.com/SGVTech) for each month's meeting location.
