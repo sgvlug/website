@@ -7,4 +7,5 @@ categories:
 
 You and your friends and family are invited to the SGVLUG & SGVHAK potluck BBQ on Saturday, July 7th from 4pm to 9pm to Lan's house in the city of San Gabriel. 
 
-Details and RSVP form will be posted the last week of June.  Contact Lan if you want to help organize/setup.
+Details on the Google form.  Please RSVP before July 5th: 
+[https://goo.gl/forms/LuFdd1zaAMfCsVJg1](https://goo.gl/forms/LuFdd1zaAMfCsVJg1)
