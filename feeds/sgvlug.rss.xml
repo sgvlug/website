@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 14 Jun 2018 00:00:00 -0700</lastBuildDate><item><title>SGVLUG/SGVHAK BBQ #6</title><link>http://www.sgvlug.org/2018/06/14/sgvlugsgvhak-bbq-6/</link><description>&lt;p&gt;You and your friends and family are invited to the SGVLUG &amp;amp; SGVHAK potluck BBQ on Saturday, July 7th from 4pm to 9pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
+<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 12 Jul 2018 19:00:00 -0700</lastBuildDate><item><title>Working with Data in the Unix Shell</title><link>http://www.sgvlug.org/2018/07/12/working-with-data-in-the-unix-shell/</link><description>&lt;p&gt;Join us for our monthly LUG meeting, featuring some very interesting shell data
+tools written by this month's speaker, Dima Kogan.&lt;/p&gt;
+&lt;p&gt;The UNIX shell is a useful environment to get work done. There're a number of
+standard, simple tools that talk to each other via a universal interface: the
+pipeline. This talk focuses on methods to manipulate and visualize data
+directly in the shell, without moving to specialized environments (numpy,
+matlab, etc). Specifically I will demonstrate and describe&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;feedgnuplot&lt;/em&gt; - a tool plot data coming in on STDIN&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;vnlog&lt;/em&gt; - a toolkit to read, write and manipulate columnar ASCII data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are independent tools that are useful standalone, but with shell
+piping are EXTRA useful together and in conjunction with other standard
+UNIX tools. This unification of data processing and normal shell usage
+enable powerful workflows that are otherwise unavailable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SPEAKER&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dima Kogan - Robotics Engineer, Jet Propulsion Laboratory&lt;/p&gt;
+&lt;p&gt;Dima is a long-time user and contributor to various Free Software projects. He
+lives in the shell inside Emacs on his Debian box, and is constantly looking
+for ways to save keystrokes. He plays with robotics tools during the day, and
+tries to give away as much of his work as possible.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/251990619"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 12 Jul 2018 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2018-07-12:2018/07/12/working-with-data-in-the-unix-shell/</guid></item><item><title>SGVLUG/SGVHAK BBQ #6</title><link>http://www.sgvlug.org/2018/06/14/sgvlugsgvhak-bbq-6/</link><description>&lt;p&gt;You and your friends and family are invited to the SGVLUG &amp;amp; SGVHAK potluck BBQ on Saturday, July 7th from 4pm to 9pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
 &lt;p&gt;Details on the Google form.  Please RSVP before July 5th: 
 &lt;a href="https://goo.gl/forms/LuFdd1zaAMfCsVJg1"&gt;https://goo.gl/forms/LuFdd1zaAMfCsVJg1&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 14 Jun 2018 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2018-06-14:2018/06/14/sgvlugsgvhak-bbq-6/</guid></item><item><title>OpenVPN, SSH Agents and VPNFilter vulnerability</title><link>http://www.sgvlug.org/2018/06/13/openvpn-ssh-agents-and-vpnfilter-vulnerability/</link><description>&lt;p&gt;Michael Starch will give an informal talk about OpenVPN, SSH agents, and the recent VPNFilter 
 vulnerability in routers. You are welcome to share your own security tips.&lt;/p&gt;
