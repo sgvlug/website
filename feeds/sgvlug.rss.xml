@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 09 Aug 2018 19:00:00 -0700</lastBuildDate><item><title>Cloud Automation Using Terraform and Ansible</title><link>http://www.sgvlug.org/2018/08/09/cloud-automation-using-terraform-and-ansible/</link><description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;This month, we are hosted by &lt;a href="http://www.everbridge.com/"&gt;Everbridge&lt;/a&gt; at their training center. Everbridge is also sponsoring food and drink. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>SGVLUG</title><link>http://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 13 Sep 2018 19:00:00 -0700</lastBuildDate><item><title>Linux while Blind</title><link>http://www.sgvlug.org/2018/09/13/linux-while-blind/</link><description>&lt;p&gt;Meet us for dinner and a presentation, with dinner beginning at 7pm and presentations starting around 7:45 to 8pm.&lt;/p&gt;
+&lt;p&gt;Chime Hart will present on using Linux while blind:&lt;/p&gt;
+&lt;p&gt;I want to explain a 25-year journey of using computers while blind.
+In reality, a better way of understanding would be just navigating with only keyboard-and-speech for an hour or more.&lt;/p&gt;
+&lt;p&gt;I will go over the challenges and the many joys along the way - from discovering DOS, being dragged through windows, and finally 15 years as a Linux user.&lt;/p&gt;
+&lt;p&gt;I look forward to any questions along the way&lt;/p&gt;
+&lt;p&gt;--
+Chime worked 35 years at GTE/Verizon, originally helping them with inconsistencies in dialing related with translations.
+He is an 'extreme news-junkie', and enjoys diverse types of music.
+Earlier he did some College Radio in New Jersey and Boston. Radio has always been in his blood, especially formatics and many jingles.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/zvpphlyxmbrb"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 13 Sep 2018 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2018-09-13:2018/09/13/linux-while-blind/</guid></item><item><title>Cloud Automation Using Terraform and Ansible</title><link>http://www.sgvlug.org/2018/08/09/cloud-automation-using-terraform-and-ansible/</link><description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;This month, we are hosted by &lt;a href="http://www.everbridge.com/"&gt;Everbridge&lt;/a&gt; at their training center. Everbridge is also sponsoring food and drink. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ABSTRACT:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The software lifecycle does not end when the developer packages their code
 and makes it ready for deployment. The delivery of this code is an integral
