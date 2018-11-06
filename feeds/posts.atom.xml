@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-10-11T19:00:00-07:00</updated><entry><title>How to Bring a Project to Open Source</title><link href="http://www.sgvlug.org/2018/10/11/how-to-bring-a-project-to-open-source/" rel="alternate"></link><published>2018-10-11T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-10-11:2018/10/11/how-to-bring-a-project-to-open-source/</id><summary type="html">&lt;p&gt;Join us for a stimulating discussion on what it means to be open source.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-11-08T19:00:00-08:00</updated><entry><title>Javascript Sucks and So Do You</title><link href="http://www.sgvlug.org/2018/11/08/javascript-sucks-and-so-do-you/" rel="alternate"></link><published>2018-11-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-11-08:2018/11/08/javascript-sucks-and-so-do-you/</id><summary type="html">&lt;p&gt;Join us for a humorous conversation about JavaScript sins and how to write
+better code. If you enjoy these types of talks, please see Michael and Carlos
+afterwards about more meetups on good software design.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JavaScript, like all computer languages, has its flaws. It at times subtly
+encourages programmers to commit unabsolvable crimes against the computing
+world. It drags new programmers into the abyss of bad practice with the
+madness of Lisp and the folly of QuickBasic. Together we shall journey into
+the darkness surrounding JavaScript and shine our light into it.&lt;/p&gt;
+&lt;p&gt;Attendees should expect to learn a bit about the downside to JavaScript and
+some of the bad practices that arise. We will then improve our JavaScript code
+by establishing good patterns using modern JavaScript and an understanding of
+software design principles. If nothing else attendees shall be thoroughly
+entertained, and all will rag on JavaScript just a wee bit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BIO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Michael Starch in an Engineer. He has used JavaScript professionally for many
+years, and has committed every sin in JavaScript's tomb of Evil. He has often
+searched for order amongst the chaotic statements of JavaScript, and brings
+his methods for your consideration. He is by no means an authority on
+JavaScript, but he will step up and speak with authority anyway. You shall be
+entertained.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/255859121/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>How to Bring a Project to Open Source</title><link href="http://www.sgvlug.org/2018/10/11/how-to-bring-a-project-to-open-source/" rel="alternate"></link><published>2018-10-11T19:00:00-07:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-10-11:2018/10/11/how-to-bring-a-project-to-open-source/</id><summary type="html">&lt;p&gt;Join us for a stimulating discussion on what it means to be open source.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;"My code is available online on github.com so it's open source". &lt;/p&gt;
 &lt;p&gt;Is that really true ?&lt;/p&gt;
