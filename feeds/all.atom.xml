@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-11-08T19:00:00-08:00</updated><entry><title>Javascript Sucks and So Do You</title><link href="http://www.sgvlug.org/2018/11/08/javascript-sucks-and-so-do-you/" rel="alternate"></link><published>2018-11-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-11-08:2018/11/08/javascript-sucks-and-so-do-you/</id><summary type="html">&lt;p&gt;Join us for a humorous conversation about JavaScript sins and how to write
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="http://www.sgvlug.org/" rel="alternate"></link><link href="http://www.sgvlug.org/feeds/all.atom.xml" rel="self"></link><id>http://www.sgvlug.org/</id><updated>2018-12-01T10:00:00-08:00</updated><entry><title>SGVHAK &amp; Repair Cafe &amp; JPL Open Source Rover @ DTLA Mini Maker Faire</title><link href="http://www.sgvlug.org/2018/12/01/sgvhak-repair-cafe-jpl-open-source-rover-dtla-mini-maker-faire/" rel="alternate"></link><published>2018-12-01T10:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-12-01:2018/12/01/sgvhak-repair-cafe-jpl-open-source-rover-dtla-mini-maker-faire/</id><summary type="html">&lt;p&gt;SGVHAK, Repair Cafe, and the JPL Open Source Rover will have collocated booths at the DTLA Mini Maker Faire. We will be located on the lawn of Maguire Garden close to library entrance.&lt;/p&gt;
+&lt;p&gt;It is shaping to be a huge event with nearly a hundred makers--many of them from the San Gabriel Valley--who will be exhibiting, doing workshops, giving talks, and even performing.
+There will be exhibits inside the beautiful Central Library and outside in Maguire Garden.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://dtla.makerfaire.com/"&gt;https://dtla.makerfaire.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://dtla.makerfaire.com/schedule/"&gt;https://dtla.makerfaire.com/schedule/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please RSVP on Eventbrite for free tickets, whether you're coming as an attendee or to help us at our booth. They had a group registration option, so I made an SGVHAK group.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://dtlamakerfaire2018-register.eventbrite.com?team_token=2211552-2q28o"&gt;https://dtlamakerfaire2018-register.eventbrite.com?team_token=2211552-2q28o&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What to expect:&lt;/p&gt;
+&lt;p&gt;JPL Open Source Rover booth will feature &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SGVHAK Rover&lt;/li&gt;
+&lt;li&gt;JPL Open Source Rover&lt;/li&gt;
+&lt;li&gt;Santa Susana HS rover&lt;/li&gt;
+&lt;li&gt;Roger Cheng's Sawppy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, there will be talks on the JPL Open Source Rover and Sawppy from 2:30 to 3:30pm at the KLOS's Children's Theater (Children's Literature, 2nd floor) .&lt;/p&gt;
+&lt;p&gt;Also, JPL will have STEM activities and swag, and IPAC has a 4-minute Trappist-1 VR experience on the Oculus Rift. 
+There will be a demonstration of the science behind the OCO-2 mission.&lt;/p&gt;
+&lt;p&gt;SGVHAK and Repair Cafe hands-on activities&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hard drive disassembly with platters repurposed for art projects or Christmas ornaments&lt;/li&gt;
+&lt;li&gt;paper circuits with copper tape and LEDs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/256788941/"&gt; &lt;img alt="Meetup Event Page" src="http://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Javascript Sucks and So Do You</title><link href="http://www.sgvlug.org/2018/11/08/javascript-sucks-and-so-do-you/" rel="alternate"></link><published>2018-11-08T19:00:00-08:00</published><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2018-11-08:2018/11/08/javascript-sucks-and-so-do-you/</id><summary type="html">&lt;p&gt;Join us for a humorous conversation about JavaScript sins and how to write
 better code. If you enjoy these types of talks, please see Michael and Carlos
 afterwards about more meetups on good software design.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;&lt;/p&gt;
