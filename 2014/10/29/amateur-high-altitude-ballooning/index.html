@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+    <title>Amateur High Altitude Ballooning - SGVLUG</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="SGVLUG" />
+            <meta property="og:type" content="article"/>
+            <meta property="og:title" content="Amateur High Altitude Ballooning"/>
+            <meta property="og:url" content="https://www.sgvlug.org/2014/10/29/amateur-high-altitude-ballooning/"/>
+            <meta property="og:description" content="This talk will cover the stories and engineering challenges faced by the Null Space Labs High Altitude Ballooning team and how they designed, analyzed, and flew hardware and software to survive the harsh conditions of near space. Recent flights include CUBEX, a payload capable of live image transmission, solar changing, power management, and position reporting, as well as the HABEXpico flight which flew half way across the United States. Presenter: Arko Links mentioned in the talk: HABEX1 HABEX2 (includes links to calculators, instructions, math, details, etc) HABEXpico2 CUBEX HABEX2 Flight Pictures Arko&#39;s Github Arko&#39;s Website Excellent RPI shield for HABs Excellent Arduino shield for HABs Detailed talk on building your own HAB Talk about building your own environmental chamber Blog about the environmental chamber Best wiki for high altitude ballooning"/>
+            <meta property="article:published_time" content="2014-10-29" />
+                <meta property="article:section" content="posts" />
+                <meta property="article:author" content="SGVLUG" />
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://www.sgvlug.org/theme/css/bootstrap.cosmo.min.css" type="text/css"/>
+    <link href="https://www.sgvlug.org/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://www.sgvlug.org/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.sgvlug.org/theme/css/style.css" type="text/css"/>
+
+        <link href="https://www.sgvlug.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="SGVLUG ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://www.sgvlug.org/" class="navbar-brand">
+SGVLUG            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <div class="navbar-brand hidden-xs">San Gabriel Valley Linux User's Group</div>
+            <ul class="nav navbar-nav">
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://www.sgvlug.org/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="https://www.sgvlug.org/2014/10/29/amateur-high-altitude-ballooning/"
+                       rel="bookmark"
+                       title="Permalink to Amateur High Altitude Ballooning">
+                        Amateur High Altitude Ballooning
+                    </a>
+                </h1>
+            </header>
+            <div class="post-info-block">
+    <div class="post-info">
+        <span class="label label-default">Event Date:</span>
+        <i class="fa fa-calendar"></i> <time datetime="2014-11-13 19:00">Thursday November 13, 2014 07:00 PM</time>
+    </div>
+    <div class="post-info">
+        <span class="label label-default">Event Location:</span>
+         <i class="fa fa-location-arrow"></i> Burger Continental, 535 S Lake Ave, Pasadena, CA, 91101
+    </div>
+
+
+
+            </div>
+            <div class="entry-content">
+               <p>This talk will cover the stories and engineering challenges faced by the Null
+Space Labs High Altitude Ballooning team and how they designed, analyzed, and
+flew hardware and software to survive the harsh conditions of near space.
+Recent flights include CUBEX, a payload capable of live image transmission,
+solar changing, power management, and position reporting, as well as the
+HABEXpico flight which flew half way across the United States.</p>
+<p><strong>Presenter</strong>: <a href="http://arkorobotics.com/">Arko</a></p>
+<p><a href="https://www.meetup.com/SGVTech/events/215497372/"> <img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /> </a></p>
+<hr />
+<p>Links mentioned in the talk:</p>
+<ul>
+<li><a href="http://habexproject.org/">HABEX1</a></li>
+<li><a href="https://wiki.032.la/habex2">HABEX2</a> (includes links to calculators, instructions, math, details, etc)</li>
+<li><a href="https://www.flickr.com/photos/arkorobotics/sets/72157637213955175/">HABEXpico2</a></li>
+<li><a href="https://hackaday.io/project/270-cubex">CUBEX</a></li>
+<li><a href="https://www.flickr.com/photos/arkorobotics/sets/72157633237341531/">HABEX2 Flight Pictures</a></li>
+<li><a href="https://github.com/arkorobotics/">Arko's Github</a></li>
+<li><a href="http://arkorobotics.com/">Arko's Website</a></li>
+<li><a href="https://pi-in-the-sky.com/">Excellent RPI shield for HABs</a></li>
+<li><a href="http://www.habduino.org/">Excellent Arduino shield for HABs</a></li>
+<li><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=4-v-B03a1Jk">Detailed talk on building your own HAB</a></li>
+<li><a href="http://arkorobotics.com/blog/?p=113">Talk about building your own environmental chamber</a></li>
+<li><a href="http://arkorobotics.com/blog/?p=113">Blog about the environmental chamber</a></li>
+<li><a href="http://wiki.ukhas.org.uk/">Best wiki for high altitude ballooning</a></li>
+</ul>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3 well well-sm" id="sidebar">
+
+<aside>
+    <section>
+        <ul class="list-group list-group-flush">
+
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
+                    <ul class="list-group" id="recentposts">
+                        <li class="list-group-item">
+                            <a href="https://www.sgvlug.org/2019/01/10/mini-talks-on-open-source-licenses-and-markdown/">
+                                Mini Talks on Open Source Licenses and Markdown
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://www.sgvlug.org/2018/12/13/everyone-is-an-inventor/">
+                                Everyone is an Inventor
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://www.sgvlug.org/2018/12/01/sgvhak-repair-cafe-jpl-open-source-rover-dtla-mini-maker-faire/">
+                                SGVHAK & Repair Cafe & JPL Open Source Rover @ DTLA Mini Maker Faire
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://www.sgvlug.org/2018/11/08/javascript-sucks-and-so-do-you/">
+                                Javascript Sucks and So Do You
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://www.sgvlug.org/2018/10/25/sgvtech-open-house-connect-week-2018/">
+                                SGVTech Open House - Connect Week 2018
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+
+
+            <li class="list-group-item"><a href="https://www.sgvlug.org/"><h4><i class="fa fa-archive fa-lg"></i><span class="icon-label">Info</span></h4></a>
+                    <ul class="list-group" id="pages">
+                        <li class="list-group-item"><a href="https://www.sgvlug.org/pages/about.html">
+                            About
+                        </a></li>
+                        <li class="list-group-item"><a href="https://www.sgvlug.org/pages/i-dont-want-my-e-mail-messages-archived.html">
+                            I don't want my e-mail messages archived!
+                        </a></li>
+                        <li class="list-group-item"><a href="https://www.sgvlug.org/pages/what-is-the-next-meeting-about.html">
+                            What is the next meeting about?
+                        </a></li>
+                    </ul>
+                </li>
+
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://sgvlug.net/mailman/listinfo/sgvlug" target="_blank">
+                Mailing List
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://www.meetup.com/SGVTech/" target="_blank">
+                Meetup Group
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://webchat.freenode.net/?channels=sgvlug" target="_blank">
+                IRC: #sgvlug on Freenode
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://sgvtech.slack.com/" target="_blank">
+                Slack: #sgvlug on sgvtech
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://bit.ly/2JoonCT" target="_blank">
+                Invite to sgvtech on Slack
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://twitter.com/sgvlug" target="_blank">
+                Twitter
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://plus.google.com/111221024339538215725" target="_blank">
+                Google+
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://www.sgvhak.org/" target="_blank">
+                SGVHAK
+            </a>
+        </li>
+      </ul>
+    </li>
+    <li class="list-group-item"><h4><i class="fa fa-star fa-lg"></i><span class="icon-label">Sponsors</span></h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="http://openx.com/">
+                        <img src="/images/sponsors/ox_logo.png" alt="OpenX" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="https://www.redhat.com">
+                        <img src="/images/sponsors/redhat_logo.png" alt="Red Hat" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="https://www.nostarch.com/">
+                        <img src="/images/sponsors/nsp_logo.png" alt="No Starch Press" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="https://www.oreilly.com/">
+                        <img src="/images/sponsors/oreilly_logo.png" alt="O'Reilly" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div style="padding-top: 10px;">
+                    <a href="https://hackaday.com/">
+                        <img src="/images/sponsors/hackaday_logo.png" alt="Hackaday" class="floatcenter">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </li>
+
+        </ul>
+    </section>
+
+</aside>        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2019 SGVLUG
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://www.sgvlug.org/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://www.sgvlug.org/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://www.sgvlug.org/theme/js/respond.min.js"></script>
+
+<!-- ColorBox to make image display nicer -->
+<script src="https://www.sgvlug.org/theme/js/jquery.colorbox-min.js"></script>
+<script>
+    $(".image-reference").colorbox({maxWidth: "80%", maxHeight: "80%"});
+</script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37621013-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+</body>
+</html>
