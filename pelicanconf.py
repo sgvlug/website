@@ -18,26 +18,26 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS = ( ('Mailing List', 'http://sgvlug.net/mailman/listinfo/sgvlug'),
-          ('Meetup Group', 'http://www.meetup.com/SGVTech/'),
-          ('IRC: #sgvlug on Freenode', 'http://webchat.freenode.net/?channels=sgvlug'),
+          ('Meetup Group', 'https://www.meetup.com/SGVTech/'),
+          ('IRC: #sgvlug on Freenode', 'https://webchat.freenode.net/?channels=sgvlug'),
           ('Slack: #sgvlug on sgvtech', 'https://sgvtech.slack.com/'),
           ('Invite to sgvtech on Slack', 'https://bit.ly/2JoonCT'),
           ('Twitter', 'https://twitter.com/sgvlug'),
           ('Google+', 'https://plus.google.com/111221024339538215725'),
-          ('SGVHAK', 'http://www.sgvhak.org/'), 
+          ('SGVHAK', 'https://www.sgvhak.org/'),
           )
 
 SPONSORS = ( ('OpenX', 'http://openx.com/', '/images/sponsors/ox_logo.png'),
-             ('Red Hat', 'http://www.redhat.com', '/images/sponsors/redhat_logo.png'),
-             ('No Starch Press', 'http://www.nostarch.com/', '/images/sponsors/nsp_logo.png'),
-             ("O'Reilly", 'http://www.oreilly.com/', '/images/sponsors/oreilly_logo.png'),
-             ('Hackaday', 'http://hackaday.com/', '/images/sponsors/hackaday_logo.png'), 
+             ('Red Hat', 'https://www.redhat.com', '/images/sponsors/redhat_logo.png'),
+             ('No Starch Press', 'https://www.nostarch.com/', '/images/sponsors/nsp_logo.png'),
+             ("O'Reilly", 'https://www.oreilly.com/', '/images/sponsors/oreilly_logo.png'),
+             ('Hackaday', 'https://hackaday.com/', '/images/sponsors/hackaday_logo.png'),
         )
 
 # Social widget
 SOCIAL =  None
 
-DEFAULT_PAGINATION = 6 
+DEFAULT_PAGINATION = 6
 SUMMARY_MAX_LENGTH = None
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'

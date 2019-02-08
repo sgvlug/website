@@ -41,5 +41,5 @@ is currently available only on Lake Ave.   Once through the driveway, please par
 out front.   (If you park in the wrong structure, we will not be able to validate.)  Pull a ticket and bring it with you to the 
 Meetup, we will validate your parking.   See map below for details._
 
-![](http://photos3.meetupstatic.com/photos/event/c/4/8/4/600_456650308.jpeg) 
+![](https://photos3.meetupstatic.com/photos/event/c/4/8/4/600_456650308.jpeg) 
 [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/233578486/)

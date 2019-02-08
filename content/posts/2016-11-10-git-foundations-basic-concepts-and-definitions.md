@@ -5,7 +5,7 @@ event_date: 2016-11-10 19:00
 event_location:  Everbridge  , 790 E Colorado Blvd, Pasadena, CA, 91101
 event_updated: 1481011987000
 
-**This month, we are hosted by [Everbridge](http://www.everbridge.com/) at their training center.  
+**This month, we are hosted by [Everbridge](https://www.everbridge.com/) at their training center.  
 Everbridge is also sponsoring food and drink.**
 
 Note: The GitHub Webhooks talk with Christian Weber originally scheduled for tonight
@@ -36,7 +36,7 @@ Mike Weilgart has loved maths and computers all his life. Graduating high school
 
 The building is on Hudson Ave, between Colorado and Green St. The meeting room is off Hudson, next to the first floor gym with the classic glass walls and gym equipment.  You are responsible for your own parking.   The onsite parking is very expensive.   Please check the Parkopedia link for your options or take public transit. 
 
-[http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrgvj/?arriving=201611100630&leaving=201611100930](http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrgvj/?arriving=201611100630&leaving=201611100930)
+[https://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrgvj/?arriving=201611100630&leaving=201611100930](https://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrgvj/?arriving=201611100630&leaving=201611100930)
 
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/234893164/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/234893164/)

@@ -39,5 +39,5 @@ Now he is a Professor of Computer Science at Pasadena City College. He holds and
 Extra Class amateur radio license and is very active within the hobby as well as 
 integrating Linux and amateur radio into one cohesive unit. 
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/232555917/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/232555917/)
 

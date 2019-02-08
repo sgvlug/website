@@ -29,4 +29,4 @@ His mission to educate and excite people about Free Software and Ubuntu
 continues with his upcoming book, Beginning Ubuntu Linux for Windows and Mac
 Users.
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/223371319/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/223371319/)

@@ -5,7 +5,7 @@ event_date: 2017-10-12 19:00
 event_location: Everbridge Training Center, 790 E Colorado Blvd, Pasadena, CA
 event_updated: 1506918408000
 
-**_This month, we are hosted by [Everbridge](http://www.everbridge.com/) at their training center. Everbridge is also sponsoring food and drink. _**
+**_This month, we are hosted by [Everbridge](https://www.everbridge.com/) at their training center. Everbridge is also sponsoring food and drink. _**
 
 **ABSTRACT:**
   

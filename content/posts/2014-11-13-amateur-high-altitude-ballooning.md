@@ -14,20 +14,20 @@ HABEXpico flight which flew half way across the United States.
 
 **Presenter**: [Arko](http://arkorobotics.com/)
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/215497372/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/215497372/)
 
 ----
 
 Links mentioned in the talk:
 
 * [HABEX1](http://habexproject.org/)
-* [HABEX2](http://wiki.032.la/habex2) (includes links to calculators, instructions, math, details, etc)
+* [HABEX2](https://wiki.032.la/habex2) (includes links to calculators, instructions, math, details, etc)
 * [HABEXpico2](https://www.flickr.com/photos/arkorobotics/sets/72157637213955175/)
-* [CUBEX](http://hackaday.io/project/270-cubex)
+* [CUBEX](https://hackaday.io/project/270-cubex)
 * [HABEX2 Flight Pictures](https://www.flickr.com/photos/arkorobotics/sets/72157633237341531/)
 * [Arko's Github](https://github.com/arkorobotics/)
 * [Arko's Website](http://arkorobotics.com/)
-* [Excellent RPI shield for HABs](http://pi-in-the-sky.com/)
+* [Excellent RPI shield for HABs](https://pi-in-the-sky.com/)
 * [Excellent Arduino shield for HABs](http://www.habduino.org/)
 * [Detailed talk on building your own HAB](https://www.youtube.com/watch?feature=player_embedded&v=4-v-B03a1Jk)
 * [Talk about building your own environmental chamber](http://arkorobotics.com/blog/?p=113)

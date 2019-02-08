@@ -20,6 +20,6 @@ company MovieEditor.com.
                                                                              
 http://linuxmovies.movieeditor.com/                                            
                                                                              
-http://sgvlug.org/index.php?option=com_content&task=view&id=17&Itemid=27.    
+https://www.sgvlug.org/2005/12/08/december-2005-meeting/
 Date: Thursday December 8, 2005 7:00 PM - 9:00 PM                                
 Location: Downs 107                                         

@@ -11,4 +11,4 @@ to users of all levels.  Feel free to come and share your own tips.
 
 **Presenter:** Lan Dang
 
-[Meetup Event Page](http://www.meetup.com/SGVTech/events/208382952/)
+[Meetup Event Page](https://www.meetup.com/SGVTech/events/208382952/)

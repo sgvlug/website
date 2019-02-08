@@ -28,4 +28,4 @@ from becoming a marginalized end user as in the cases discussed earlier in the
 presentation.
 
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/231506871/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/231506871/)

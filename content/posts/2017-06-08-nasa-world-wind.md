@@ -5,7 +5,7 @@ event_date: 2017-06-08 19:00
 event_location: Everbridge Training Center, 790 E Colorado Blvd, Pasadena, CA
 event_updated: 1496384307000
 
-**_This month, we are hosted by [Everbridge](http://www.everbridge.com/) at their training center. Everbridge is also sponsoring food and drink. _**
+**_This month, we are hosted by [Everbridge](https://www.everbridge.com/) at their training center. Everbridge is also sponsoring food and drink. _**
 
 **TOPIC:**
 
@@ -40,7 +40,7 @@ and gym equipment. You are responsible for your own parking. The onsite
 parking is very expensive. Please check the Parkopedia link for your options
 or take public transit._
 
-[http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&amp;arriving=201706081830&amp;leaving=201706092130](http://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&arriving=201706081830&leaving=201706092130)  
+[https://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&amp;arriving=201706081830&amp;leaving=201706092130](https://en.parkopedia.com/parking/locations/790_east_colorado_boulevard_pasadena_ca_united_states_9q5fpzcrguw/?country=us&arriving=201706081830&leaving=201706092130)
 
 
 **TIMETABLE:**

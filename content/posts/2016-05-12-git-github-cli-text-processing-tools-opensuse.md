@@ -13,4 +13,4 @@ We are doing informal, short presentations this month.
 
 * Drew, our resident openSUSE guy, will also get the floor.  
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/229463153/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/229463153/)

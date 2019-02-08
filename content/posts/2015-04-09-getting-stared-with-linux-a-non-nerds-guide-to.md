@@ -18,4 +18,4 @@ Recommended Materials:
 
 **Speaker:** Dan Buthusiem 
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/221073539/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/221073539/)

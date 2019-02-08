@@ -17,8 +17,8 @@ networks. More about that and his other yak shaving projects are available in
 the links below:
 
 * [Data Roads Foundation](http://DataRoads.org/)
-* [North East Los Angeles Infrastructure Service Cooperative](http://NELA-ISC.Net/)
-* [Unwatch.Me! Your personal privacy cloud.](http://Unwatch.Me/)
+* [North East Los Angeles Infrastructure Service Cooperative](http://NELA-ISC.Net/) Site [moved](https://www.nela-shares.net/)
+* [Unwatch.Me! Your personal privacy cloud.](https://Unwatch.Me/)
 * [Unicorns, Gigabits, and free WiFi for the City of Angels!](http://igg.me/at/Unicorns-and-Gigabits-LA/)
 * [Presentation from SCALE](https://docs.google.com/presentation/d/10SpOWcKH0IbjZkwJbMB2l4hcZm-lH2tlOi7qimz__-w/edit?usp=sharing)
 

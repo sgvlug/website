@@ -36,4 +36,4 @@ have had impact on NASA's mission operations and opened doors for the creation
 of advanced data access and visualization technologies. He is among the first
 in realizing the potential of the Web Platform as it applies to science data.
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/228957857/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/228957857/)

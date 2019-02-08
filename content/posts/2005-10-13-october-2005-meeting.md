@@ -16,6 +16,6 @@ About the presenter: Elizabeth has been programming for nearly 10 years and
 started with linux four years ago when she began hosting sites from her home   
 server. Starting this semester, she will be a freshman here at Caltech.        
                                                                              
-http://sgvlug.org/index.php?option=com_content&task=view&id=16&Itemid=27.    
+https://www.sgvlug.org/2005/10/13/october-2005-meeting/
 Date: Thursday October 13, 2005 7:00 PM - 9:00 PM                                
 Location: Downs 107                                         

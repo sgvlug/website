@@ -10,7 +10,7 @@ multi-language platform-of-a-service solution.
 
 **About Red Hat:**  
 
-As you can imagine, [Red Hat](http://redhat.com/) has grown from a single Linux distribution to a 20 year old, 1.5+ billion USD company with a portfolio of products in Operating System, Virtualization, Storage, Middleware and Cloud. We'll do a general overview of the company and talk about where the company is going to in the future.
+As you can imagine, [Red Hat](https://redhat.com/) has grown from a single Linux distribution to a 20 year old, 1.5+ billion USD company with a portfolio of products in Operating System, Virtualization, Storage, Middleware and Cloud. We'll do a general overview of the company and talk about where the company is going to in the future.
 
 **About Red Hat OpenShift:**  
 
@@ -18,9 +18,9 @@ As you can imagine, [Red Hat](http://redhat.com/) has grown from a single Linux 
 
 **Speaker:**
 
-[Albert T. Wong](http://linkedin.com/in/atwong) is a solution architect at Red Hat.  Jack of all trades in JavaEE, Red Hat and IBM Software and open source. Has a deep background in eCommerce and building, deploying and scaling very large websites. Albert is a UC Irvine Information and Computer Science alum.
+[Albert T. Wong](https://linkedin.com/in/atwong) is a solution architect at Red Hat.  Jack of all trades in JavaEE, Red Hat and IBM Software and open source. Has a deep background in eCommerce and building, deploying and scaling very large websites. Albert is a UC Irvine Information and Computer Science alum.
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/218696335/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/218696335/)
 
 ** Presentation Material: **
 

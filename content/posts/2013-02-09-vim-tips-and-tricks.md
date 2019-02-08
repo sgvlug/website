@@ -7,7 +7,7 @@ Lan Dang will demonstrate some of her favorite tricks for the Vim text editor as
 
 Whether you use Vim as seldom as possible or you use it every day, you will learn something from this session.
 
-*Update*: The Vim Roundtable presentation (with updates and notes) can be found [here](http://bit.ly/WLQ50F) 
+*Update*: The Vim Roundtable presentation (with updates and notes) can be found [here](https://bit.ly/WLQ50F) 
 
 __Speaker:__ Lan Dang + SGVLUG <br/>
 __Date:__ Thursday February 14th, 2013 @ 7 pm <br/>

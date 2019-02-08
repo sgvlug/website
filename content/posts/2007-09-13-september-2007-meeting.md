@@ -17,7 +17,7 @@ trixbox that became extremely popular on the net, and eventually published the
 definitive book on trixbox, "trixbox Made Easy." Today, Kerry is the senior    
 product development manager for trixbox at Fonality. Kerry regularly speaks at 
 trade shows, user groups, and radio programs. He is also the publisher of both 
-http://www.voipspeak.net and http://www.asterisktutorials.com. Kerry is an     
+http://www.voipspeak.net and http://www.asterisktutorials.com [dead]. Kerry is an     
 avid amateur photographer who writes tutorials and product reviews for his     
 photography blog site at http://L7Foto.com.                                    
                                                                              

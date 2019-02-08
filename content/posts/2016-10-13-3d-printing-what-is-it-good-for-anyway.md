@@ -6,7 +6,7 @@ event_location: Idealab, 130 W Union St, Pasadena, CA
 event_updated: 1475812108000
 
 **This month, we are hosted by **[New Matter](http://newmatter.com)**, a new
-3D printing company incubated at Idealab**.**  Please [RSVP on Meetup](http://www.meetup.com/SGVTech/events/234113164/) or email 
+3D printing company incubated at Idealab**.**  Please [RSVP on Meetup](https://www.meetup.com/SGVTech/events/234113164/) or email 
 Lan (L dot Dang at ymail dot com). We'll head out to Du-Par's Restaurant
 and Bakery (214 S Lake Ave, Pasadena) around 9:15pm for a late dinner.**
 
@@ -82,4 +82,4 @@ Idealab is host to many companies, including New Matter.  We are meeting in the 
 9:00pm - End meeting, clean up, and then head over to Du-Par's
 
 
- [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/234113164/)
+ [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/234113164/)

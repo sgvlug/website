@@ -20,7 +20,7 @@ years and has worked as a Linux, Solaris, and Network Administrator, and has a
 BS in Computer Engineering and Computer Science from USC. He is also the       
 author of iptstate(8), mime_dump(1), and check_x509(1), co-founder of the MSS  
 Initiative, and works on IP Filter and the USB Storage driver in the linux     
-kernel. Find out more about Phil Dibowitz at http://www.phildev.net/           
+kernel. Find out more about Phil Dibowitz at https://www.phildev.net/
                                                                              
 Date: Thursday August 9, 2007 7:00 PM - 9:00 PM                                  
 Location: Downs 107                                         

@@ -43,4 +43,4 @@ the benefit of these technologies and their combination.
 
 **Speaker**: Michael Starch
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](http://www.meetup.com/SGVTech/events/219406181/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/219406181/)
