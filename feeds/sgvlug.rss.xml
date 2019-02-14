@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>https://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 10 Jan 2019 19:00:00 -0800</lastBuildDate><item><title>Mini Talks on Open Source Licenses and Markdown</title><link>https://www.sgvlug.org/2019/01/10/mini-talks-on-open-source-licenses-and-markdown/</link><description>&lt;p&gt;Bring tech books and leftover conference swag to exchange with other members, or
+<rss version="2.0"><channel><title>SGVLUG</title><link>https://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 14 Feb 2019 19:00:00 -0800</lastBuildDate><item><title>The Trouble with Rovers</title><link>https://www.sgvlug.org/2019/02/14/the-trouble-with-rovers/</link><description>&lt;p&gt;Lan and Roger will be giving a preview of our SCaLE 17x talk about the SGVHAK
+Rover. Any feedback will be extremely helpful. We'll also be talking about
+SCaLE, volunteering for SCaLE, and plans for our booth at SCaLE.&lt;/p&gt;
+&lt;p&gt;Dinner begins around 7pm and the presentation will start after most people
+have received their food or 8pm, whichever comes first. Buying dinner is
+optional.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Trouble with Rovers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The JPL Open Source Rover is a relatively inexpensive and accessible project
+for high school and college classes to exercise mechanical and electronics and
+software engineering using parts that could be easily sourced from hobbyist
+stores.&lt;/p&gt;
+&lt;p&gt;JPL beta-tested their build instructions at a few schools and with the SGVHAK
+maker group. The ultimate goal was to refine the build instructions and grow a
+community of experienced builders to help provide support once the rover
+documentation and code were open sourced.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/nasa-jpl/open-source-rover"&gt;https://github.com/nasa-jpl/open-source-rover&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We will go over the experience of the SGVHAK maker group in building the
+SGVHAK rover and being inspired to build rovers of our own design. The SGVHAK
+maker group built the rover over the period of 3 months while giving JPL
+significant feedback and build photos. We diverged from the original design
+most significantly in the wheel design, motor selection, and software.&lt;/p&gt;
+&lt;p&gt;We were able to exhibit the SGVHAK rover at SCALE, the Caltech Science for
+March, and the DTLA Mini Maker Faire. We were recently interviewed for the
+Command_Line Heroes podcast. Building rovers is a never-ending process. The
+SGVHAK rover itself is always under construction. We have plans to add a robot
+arm, pan-tilt webcam, and maybe even lidar. Our members have already started
+coming up with their own rover designs and builds. All the code and 3D printer
+files are on GitHub. Come join us in our rover-building adventures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Lan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lan Dang is an Operations Engineer with the Jet Propulsion Laboratory,
+specializing in science data systems operations and large scale data
+processing. Her contributions to open source focus on community-building and
+evangelism. In her spare time, she is active in the San Gabriel Valley tech
+community as a leader of the SGVLUG and its sister group, the SGVHAK hardware
+hacking group, mentors new hires at work as well as local high school and
+college students, and volunteers with various STEAM groups and events. She is
+the volunteer coordinator for the SCALE A/V team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Roger&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An active member of the San Gabriel Valley Hardware Hackers group (SGVHAK) and
+member of Linux User's Group (SGVLUG) Roger is interested in many topics
+around the intersection of mechanical hardware and intelligent software.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/258534255/"&gt; &lt;img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 14 Feb 2019 19:00:00 -0800</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2019-02-14:2019/02/14/the-trouble-with-rovers/</guid></item><item><title>Mini Talks on Open Source Licenses and Markdown</title><link>https://www.sgvlug.org/2019/01/10/mini-talks-on-open-source-licenses-and-markdown/</link><description>&lt;p&gt;Bring tech books and leftover conference swag to exchange with other members, or
 put towards a swag pile for our SCaLE booth, if we have one. Anything that
 nobody wants could be brought to Repair Cafe this weekend.&lt;/p&gt;
 &lt;p&gt;We also have a double-feature for this month's presentation, both given by new
