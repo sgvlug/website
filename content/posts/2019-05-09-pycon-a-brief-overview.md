@@ -14,5 +14,5 @@ James Mertz will give a brief overview of PyCon 2019 held in Cleveland, OH. Heâ€
 James is a Software Assurance Engineerng at Jet Propulsion Laboratory by day and author at RealPython.com by night. 
 In his spare time he also volunteers as a Scout Master for a local Pasadena Scout Troop.
 
-[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/zvpphlyzgbpb/)
+[ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/zvpphlyzhbmb/)
 
