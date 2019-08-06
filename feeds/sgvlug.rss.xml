@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>https://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Sat, 20 Jul 2019 00:00:00 -0700</lastBuildDate><item><title>SGVLUG/SGVHAK BBQ #7</title><link>https://www.sgvlug.org/2019/07/20/sgvlugsgvhak-bbq-7/</link><description>&lt;p&gt;The SGVLUG &amp;amp; SGVHAK potluck BBQ will be on Saturday, July 27th from 5pm to 9pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
+<rss version="2.0"><channel><title>SGVLUG</title><link>https://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 08 Aug 2019 19:00:00 -0700</lastBuildDate><item><title>The Young Man And The C: Swallowing The Red Pill</title><link>https://www.sgvlug.org/2019/08/08/the-young-man-and-the-c-swallowing-the-red-pill/</link><description>&lt;p&gt;&lt;strong&gt;Note: This is a lightly edited reprise of a &lt;a href="http://www.sgvlug.org/2016/06/09/survival-at-c-swallowing-the-red-pill/"&gt;talk given a few years ago&lt;/a&gt; at LUG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many good, experienced high-level language programmers do not learn C or C++
+well until they suddenly need to write an FFI extension, make an emergency
+patch to an existing C or C++ codebase, re-implement the bottleneck component
+in the application stack in a fast language, take an attractive job with a
+low-level programming component, or otherwise move from their comfortable
+language of choice and swallow the Red Pill of coding closer to the machine.
+If you are already a programmer, you don't need to be taught how to program,
+and your google-fu is strong for looking up detailed syntax.  Instead, this
+will be a crash course in leveraging skills you learned in a high-level
+environment and transferring them to these low-level tools, acquiring some new
+skills you simply never needed before, and a building a mental picture of
+where the road to expert, idiomatic mastery lies.  We will focus on plain C
+because C++ is too complex to cover well in a single talk, but much of the
+material will apply directly to C++.  Perhaps surprisingly, some of  it will
+even make you a better programmer in your favorite comfortable,  higher-level
+language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some little-known facts about Dustin Laurence:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;His first exposure to computers was playing Colossal Cave&lt;br /&gt;
+Adventure and the bootleg Fortran IV version of Zork on his cousin's work
+mainframe using a glass teletype and a modem with a cradle for the handset.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;His first good programming language was C.  He lies and pretends that C is where he learned to program because 8-bit BASIC is embarrassing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He once gave up trying to learn the libc low-level I/O functions from the Ultrix man pages because he thought a buffer must be some kind of abstract data type provided by the C library and he couldn't find any documentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He once confidently predicted that Linux was a temporary fad that would be replaced by BSD for serious work once the Berkeley codebase was completely free.  It's probably a good thing he doesn't gamble.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He avoids social media for the same reason he doesn't do crack cocaine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;These days he happily hacks Python for Spring Labs. &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/zvpphlyzlblb/"&gt; &lt;img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 08 Aug 2019 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2019-08-08:2019/08/08/the-young-man-and-the-c-swallowing-the-red-pill/</guid></item><item><title>SGVLUG/SGVHAK BBQ #7</title><link>https://www.sgvlug.org/2019/07/20/sgvlugsgvhak-bbq-7/</link><description>&lt;p&gt;The SGVLUG &amp;amp; SGVHAK potluck BBQ will be on Saturday, July 27th from 5pm to 9pm to Lan's house in the city of San Gabriel. &lt;/p&gt;
 &lt;p&gt;Please RSVP on the Google form below by Thursday, July 25th.  The form will automagically update with RSVP count and what people are bringing.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://forms.gle/sk5CQu3Z4JQnS4Lv9"&gt;https://forms.gle/sk5CQu3Z4JQnS4Lv9&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Sat, 20 Jul 2019 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2019-07-20:2019/07/20/sgvlugsgvhak-bbq-7/</guid></item><item><title>Org-mode with Spacemacs &amp; Webhooks and Slack</title><link>https://www.sgvlug.org/2019/07/11/org-mode-with-spacemacs-webhooks-and-slack/</link><description>&lt;p&gt;&lt;strong&gt;Org-Mode with Spacemacs&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The best editor is neither vim nor emacs, it’s Vim and Emacs! Spacemacs is a community-driven Emacs distribution that comes built-in with many popular packages, including Evil-Mode - a vim layer for Emacs, and Org-Mode - a tool for note taking and/or project management that utilizes a rich plain text markup language. This presentation will be a live demo of some of orgmode and spacemacs' features and capabilities.&lt;/p&gt;
