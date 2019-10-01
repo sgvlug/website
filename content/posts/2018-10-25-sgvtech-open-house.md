@@ -48,7 +48,7 @@ We are an umbrella Meetup group that includes:
 
 * [Infosec Syndicate](https://infosecsyndicate.weebly.com/)
 
-You can join us on Slack using this invitation: [https://bit.ly/sgvtech](https://bit.ly/sgvtech)
+You can join us on Slack using this invitation: [https://bit.ly/sgvtech_slack](https://bit.ly/sgvtech_slack)
 
 
 [ ![Meetup Event Page]({filename}/images/meetup_logo_45.png) ](https://www.meetup.com/SGVTech/events/255544051/)
