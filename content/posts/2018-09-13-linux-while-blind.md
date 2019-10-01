@@ -1,4 +1,4 @@
-Title: Working with Data in the Unix Shell
+Title: Using Linux While Blind
 Date: 2018-09-13 19:00
 published: 2018-09-07 21:03
 event_date: 2018-09-13 19:00
