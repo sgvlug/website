@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>SGVLUG</title><link>https://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 08 Aug 2019 19:00:00 -0700</lastBuildDate><item><title>The Young Man And The C: Swallowing The Red Pill</title><link>https://www.sgvlug.org/2019/08/08/the-young-man-and-the-c-swallowing-the-red-pill/</link><description>&lt;p&gt;&lt;strong&gt;Note: This is a lightly edited reprise of a &lt;a href="http://www.sgvlug.org/2016/06/09/survival-at-c-swallowing-the-red-pill/"&gt;talk given a few years ago&lt;/a&gt; at LUG&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>SGVLUG</title><link>https://www.sgvlug.org/</link><description>San Gabriel Valley Linux User's Group</description><lastBuildDate>Thu, 14 Nov 2019 19:00:00 -0800</lastBuildDate><item><title>Joint Meetup with Write the Docs LA</title><link>https://www.sgvlug.org/2019/11/14/joint-meetup-with-write-the-docs-la/</link><description>&lt;p&gt;We're mixing things up this month with a different venue and a different format. We're doing a joint meetup with Write the Docs LA, the local Write the Docs chapter of technical documentarians.&lt;/p&gt;
+&lt;p&gt;We'll spend some time learning about each other's groups. Topics will include static site generators and an update on Sean Marquez's exploration of SpaceMacs for text editing and project management. (This was presented at SGVLUG back in July.)&lt;/p&gt;
+&lt;p&gt;Please see the WTD LA meetup link for more details.
+https://www.meetup.com/Write-the-Docs-LA/events/265804790/&lt;/p&gt;
+&lt;p&gt;Sean's presentation will appeal directly to:
+- software developers who are opinionated about text editors
+- developers &amp;amp; writers who are curious about text rendering to diagrams, i.e., PlantUML:
+https://gist.github.com/capsulecorplab/99f6518ab42fd55f95e69186c784ccb7#orgmode-meets-gtd&lt;/p&gt;
+&lt;p&gt;Sean's presentation will also provide insight to:
+- people who have a thousand things on their TODO lists
+- anyone who is interested in Getting Things Done:
+https://en.wikipedia.org/wiki/Getting_Things_Done&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/Write-the-Docs-LA/events/265804790/"&gt;Write the Docs LA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/265704259/"&gt; &lt;img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 14 Nov 2019 19:00:00 -0800</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2019-11-14:2019/11/14/joint-meetup-with-write-the-docs-la/</guid></item><item><title>SGVTech at PCC Maker Festival</title><link>https://www.sgvlug.org/2019/10/19/sgvtech-at-pcc-maker-festival/</link><description>&lt;p&gt;NOTE: Please RSVP on the PCC Maker Festival Eventbrite!
+https://www.eventbrite.com/e/pasadena-city-college-maker-festival-tickets-75408120719&lt;/p&gt;
+&lt;p&gt;More info here:
+https://www.innovatepasadena.org/events/maker-faire-at-pasadena-city-college&lt;/p&gt;
+&lt;p&gt;As part of Connect Week, SGVTech is exhibiting at the PCC Maker Festival to promote all our subgroups and projects to the Pasadena City College community. There will be other maker groups and businesses as well as the PCC student clubs. There will be rovers, 3D printers, coders, electronics and their awesome Fab Lab. There will also have an exclusive performance by the Blender Boyz - Pasadena’s premier, all-appliance, bad-boy, blender band who will be grinding out their unique machine melodies!&lt;/p&gt;
+&lt;p&gt;Exhibitors include:
+JPL Open Source Rover
+Nonscriptum
+reDiscover Center
+PCC Electronics
+SGV Tech Meetup
+Los Angeles Public Library
+PCC Fab Lab
+She.Codes
+Mesa
+MAKEit 3D
+Microduino
+PCC Motorsports
+and more!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/265704259/"&gt; &lt;img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Sat, 19 Oct 2019 10:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2019-10-19:2019/10/19/sgvtech-at-pcc-maker-festival/</guid></item><item><title>Surprise topic</title><link>https://www.sgvlug.org/2019/10/10/surprise-topic/</link><description>&lt;p&gt;Informal talk by Steven Doran covering various topics
+from a discussion of recent news regarding Project Raven
+to Ada Lovelace.  It was fun.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/zvpphlyznbnb/"&gt; &lt;img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 10 Oct 2019 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2019-10-10:2019/10/10/surprise-topic/</guid></item><item><title>Darktable for beginners: Improving your digital photography</title><link>https://www.sgvlug.org/2019/09/12/darktable-for-beginners-improving-your-digital-photography/</link><description>&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the ubiquity of cameras, photography is everywhere! If you'd like
+to improve the looks of your photographs, post-processing is an
+effective way to give your work the umph and sparkle that they are
+missing. In this talk we'll cover the basics of darktable, a Free
+Software application for processing raw photographs. There will be an
+introduction to some photographic concepts and a tutorial covering the
+basics of the must-use darktable modules.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mica Semrick has been a desktop linux user since 1998. He's been making
+photographs since 1995. In his free time, he's a community manager at
+PIXLS.US, a community centered around Free Software for Photographers.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/zvpphlyzmbqb/"&gt; &lt;img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">SGVLUG</dc:creator><pubDate>Thu, 12 Sep 2019 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.sgvlug.org,2019-09-12:2019/09/12/darktable-for-beginners-improving-your-digital-photography/</guid></item><item><title>The Young Man And The C: Swallowing The Red Pill</title><link>https://www.sgvlug.org/2019/08/08/the-young-man-and-the-c-swallowing-the-red-pill/</link><description>&lt;p&gt;&lt;strong&gt;Note: This is a lightly edited reprise of a &lt;a href="http://www.sgvlug.org/2016/06/09/survival-at-c-swallowing-the-red-pill/"&gt;talk given a few years ago&lt;/a&gt; at LUG&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Many good, experienced high-level language programmers do not learn C or C++
 well until they suddenly need to write an FFI extension, make an emergency
