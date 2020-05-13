@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'SGVLUG'
 SITENAME = u'SGVLUG'
 SITESUBTITLE = u"San Gabriel Valley Linux User's Group"
+ABOUT_ME=u"The SGVLUG meetings are primarily organized on the SGVTech Meetup.  Look for a meeting on the 2nd Thursday of the month, usually in Pasadena.  During the quarantine period, our meetings are virtual.  You can also find us on Slack.  This website is not updated often."
 SITEURL = ''
 
 TIMEZONE = 'US/Pacific'

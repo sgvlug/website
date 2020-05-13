@@ -1,4 +1,4 @@
-Title: About
+Title: History
 Category: info
 
 SGVLUG is one of the oldest and most active Linux User Groups in the Greater Los Angeles area. In addition to Linux, the group also shares interests in other free and open source software, all forms of technology, and the discussion of issues that arise with the these new tools, such as privacy rights. SGVLUG attracts members from throughout LA County including Pasadena, Glendale, Burbank, and eastward throughout the San Gabriel Valley. Our members include software developers, system administrators, hardware engineers, and software users of all levels of experience. Many work in the technology field as employees, contractors or consultants, and enjoy the learning and networking opportunities available from the group. We also have many members that serve as volunteers of their time and skills at various local events, including the annual [Southern California Linux Expo (SCaLE)](https://www.socallinuxexpo.org/).
