@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="https://www.sgvlug.org/" rel="alternate"></link><link href="https://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>https://www.sgvlug.org/</id><updated>2020-05-14T19:00:00-07:00</updated><entry><title>A pragmatic approach to bash scripting</title><link href="https://www.sgvlug.org/2020/05/14/a-pragmatic-approach-to-bash-scripting/" rel="alternate"></link><published>2020-05-14T19:00:00-07:00</published><updated>2020-05-14T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2020-05-14:2020/05/14/a-pragmatic-approach-to-bash-scripting/</id><summary type="html">&lt;p&gt;We are going virtual this month on Google Hangouts Meet. We'll see how things go with this format. If you're new to this platform:
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SGVLUG</title><link href="https://www.sgvlug.org/" rel="alternate"></link><link href="https://www.sgvlug.org/feeds/posts.atom.xml" rel="self"></link><id>https://www.sgvlug.org/</id><updated>2020-07-11T19:00:00-07:00</updated><entry><title>Web Exploits/CDA Section 230 and Free Speech</title><link href="https://www.sgvlug.org/2020/07/11/web-exploitscda-section-230-and-free-speech/" rel="alternate"></link><published>2020-07-11T19:00:00-07:00</published><updated>2020-07-11T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2020-07-11:2020/07/11/web-exploitscda-section-230-and-free-speech/</id><summary type="html">&lt;p&gt;We are continuing to be virtual this month on Google Hangouts Meet. If you're new to this platform:
+https://support.google.com/a/users/answer/9303069&lt;/p&gt;
+&lt;p&gt;The Hangouts Meet link
+&lt;a href="https://meet.google.com/myv-zoid-tgh"&gt;https://meet.google.com/myv-zoid-tgh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please be patient, as Lan may have to approve each connection.
+Please turn on video during introductions. Mute unless you're speaking.&lt;/p&gt;
+&lt;p&gt;This month's topic is informal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A brief survey of web exploits&lt;/strong&gt;
+By Jackie B.&lt;/p&gt;
+&lt;p&gt;Jackie will cover a few basic exploits using PortSwigger Academy for labs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why saving Section 230 is crucial to protecting free speech online&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By Jess Bermudes&lt;/p&gt;
+&lt;p&gt;In recent years, people from all areas of the political sphere have sought to curb the protections provided to online platform operators by Section 230 of the 1996 Communications Decency Act, including most recently a congressional bill that would have hampered end-to-end encryption and an executive order by President Trump to investigate and draft legislation to repeal the act itself. This is a mistake that will severely inhibit free speech online. We'll talk about the history of legislation in this area, common misconceptions about these Internet laws and what we can do to protect a free and open Internet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;6:45 - Introductions, chat&lt;/p&gt;
+&lt;p&gt;7:05 - Announcements.&lt;/p&gt;
+&lt;p&gt;7:15 - Talk starts&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/SGVTech/events/zvpphlybchbsb/"&gt; &lt;img alt="Meetup Event Page" src="https://www.sgvlug.org/images/meetup_logo_45.png" /&gt; &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>A pragmatic approach to bash scripting</title><link href="https://www.sgvlug.org/2020/05/14/a-pragmatic-approach-to-bash-scripting/" rel="alternate"></link><published>2020-05-14T19:00:00-07:00</published><updated>2020-05-14T19:00:00-07:00</updated><author><name>SGVLUG</name></author><id>tag:www.sgvlug.org,2020-05-14:2020/05/14/a-pragmatic-approach-to-bash-scripting/</id><summary type="html">&lt;p&gt;We are going virtual this month on Google Hangouts Meet. We'll see how things go with this format. If you're new to this platform:
 &lt;a href="https://support.google.com/a/users/answer/9303069"&gt;https://support.google.com/a/users/answer/9303069&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Please be patient, as Lan will have to approve each connection.
 Please turn on video during introductions. Mute unless you're speaking.&lt;/p&gt;
